@@ -1,6 +1,10 @@
 #HACKPSU AI Schedule Advisor
 
 cmpsc_courses = {
+
+    # format
+    # course: optional equivalent course, prerequisites, semester
+
     "CMPSC 131": ["MATH 140-c"],  # Introduction to Programming with Python
     "CMPSC 132": ["CMPSC 131"],  # Advanced Programming with Python
     "CAS 100 A/B": [],  # Effective Speech
@@ -24,8 +28,8 @@ cmpsc_courses = {
     "CMPEN 270": ["PHYS 212-c"],  # Digital Design: Theory and Practice
     "CMPEN 331": ["CMPEN 270", "CMPSC 131"],  # Computer Organization and Design
     "CMPSC 473": ["CMPSC 311", "CMPEN 331"],  # Operating Systems Design and Construction
-    "CMPSC 431W or CMPSC 483W": ["CMPSC 465"],  # Database Design or Software Design
-    "GEN ED": [],  # General Education Courses
+    "CMPSC 483W": ["-CMPSC 431W","CMPSC 465"],  # Software Design
+    "CMPSC 431W": ["-CMPSC 483W","CMPSC 221", "ENGL 202C"], # Database Management Systems
     "NATURAL SCIENCE ELECTIVE (GN)": [],  # Natural Science Elective
     "FOREIGN LANGUAGE Level 2 Proficiency": [],  # Second level proficiency in a foreign language
     "COMPUTER SCIENCE ELECTIVE": [],  # Elective courses in Computer Science
@@ -35,6 +39,24 @@ cmpsc_courses = {
     "GHW": [],  # General Health and Wellness
 }
 
+class GeneralEducation:
+    
+    def __init__(self):
+        self.dictionary = {
+            'GQ': [0, 6],
+            'GWS': [0, 9],
+            'GA': [0, 3],
+            'GHW': [0, 3],
+            'GH': [0, 3],
+            'GS': [0, 3],
+            'GN': [0, 6],
+            'Inter-Domain': [0, 6],
+            'World-Language': [0, 6]
+        }
+
+    def add(self, category):
+        
+        pass
 
 class ComputerScienceDegree:
 
