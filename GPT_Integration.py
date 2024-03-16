@@ -1,12 +1,13 @@
 from openai import OpenAI 
+client = OpenAI(api_key = "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")
+prompt = input("User : ") 
 
-OpenAI.my_api_key = 'YOUR_API_KEY'
-client = OpenAI()
-
-completion = client.chat.completions.create(
-  model="gpt-3.5-turbo",
-  messages=[
-    {"role": "system", "content": "You are a helpful assistant."},
-    {"role": "user", "content": "What are some famous astronomical observatories?"}
-  ]
+chat_completion = client.chat.completions.create(
+    messages=[
+        {"role": "system", "content": "You are a Penn State Engineering Advisor."},
+        {"role": "user", "content": prompt}
+    ],
+    model = "gpt-3.5-turbo"
 )
+
+print(chat_completion.choices[0].message.content)
