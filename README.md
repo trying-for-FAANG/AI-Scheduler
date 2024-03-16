@@ -1,2 +1,2 @@
-# AI-Scheduler-Backend
-Backend for the AI Scheduler
+# AI-Scheduler
+Implementation for the AI Scheduler
