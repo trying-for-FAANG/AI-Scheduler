@@ -13,6 +13,7 @@ Lion's Advisor is a tool that students can use to see their potential schedules 
     <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;&nbsp;&nbsp;
     <img width=50px src="https://static.vecteezy.com/system/resources/previews/021/495/993/original/chatgpt-openai-logo-icon-free-png.png">&nbsp;&nbsp;&nbsp;
     <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+    <img width=50px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HVNHQmF6XqXS0xqpvfcJFY3cQIAQEB3XmJ_edOZdMQ&s">&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Inspiration
