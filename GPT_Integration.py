@@ -16,7 +16,6 @@ preferences = 'None'
 courses_str = json.dumps(Flowchart.cmpsc_courses, indent=2)
 gen_ed_str = json.dumps(Flowchart.general_education, indent=2)
 cmpsc_electives_str = json.dumps(Flowchart.CMPSC_Electives, indent=2)
-four_credit_str = json.dumps(Flowchart.four_credit, indent=4)
 priority_str = json.dumps(Flowchart.priority, indent=4)
 difficulties = "1 for easy, 2 for medium, and 3 for hard"
 
