@@ -35,11 +35,12 @@ This dictionary contains computer science courses along with their concurrent co
 A list of courses that have already been taken\n\
 - **Semesters**: {semester}\n\
 The number of semesters already taken.
-- **Four Credit Courses**: {four_credit_str}\n\
-A list of courses that are worth 4 credits each.\n\
+- **Credit Values**: Credit key's value in course value\n\
+A list of courses and their credit value.\n\
 \n\
 - **Priority Courses**: {priority_str}\n\
 A list of courses that should be prioritized in the student's schedule.\n\
+Include the course: CMPSC 111 in the student's semester 1.\n\
 \n\
 - **General Education Requirements**: {gen_ed_str}\n\
 A dictionary outlining the credits required for general education categories.\n\
