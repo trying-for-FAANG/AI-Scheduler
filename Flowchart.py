@@ -12,7 +12,7 @@ cmpsc_courses = {
     "MATH 140": {'Concurrent': [], 'Prereq': [], 'Difficulty': '1', 'Credit': '4'},  # Calculus With Analytic Geometry I
     "CMPSC 111": {'Concurrent': [], 'Prereq': [], 'Difficulty': '1', 'Credit': '1'},  # Introductory Seminar in Computer Science
     "MATH 141": {'Concurrent': [], 'Prereq': ['MATH 140'], 'Difficulty': '2', 'Credit': '4'},  # Calculus With Analytic Geometry II
-    "CMPSC 221": {'Concurrent': [], 'Prereq': ['CMPSC 132'], 'Difficulty': '1' 'Credit': '3'},  # Object Oriented Programming with Web-Based Applications
+    "CMPSC 221": {'Concurrent': [], 'Prereq': ['CMPSC 132'], 'Difficulty': '1', 'Credit': '3'},  # Object Oriented Programming with Web-Based Applications
     "MATH 220": {'Concurrent': [], 'Prereq': ['MATH 140'], 'Difficulty': '1', 'Credit': '3'},  # Matrices
     "CMPSC 311": {'Concurrent': [], 'Prereq': ['CMPSC 221'], 'Difficulty': '3', 'Credit': '3'},  # Introduction to Systems Programming
     "CMPSC 465": {'Concurrent': [], 'Prereq': ['CMPSC 360'], 'Difficulty': '3', 'Credit': '3'},  # Data Structures and Algorithms
