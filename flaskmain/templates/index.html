@@ -25,20 +25,16 @@
       <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#0077B6] to-[#E1F1FA] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
     </div>
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-      <!-- <div class="hidden sm:mb-8 sm:flex sm:justify-center">
-        <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-          Beta testing coming soon. <a href="#" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span>Sign Up <span aria-hidden="true">&rarr;</span></a>
-        </div>
-      </div> -->
+      
       <div class="text-center">
-        <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">LionPath Better Advisor</h1>
-        <p class="mt-6 text-lg leading-8 text-gray-600">Penn State Advisors are trash. So we're replacing them.</p>
+        <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Lion's Advisor</h1>
+        <p class="mt-6 text-lg leading-8 text-gray-600">Penn State's advisors have been deemed ineffective. Consequently, we are substituting them with AI-based solutions.</p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
-        <a href="overview" class="rounded-md bg-blue-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Get started</a>
+        <a href="#inquiry" class="rounded-md bg-blue-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Ask Now</a>
 
           <!--<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>-->
         </div>
-        <a href="#about" class="absolute sm:mt-8 lg:mt-16 bottom-6 left-1/2 transform -translate-x-1/2 text-gray-600 hover:text-gray-900 transition duration-300">
+        <a href="#inquiry" class="absolute sm:mt-8 lg:mt-32 left-1/2 transform -translate-x-1/2 text-gray-600 hover:text-gray-900 transition duration-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down text-gray-900 bobbing-svg" width="50" height="50" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
             <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
             <path d="M6 9l6 6l6 -6"></path>
@@ -55,7 +51,62 @@
     </div>
   </div>
 
-  <div id = "about" class="overflow-hidden bg-white py-24 sm:py-32">
+  <div>
+
+
+  </div>
+  <div id = "inquiry" class="overflow-hidden bg-white py-2 sm:py-32">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <h2 class="text-3xl text-center font-semibold leading-7 text-blue-900 py-6">Enter your Inquiry.</h2>
+        
+        <form class = "mt-10" action="" method="POST">
+          {{ form.csrf_token }}
+          <div class = "text-center" action="">
+            <label>Choose a major:</label>
+            <select name = "major" class = "rounded-md">
+              <option value="computer science">Computer Science</option>
+              <option value="finance">Finance</option>
+              <option value="economics">Economics</option>
+              <option value="mechanical engineering">Mechanical Engineering</option>
+            </select>
+            <br><br>
+          </div>
+
+          <div class = "text-center" action="">
+            <label>Current Semester:</label>
+            <select name = "semester" class = "rounded-md">
+              <option value="freshmanfall">Freshman Fall</option>
+              <option value="freshmanspring">Freshman Spring</option>
+              <option value="sophmorefall">Sophmore Fall</option>
+              <option value="sophmorespring">Sophmore Spring</option>
+              <option value="juniorfall">Junior Fall</option>
+              <option value="juniorspring">Junior Spring</option>
+              <option value="senirofall">Senior Fall</option>
+              <option value="seniorspring">Senior Spring</option>
+            </select>
+            <br><br>
+          </div>
+          
+          <div class="md:mx-72 sm:mx-auto">
+            <label for="message" class="block text-sm font-semibold leading-6 text-gray-900">Enter your advising problem.</label>
+            <div class="mt-2.5">
+              <textarea name="message" id="message" rows="4" class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-blue-900 sm:text-sm sm:leading-6"></textarea>
+            </div>
+          </div>
+
+          <div class="flex items-center justify-center gap-x-6 mt-6">
+            <button type="submit" class="px-6 flex justify-center rounded-md bg-blue-900 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-blue-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Submit</button>
+          </div>
+
+        </form>
+        
+
+          
+          
+    </div>
+  </div>
+
+  <div id = "about" class="overflow-hidden bg-white py-12 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div class="lg:pr-8 lg:pt-4">
@@ -87,7 +138,7 @@
         </div>
         <!-- <img src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png" alt="Product screenshot" class="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0" width="2432" height="1442"> -->
         <!-- <img src="../images/aboutbanner.png" alt="Product screenshot" class="rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0" width="2432" height="1442"> -->
-        <img src="{{url_for('static',filename='images/aboutbanner.png')}}" alt="Product screenshot" class="sm:w-[57rem] md:-ml-4 lg:-ml-0" width="2432" height="1442">
+        <img src="{{url_for('static',filename='images/lp.png')}}" alt="Product screenshot" class="rounded-lg sm:w-[57rem] md:-ml-4 lg:-ml-0" width="2432" height="1442">
 
       </div>
     </div>
@@ -120,7 +171,7 @@
           </a>
     
         </div>
-        <p class="mt-8 text-center text-xs leading-5 text-gray-500 md:order-1 md:mt-0">&copy; 2023 TotalFinance. All rights reserved.</p>
+        <p class="mt-8 text-center text-xs leading-5 text-gray-500 md:order-1 md:mt-0">&copy; 2024. All rights reserved.</p>
       </div>
     </div>
   </footer>
