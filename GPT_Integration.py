@@ -34,7 +34,7 @@ This dictionary contains computer science courses along with their concurrent co
 A list of courses that have already been taken\n\
 - **Semesters**: {semester}\n\
 The number of semesters already taken.
-- **Credit Values**: Credit key's value in course value\n\
+- **Credit Values**: The key: credit, will represent the credit value of a course\n\
 A list of courses and their credit value.\n\
 \n\
 - **Priority Courses**: {priority_str}\n\
