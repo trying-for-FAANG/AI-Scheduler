@@ -1,5 +1,4 @@
 #HACKPSU AI Schedule Advisor
-
 cmpsc_courses = {
 
     # format
@@ -40,7 +39,7 @@ cmpsc_courses = {
 }
 
 class GeneralEducation:
-    
+
     def __init__(self):
         self.dictionary = {
             'GQ': [0, 6],
@@ -53,10 +52,6 @@ class GeneralEducation:
             'Inter-Domain': [0, 6],
             'World-Language': [0, 6]
         }
-
-    def add(self, category):
-        
-        pass
 
 class ComputerScienceDegree:
 
