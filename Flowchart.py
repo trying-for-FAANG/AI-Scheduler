@@ -39,8 +39,9 @@ cmpsc_courses = {
 
 four_credit = ["MATH 140", 'MATH 141', 'PHYS 211', 'MATH 230', 'CMPEN 270', 'PHYS 212', 'Foreign Language']
 
+priorty = ['CMPSC 131', 'CMPSC 132', 'MATH 140', 'MATH 141', 'PHYS 211', 'ENG 015']
+
 general_education = {
-            'GQ': 6,
             'GWS': 9,
             'GA': 3,
             'GHW': 3,
@@ -74,5 +75,5 @@ CMPSC_Electives = {
 
 
 
-gened_cred = 45
-major_cred = 82
+gened_cred = '45'
+major_cred = '82'
