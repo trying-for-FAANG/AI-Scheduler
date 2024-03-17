@@ -36,15 +36,7 @@ four_credit = ["MATH 140", 'MATH 141', 'PHYS 211', 'MATH 230', 'CMPEN 270', 'PHY
 priority = ['CMPSC 131', 'CMPSC 132', 'MATH 140', 'MATH 141', 'PHYS 211', 'ENG 015', 'PHYS 212', 'CMPEN 270', 'CMPSC 221', 'CMPSC 360']
 
 general_education = {
-            'GWS': 9,
-            'GA': 3,
-            'GHW': 3,
-            'GH': 3,
-            'GS': 3,
-            'GN': 9,
-            'Inter-Domain': 6,
-            'World-Language': 6,
-            'Non-CMPSC 400': 6,
+            'General Education': 45,
             'Department (Engineering) Electives': 10,
             'CMPSC_Electives': 6
         }
