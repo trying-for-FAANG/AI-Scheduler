@@ -1,7 +1,12 @@
 from openai import OpenAI
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+My_API_KEY = os.getenv('MY_API_KEY')
 import Flowchart
 
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = My_API_KEY)
 
 semester = 0
 taken_courses = 'hi'
