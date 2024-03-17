@@ -1,11 +1,14 @@
 from openai import OpenAI 
-client = OpenAI(api_key = "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")
+import os
+import Flowchart as fc
+client = OpenAI(api_key = "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")
+print(fc.cmpsc_courses)
 prompt = input("User : ") 
 
 chat_completion = client.chat.completions.create(
     messages=[
         {"role": "system", "content": "You are a Penn State Engineering Advisor."},
-        {"role": "system", "content": dict_name},
+        {"role": "system", "content": fc.cmpsc_courses},
         {"role": "system", "content": "This is a list of all Penn State Computer Science courses and prerequisites."},
         {"role": "user", "content": prompt}
     ],
