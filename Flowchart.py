@@ -31,7 +31,6 @@ cmpsc_courses = {
     "CMPSC 483W": {'Concurrent': [], 'Prereq': ['CMPSC 465'], 'Difficulty': '1', 'Interchange': ['CMPSC 431W'], 'Credit': '3'},  # Software Design
     "CMPSC 431W": {'Concurrent': [], 'Prereq': ['ENGL 202C', 'CMPSC 221'], 'Difficulty': '1', 'Interchange': ['CMPSC 483W'], 'Credit': '3'} # Database Management Systems
 }
-four_credit = ["MATH 140", 'MATH 141', 'PHYS 211', 'MATH 230', 'CMPEN 270', 'PHYS 212', 'Foreign Language']
 
 priority = ['CMPSC 131', 'CMPSC 132', 'MATH 140', 'MATH 141', 'PHYS 211', 'ENG 015', 'PHYS 212', 'CMPEN 270', 'CMPSC 221', 'CMPSC 360']
 
