@@ -1,4 +1,5 @@
 #HACKPSU AI Schedule Advisor
+
 cmpsc_courses = {
 
     # format
@@ -29,39 +30,49 @@ cmpsc_courses = {
     "CMPSC 473": ["CMPSC 311", "CMPEN 331"],  # Operating Systems Design and Construction
     "CMPSC 483W": ["-CMPSC 431W","CMPSC 465"],  # Software Design
     "CMPSC 431W": ["-CMPSC 483W","CMPSC 221", "ENGL 202C"], # Database Management Systems
-    "NATURAL SCIENCE ELECTIVE (GN)": [],  # Natural Science Elective
-    "FOREIGN LANGUAGE Level 2 Proficiency": [],  # Second level proficiency in a foreign language
-    "COMPUTER SCIENCE ELECTIVE": [],  # Elective courses in Computer Science
-    "CMPSC / CMPEN 4XX": [],  # Advanced-level Computer Science / Computer Engineering courses
-    "DEPARTMENT LIST ELECTIVE": [],  # Elective courses listed by the department
-    "SUPPORTING COURSE": [],  # Courses that support the major
-    "GHW": [],  # General Health and Wellness
+  #  "NATURAL SCIENCE ELECTIVE (GN)": [],  # Natural Science Elective
+ #  "FOREIGN LANGUAGE Level 2 Proficiency": [],  # Second level proficiency in a foreign language
+  #  "COMPUTER SCIENCE ELECTIVE": [],  # Elective courses in Computer Science
+  #  "CMPSC / CMPEN 4XX": [],  # Advanced-level Computer Science / Computer Engineering courses
+  #  "DEPARTMENT LIST ELECTIVE": []  # Elective courses listed by the department
 }
 
-class GeneralEducation:
+four_credit = ["MATH 140", 'MATH 141', 'PHYS 211', 'MATH 230', 'CMPEN 270', 'PHYS 212', 'Foreign Language']
 
-    def __init__(self):
-        self.dictionary = {
-            'GQ': [0, 6],
-            'GWS': [0, 9],
-            'GA': [0, 3],
-            'GHW': [0, 3],
-            'GH': [0, 3],
-            'GS': [0, 3],
-            'GN': [0, 6],
-            'Inter-Domain': [0, 6],
-            'World-Language': [0, 6]
+general_education = {
+            'GQ': 6,
+            'GWS': 9,
+            'GA': 3,
+            'GHW': 3,
+            'GH': 3,
+            'GS': 3,
+            'GN': 9,
+            'Inter-Domain': 6,
+            'World-Language': 6,
+            'Non-CMPSC 400': 6,
+            'Department (Engineering) Electives': 10,
+            'CMPSC_Electives': 6
         }
 
-class ComputerScienceDegree:
+CMPSC_Electives = {
+    'CMPEN 362': {'Description': "Communication Networks", 'Prereq': ['CMPEN 270', 'STAT 318-c']},
+    'CMPEN 431': {'Description': 'Introduction to Computer Architecture', 'Prereq': ['CMPEN 331']},
+    'CMPEN 454': {'Description': 'Fundamentals of Computer Vision', 'Prereq': ['MATH 230', 'MATH 220']},
+    'CMPSC 442': {'Description': 'Artificial Intelligence', 'Prereq': ['CMPSC 221', 'CMPSC 465-c']},
+    'CMPSC 443': {'Description': 'Introduction to Computer and Network Security', 'Prereq': ['CMPEN 362', 'CMPSC 473-c']},
+    'CMPSC 444': {'Description': 'Secure Programming', 'Prereq': ['CMPSC 221']},
+    'CMPSC 450': {'Description': 'Concurrent Scientific Programming', 'Prereq': ['CMPSC 131', 'MATH 220', 'MATH 230']},
+    'CMPSC 451': {'Description': 'Numeric Computations', 'Prereq': ['CMPSC 131, MATH 230']},
+    'CMPSC 455': {'Description': 'Introduction to Numerical Analysis I', 'Prereq': ['CMPSC 131', 'MATH 220', 'MATH 230']},
+    'CMPSC 456': {'Description': 'Introduction to Nuneriacal Analysis II', 'Prereq': ['MATH 455']},
+    'CMPSC 458': {'Description': 'Fundamentals of Computer Graphics', 'Prereq': ['CMPSC 311', 'MATH 220', 'MATH 230']},
+    'CMPSC 467': {'Description': 'Factorization and Primality Testing', 'Prereq': ['CMPSC 360']},
+    'CMPSC 471': {'Description': 'Introductions to Compiler Construction', 'Prereq': ['CMPSC 461']},
+    'CMPSC 475': {'Description': 'Applications Programming', 'Prereq': ['CMPSC 221', 'CMPSC 311', 'CMPSC 465']},
+    'EE 456': {'Description': 'Introduction to Neural Networks', 'Prereq': ['CMPSC 131', 'MATH 220']},
+}
 
-    def __init__(self):
-        self.gened_cred = 45
-        self.major_cred = 106
-        self.required = []
-        for key in cmpsc_courses:
-            self.required.append(key)
-        print(self.required)
 
-if __name__ == '__main__':
-    c = ComputerScienceDegree()
+
+gened_cred = 45
+major_cred = 82
