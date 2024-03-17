@@ -1,19 +1,5 @@
 {% extends "layout.html" %}
     
-
-<!-- 
-  TAILWIND RUN
-  npx tailwindcss -i ./css/input.css -o ./css/output.css --watch   
-  npx tailwindcss -i css/input.css -o css/output.css --watch
-
-  new w flask
-  npx tailwindcss -i ./static/css/input.css -o ./static/css/output.css --watch
-
-
-  npm install flowbite
-  npm install apexcharts --save
-  SVGS: https://tabler-icons.io/
--->
 {% block content %}
 
 
@@ -55,11 +41,14 @@
 
 
   </div>
-  <div id = "inquiry" class="overflow-hidden bg-white py-2 sm:py-32">
+
+  
+
+  <div id = "inquiry" class="overflow-hidden bg-white py-2 sm:py-16">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <h2 class="text-3xl text-center font-semibold leading-7 text-blue-900 py-6">Enter your Inquiry.</h2>
         
-        <form class = "mt-10" action="" method="POST">
+        <form class = "mt-6" action="" method="POST">
           {{ form.csrf_token }}
           <div class = "text-center" action="">
             <label>Choose a major:</label>
@@ -75,58 +64,26 @@
           <div class = "text-center" action="">
             <label>Current Semester:</label>
             <select name = "semester" class = "rounded-md">
-              <option value="freshmanfall">Freshman Fall</option>
-              <option value="freshmanspring">Freshman Spring</option>
-              <option value="sophmorefall">Sophmore Fall</option>
-              <option value="sophmorespring">Sophmore Spring</option>
-              <option value="juniorfall">Junior Fall</option>
-              <option value="juniorspring">Junior Spring</option>
-              <option value="senirofall">Senior Fall</option>
-              <option value="seniorspring">Senior Spring</option>
+              <option value="1">Freshman Fall</option>
+              <option value="2">Freshman Spring</option>
+              <option value="3">Sophmore Fall</option>
+              <option value="4">Sophmore Spring</option>
+              <option value="5">Junior Fall</option>
+              <option value="6">Junior Spring</option>
+              <option value="7">Senior Fall</option>
+              <option value="8">Senior Spring</option>
             </select>
             <br><br>
           </div>
-
-
-          <div class = "text-center" action="">
-            <label>Transfer Credits:</label>
-            <form>
-              <ul>
-                <li>                  
-                  <input type="checkbox" id="class1" name="class1" value="CSA">
-                  <label for="class1">AP CSA</label><br>
-                </li>
-                <li>
-                  <input type="checkbox" id="class2" name="class2" value="Calc AB">
-                  <label for="class2">AP Calculus AB</label><br>
-                </li>
-                <li>
-                  <input type="checkbox" id="class3" name="class3" value="Calc BC">
-                  <label for="class3">AP Calculus BC</label><br>
-                </li>
-                <li>
-                  <input type="checkbox" id="class4" name="class4" value="Phys Mech">
-                  <label for="class4">AP Physics C: Mechanics</label><br>
-                </li>
-                <li>
-                  <input type="checkbox" id="class5" name="class5" value="Phys EandM">
-                  <label for="class5">Ap Physics C: Electricity and Magnetism</label><br>
-                  <br><br>
-                </li>
-              </ul>
-          </form>
-
-          </div>          
-          
           <div class="md:mx-72 sm:mx-auto">
-            <label for="message" class="block text-sm font-semibold leading-6 text-gray-900">Enter your advising problem.</label>
+            <label for="classes" class="block text-sm font-semibold leading-6 text-gray-900">Please provide a list of all PSU courses you've completed.</label>
             <div class="mt-2.5">
-              <textarea name="message" id="message" rows="4" class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-blue-900 sm:text-sm sm:leading-6"></textarea>
+              <textarea name="classes" id="message" rows="4" class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-blue-900 sm:text-sm sm:leading-6"></textarea>
             </div>
           </div>
 
-          <div class="md:mx-72 sm:mx-auto">
-            <label for="message" class="block text-sm font-semibold leading-6 text-gray-900">Enter the courses that you have already completed.</label>
+          <div class="md:mx-72 mt-6 sm:mx-auto">
+            <label for="message" class="block text-sm font-semibold leading-6 text-gray-900">Please describe your advising inquiry or issue.</label>
             <div class="mt-2.5">
               <textarea name="message" id="message" rows="4" class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-blue-900 sm:text-sm sm:leading-6"></textarea>
             </div>
@@ -149,27 +106,27 @@
       <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div class="lg:pr-8 lg:pt-4">
           <div class="lg:max-w-lg">
-            <h2 class="text-base font-semibold leading-7 text-blue-900">Blah blah blah</h2>
-            <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Integrated into lionpath</p>
-            <p class="mt-6 text-lg leading-8 text-gray-600">We use AI to help plan classes</p>
+            <h2 class="text-base font-semibold leading-7 text-blue-900">Features & Tools</h2>
+            <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Lionpath Integration</p>
+            <p class="mt-6 text-lg leading-8 text-gray-600">We use AI to assess class difficulty and plan accordingly.</p>
             <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
               <div class="relative pl-9">
                 <dt class="inline font-semibold text-gray-900">
                   <svg  xmlns="http://www.w3.org/2000/svg"  class="absolute left-1 top-1 h-5 w-5 text-blue-900" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12l5 5l10 -10" />
                   </svg>
-                  Plan your classes:
+                  Plan Your 4 Year Major Plan:
                 </dt>
-                <dd class="inline">Dont be lost.</dd>
+                <dd class="inline">Customize your experience and input classes that you have already taken.</dd>
               </div>
               <div class="relative pl-9">
                 <dt class="inline font-semibold text-gray-900">
                 <svg  xmlns="http://www.w3.org/2000/svg"  class="absolute left-1 top-1 h-5 w-5 text-blue-900" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12l5 5l10 -10" />
                     </svg>
-                  Better than ur penn state advisors:
+                  Gen Ed Tool:
                 </dt>
-                <dd class="inline">this ai is better</dd>
+                <dd class="inline"><a href = "https://genedplan.psu.edu/" class = "text-blue-900 hover:text-blue-700">Plan your Gen Eds</a></dd>
               </div>
             </dl>
           </div>

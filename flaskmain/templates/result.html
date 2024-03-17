@@ -1,0 +1,114 @@
+{% extends "layout.html" %}
+{% block content %}
+
+
+  
+  <!-- hero -->
+  <div class="relative isolate px-6 pt-14 lg:px-8">
+    <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true"> #041E42
+      <!-- <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#0077B6] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div> -->
+      <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#0077B6] to-[#E1F1FA] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+    <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+      
+    
+      <div class="text-center">
+        <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Lion's Advisor Answer</h1>
+        <p class="mt-6 text-lg leading-8 text-gray-600"></p>
+        
+        <!-- #TABLE -->
+        <div class = "bg-white">
+          <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div class="sm:flex sm:items-center">
+              <div class="sm:flex-auto">
+                <h1 class="text-base text-center font-semibold leading-6 text-gray-900">Semester Class Schedule</h1>
+              </div>
+            </div>
+          </div>
+          <div class="mt-8 flow-root overflow-hidden">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+              <table class="w-full text-left">
+                <thead class="bg-white text-center">
+                  <tr>
+                    <th scope="col" class="text-center relative isolate py-3.5 pr-3 text-left text-sm font-semibold text-gray-900">
+                      Semester
+                      <div class="absolute inset-y-0 right-full -z-10 w-screen border-b border-b-gray-200"></div>
+                      <div class="absolute inset-y-0 left-0 -z-10 w-screen border-b border-b-gray-200"></div>
+                    </th>
+                    <th scope="col" class="hidden text-center px-3 py-3.5 text-left text-sm font-semibold text-gray-900 sm:table-cell">Class</th>
+
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for key, value in data.items() %}
+                  <tr>
+                    <td class="relative text-center py-4 pr-3 text-sm font-medium text-gray-900">
+                      {{ key | replace('\'', '') | replace('[', '') | replace(']', '') }}
+                    </td>
+                    <td class="hidden text-center px-3 py-4 text-sm text-gray-500 sm:table-cell">{{ value }}</td>
+                  
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="mt-10 flex items-center justify-center gap-x-6">
+        <div>
+          <a href="home" class="rounded-md bg-blue-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Ask Again</a>
+        </div>
+          <!--<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>-->
+        </div>
+        </a>
+      </div>
+
+      </div>
+    </div>
+    <div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true">
+      <div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#0077B6] to-[#1893F8] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+    </div>
+  </div>
+
+  <div>
+
+
+  </div>
+  
+
+
+  <footer class="bg-white" aria-labelledby="footer-heading">
+    <h2 id="footer-heading" class="sr-only">Footer</h2>
+    <!-- sm:pt-24 lg:px-8 lg:pt-32 -->
+    <div class="mx-auto max-w-7xl px-6 pb-8 pt-6 sm:pt-6 lg:px-8 lg:pt-6">
+      <!-- sm:pt-8 -->
+      <div class="border-t border-gray-900/10 pt-8 sm:mt-8 md:flex md:items-center md:justify-between">
+        <div class="flex justify-center space-x-6 md:order-2">
+          <p class=" text-gray-500 font-semibold  md:mt-0">Contact Us:</p>
+              
+          <a href="#EMAIL" class="text-gray-400 hover:text-gray-500">
+            <span class="sr-only">Email</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z"></path>
+              <path d="M3 7l9 6l9 -6"></path>
+            </svg>
+          </a>
+          <a href="tel:+1 (774) 275-4907" class="text-gray-400 hover:text-gray-500">
+            <span class="sr-only">Phone</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-phone" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2"></path>
+            </svg> 
+          </a>
+    
+        </div>
+        <p class="mt-8 text-center text-xs leading-5 text-gray-500 md:order-1 md:mt-0">&copy; 2024. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+
+{% endblock content %}
