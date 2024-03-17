@@ -38,7 +38,7 @@ Exactly how to implement AI into projects and that brainstorming ideas is a lot 
 ## What's next for Lion's Advisor
 We will try to implement all the majors at Penn State, so that the whole school can work seamlessly. Once that is implemented, we will look into scaling into other universities so that course scheduling can stop being a hassle for everyone.
 
-## Creators of MonkeyStock
+## Creators of Lion's Advisor
 [Elijah Tharakan](https://github.com/darthkittie)
 
 [Eric Feng](https://github.com/Eric1K)
