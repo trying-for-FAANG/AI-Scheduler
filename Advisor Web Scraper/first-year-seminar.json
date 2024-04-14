@@ -1,0 +1,502 @@
+{
+    "AE 124": {
+        "description": "Architectural Engineering Orientation",
+        "credits": "1"
+    },
+    "AED 101S": {
+        "description": "Introduction to Art Education",
+        "credits": "3"
+    },
+    "AERSP 1": {
+        "description": "Aerospace Explorer--First-Year Seminar",
+        "credits": "1"
+    },
+    "AFAM 83": {
+        "description": "First-Year Seminar in African American Studies ",
+        "credits": "3"
+    },
+    "AG 150": {
+        "description": "Be a Master Student!",
+        "credits": "2"
+    },
+    "AGSC 100": {
+        "description": "AESE First Year Seminar",
+        "credits": "1"
+    },
+    "AMST 83": {
+        "description": "First-Year Seminar in American Studies",
+        "credits": "3"
+    },
+    "ANSC 110": {
+        "description": "Contemporary Issues in Animal Biotechnology and Society",
+        "credits": "1"
+    },
+    "ANSC 150S": {
+        "description": "Animal Science Freshman Seminar",
+        "credits": "2"
+    },
+    "ANTH 83S": {
+        "description": "First-Year Seminar in Anthropology ",
+        "credits": "3"
+    },
+    "APLNG 83": {
+        "description": "First-Year Seminar in Applied Linguistics: Language as Social Practice ",
+        "credits": "3"
+    },
+    "ARCH 131": {
+        "description": "Basic Design Studio I",
+        "credits": "4"
+    },
+    "ART 11": {
+        "description": "First-Year Seminar- School of Visual Arts",
+        "credits": "1"
+    },
+    "ARTH 1S": {
+        "description": "First-Year Seminar in Art History ",
+        "credits": "3"
+    },
+    "ASIA 83S": {
+        "description": "Asian Studies First Year Seminar ",
+        "credits": "3"
+    },
+    "ASTRO 20": {
+        "description": "First-Year Astronomy Seminar",
+        "credits": "2"
+    },
+    "BA 100S": {
+        "description": "Introduction to Business ",
+        "credits": "3"
+    },
+    "BBH 102S": {
+        "description": "Values, Health, & Academic Success ",
+        "credits": "3"
+    },
+    "BBH 123S": {
+        "description": "First-Year Seminar in Biobehavioral Health",
+        "credits": "1"
+    },
+    "BBH 148": {
+        "description": "Coping with College:  A First Year Transition Seminar",
+        "credits": "2"
+    },
+    "BE 1": {
+        "description": "Growing Your Future--First-Year Seminar",
+        "credits": "1"
+    },
+    "BIOL 110S": {
+        "description": "Biology:  Basic Concepts and Biodiversity",
+        "credits": "4"
+    },
+    "BMB 205S": {
+        "description": "Course-Based Research Experience in Biochemistry and Molecular Biology FYS",
+        "credits": "3"
+    },
+    "BME 100": {
+        "description": "Biomedical Engineering Seminar",
+        "credits": "1"
+    },
+    "CAMS 83Y": {
+        "description": "First-Year Seminar in Classics and Ancient Mediterranean Studies ",
+        "credits": "3"
+    },
+    "CAP 100": {
+        "description": "Orientation to the Undergraduate Experience",
+        "credits": "1"
+    },
+    "CAS 83": {
+        "description": "First-Year Seminar in Communication Arts and Sciences ",
+        "credits": "3"
+    },
+    "CAS 84": {
+        "description": "First-Year Seminar in Communication Arts and Sciences ",
+        "credits": "3"
+    },
+    "CAS 100S": {
+        "description": "Effective Speech ",
+        "credits": "3"
+    },
+    "CAS 138T": {
+        "description": "Rhetoric and Civic Life II ",
+        "credits": "3"
+    },
+    "CE 100S": {
+        "description": "Topics and Contemporary Issues in Civil and Environmental Engineering:     First-Year Seminar",
+        "credits": "1"
+    },
+    "CHE 100": {
+        "description": "Exploring Chemical Engineering First-Year Seminar",
+        "credits": "1"
+    },
+    "CMLIT 83S": {
+        "description": "First-Year Seminar in Comparative Literature ",
+        "credits": "3"
+    },
+    "CMPEN 111": {
+        "description": "Computers and Computer Hardware",
+        "credits": "1"
+    },
+    "CMPSC 111": {
+        "description": "Logic for Computer Science",
+        "credits": "1"
+    },
+    "CYBER 100S": {
+        "description": "Computer Systems Literacy",
+        "credits": "3"
+    },
+    "EDSGN 11": {
+        "description": "Explorations in Design First-Year Seminar",
+        "credits": "1"
+    },
+    "EDSGN 13": {
+        "description": "Ethics of Star Trek First-Year Seminar",
+        "credits": "1"
+    },
+    "EDSGN 100S": {
+        "description": "Introduction to Engineering Design",
+        "credits": "3"
+    },
+    "EDTHP 115S": {
+        "description": "Competing Rights: Issues in American Education ",
+        "credits": "3"
+    },
+    "EDUC 100": {
+        "description": "First-Year Seminar in Education",
+        "credits": "1-3"
+    },
+    "EE 8": {
+        "description": "Introduction to Digital Music",
+        "credits": "1"
+    },
+    "EE 9": {
+        "description": "First-Year Seminar in Electrical Engineering",
+        "credits": "1"
+    },
+    "EET 2": {
+        "description": "Introduction to Engineering Technology",
+        "credits": "1"
+    },
+    "EMSC 100S": {
+        "description": "Earth and Mineral Sciences First-Year Seminar ",
+        "credits": "3"
+    },
+    "ENGL 15S": {
+        "description": "Rhetoric and Composition ",
+        "credits": "3"
+    },
+    "ENGL 30T": {
+        "description": "Honors Freshman Composition First-Year Seminar ",
+        "credits": "3"
+    },
+    "ENGL 83S": {
+        "description": "First-Year Seminar in English ",
+        "credits": "3"
+    },
+    "ENGL 138T": {
+        "description": "Rhetoric and Civic Life II ",
+        "credits": "3"
+    },
+    "ENGL 194S": {
+        "description": "Women Writers ",
+        "credits": "3"
+    },
+    "ENGR 100": {
+        "description": "Introduction to Engineering",
+        "credits": "1"
+    },
+    "ENGR 192": {
+        "description": "Millennium Scholars First-Year Seminar",
+        "credits": "1"
+    },
+    "ERM 150S": {
+        "description": "ERM First Year Engagement",
+        "credits": "1"
+    },
+    "ESC 120": {
+        "description": "Design for Failure--First-Year Seminar",
+        "credits": "1"
+    },
+    "ESC 121": {
+        "description": "Science/Engineering Fiction and the Engineering Sciences--First-Year       Seminar",
+        "credits": "1"
+    },
+    "ESC 122": {
+        "description": "Weird, Wild, and Wonderful Materials and Devices--First-Year Seminar",
+        "credits": "1"
+    },
+    "FDSC 150S": {
+        "description": "Food Science First Year Engagement",
+        "credits": "2"
+    },
+    "FOR 150S": {
+        "description": "First-Year Seminar",
+        "credits": "2"
+    },
+    "FORT 100": {
+        "description": "Introduction to Forestry",
+        "credits": "1"
+    },
+    "FR 83": {
+        "description": "First-Year Seminar in French",
+        "credits": "3"
+    },
+    "GD 1S": {
+        "description": "First-Year Seminar in Graphic Design",
+        "credits": "1"
+    },
+    "GER 83": {
+        "description": "First-Year Seminar in German ",
+        "credits": "3"
+    },
+    "HCDD 113S": {
+        "description": "Foundations of Human-Centered Design and Development FYS",
+        "credits": "3"
+    },
+    "HDFS 129S": {
+        "description": "Introduction to Human Development and Family Studies",
+        "credits": "3"
+    },
+    "HIST 83": {
+        "description": "First-Year Seminar in History ",
+        "credits": "3"
+    },
+    "HPA 123S": {
+        "description": "Exploring Health Policy and Administration",
+        "credits": "1"
+    },
+    "IE 100": {
+        "description": "Discover Industrial Engineering: First-Year Seminar",
+        "credits": "1"
+    },
+    "INTST 100": {
+        "description": "Introduction to International Studies ",
+        "credits": "3"
+    },
+    "IST 111S": {
+        "description": "Seminar in Information Sciences and Technology",
+        "credits": "1"
+    },
+    "IT 83": {
+        "description": "First-Year Seminar in Italian Literature, Film, and Culture ",
+        "credits": "3"
+    },
+    "JST 83": {
+        "description": "First-Year Seminar in Jewish Studies ",
+        "credits": "3"
+    },
+    "KINES 61S": {
+        "description": "Fitness Theory and Practice ",
+        "credits": "3"
+    },
+    "KINES 123S": {
+        "description": "Thinking Critically about Key Questions in Kinesiology",
+        "credits": "1"
+    },
+    "LA 83": {
+        "description": "First Year Seminar in the Liberal Arts",
+        "credits": "1"
+    },
+    "LARCH 125": {
+        "description": "Landscape Architecture Orientation Seminar",
+        "credits": "1"
+    },
+    "LHR 83S": {
+        "description": "First-Year Seminar in Labor and Human Resources ",
+        "credits": "3"
+    },
+    "LST 83": {
+        "description": "The Twenty-First Century Researcher",
+        "credits": "1"
+    },
+    "ME 101": {
+        "description": "Toy Fundamentals: First-Year Seminar",
+        "credits": "1"
+    },
+    "ME 102": {
+        "description": "Smart Lego Robots & Design",
+        "credits": "1"
+    },
+    "ME 103": {
+        "description": "HYBRID ELECTRIC VEHICLES",
+        "credits": "1"
+    },
+    "ME 109S": {
+        "description": "Explore Mechanical Engineering Research",
+        "credits": "1"
+    },
+    "ME 190": {
+        "description": "Special Topics in Mechanical Engineering: First-Year Seminar",
+        "credits": "1"
+    },
+    "MUSIC 40": {
+        "description": "First-Year Seminar in Music Education",
+        "credits": "1"
+    },
+    "MUSIC 119": {
+        "description": "First-Year Music Seminar",
+        "credits": "2"
+    },
+    "MUSIC 129S": {
+        "description": "First-Year Performance Seminar",
+        "credits": "3"
+    },
+    "MUSIC 173": {
+        "description": "First-Year Composition Seminar",
+        "credits": "2"
+    },
+    "NURS 100": {
+        "description": "First Year Seminar in Nursing",
+        "credits": "1"
+    },
+    "NUTR 123S": {
+        "description": "First Year Seminar in Nutritional Sciences",
+        "credits": "1"
+    },
+    "OT 100": {
+        "description": "Structural Foundations of Occupational Therapy",
+        "credits": "1"
+    },
+    "PHIL 83": {
+        "description": "First-Year Seminar in Philosophy ",
+        "credits": "3"
+    },
+    "PLANT 150S": {
+        "description": "Plant Science First Year Seminar",
+        "credits": "2"
+    },
+    "PLSC 1S": {
+        "description": "American Politics: Principles, Processes and Powers ",
+        "credits": "3"
+    },
+    "PLSC 83S": {
+        "description": "First-Year Seminar in Political Science ",
+        "credits": "3"
+    },
+    "PSU 1": {
+        "description": "First-Year Seminar Abington",
+        "credits": "1"
+    },
+    "PSU 3": {
+        "description": "First-Year Seminar Altoona",
+        "credits": "1"
+    },
+    "PSU 5": {
+        "description": "First-Year Seminar Berks",
+        "credits": "1"
+    },
+    "PSU 6": {
+        "description": "First-Year Seminar Business",
+        "credits": "1-3"
+    },
+    "PSU 6T": {
+        "description": "First-Year Seminar Business",
+        "credits": "1-3"
+    },
+    "PSU 7": {
+        "description": "First-Year Seminar Behrend",
+        "credits": "1"
+    },
+    "PSU 8": {
+        "description": "First-Year Seminar University College",
+        "credits": "1-3"
+    },
+    "PSU 8T": {
+        "description": "First-Year Seminar University College",
+        "credits": "1-3"
+    },
+    "PSU 9": {
+        "description": "First-Year Seminar Communications",
+        "credits": "1"
+    },
+    "PSU 12": {
+        "description": "First-Year Seminar Engineering",
+        "credits": "1"
+    },
+    "PSU 14": {
+        "description": "First-Year Seminar Health and Human Development",
+        "credits": "1"
+    },
+    "PSU 15": {
+        "description": "First-Year Seminar Liberal Arts",
+        "credits": "1"
+    },
+    "PSU 16": {
+        "description": "First-Year Seminar Science",
+        "credits": "1"
+    },
+    "PSU 17": {
+        "description": "First-Year Seminar College of Information Sciences and Technology",
+        "credits": "1"
+    },
+    "PSU 18": {
+        "description": "PSU 18 First-Year Seminar Interdisciplinary and Exploratory",
+        "credits": "1"
+    },
+    "PSU 97": {
+        "description": "Special Topics",
+        "credits": "1-3"
+    },
+    "PSYCH 83S": {
+        "description": "First-Year Seminar in Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 100S": {
+        "description": "Introductory Psychology ",
+        "credits": "3"
+    },
+    "PT 100S": {
+        "description": "Physical Therapist Assistant-Introduction",
+        "credits": "3"
+    },
+    "PT 101": {
+        "description": "Introduction to Computer Skills for the PTA",
+        "credits": "1"
+    },
+    "RPTM 100S": {
+        "description": "Introduction to Golf Management",
+        "credits": "2"
+    },
+    "RPTM 120S": {
+        "description": "Leisure and Human Behavior ",
+        "credits": "3"
+    },
+    "RUS 83": {
+        "description": "First-Year Seminar in Russian ",
+        "credits": "3"
+    },
+    "SOC 83": {
+        "description": "First-Year Seminar in Sociology ",
+        "credits": "3"
+    },
+    "SPAN 83": {
+        "description": "First-Year Seminar in Hispanic Literatures and Cultures",
+        "credits": "3"
+    },
+    "THEA 1S": {
+        "description": "First-Year Seminar: Theatre Production Practices",
+        "credits": "1"
+    },
+    "VBSC 50": {
+        "description": "Mechanisms of Disease",
+        "credits": "3"
+    },
+    "WFS 150S": {
+        "description": "First-Year Seminar",
+        "credits": "2"
+    },
+    "WILDL 106": {
+        "description": "Wildlife Management Techniques",
+        "credits": "4"
+    },
+    "WILDL 106T": {
+        "description": "Wildlife Management Techniques (Honors)",
+        "credits": "4"
+    },
+    "WMNST 1": {
+        "description": "Introduction to Women's Studies",
+        "credits": "3"
+    },
+    "WMNST 83N": {
+        "description": "First-Year Seminar in Women's Studies ",
+        "credits": "3"
+    }
+}

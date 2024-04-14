@@ -1,0 +1,474 @@
+{
+    "AA 130N": {
+        "description": "Creative Arts Therapy Applications ",
+        "credits": "3"
+    },
+    "AA 230N": {
+        "description": "Arts & Wellness in Communities ",
+        "credits": "3"
+    },
+    "ASIA 106N": {
+        "description": "Asian Traditions of Health, Medicine, and the Body ",
+        "credits": "3"
+    },
+    "BBH 101": {
+        "description": "Introduction to Biobehavioral Health ",
+        "credits": "3"
+    },
+    "BBH 101H": {
+        "description": "Introduction to Biobehavioral Health ",
+        "credits": "3"
+    },
+    "BBH 102S": {
+        "description": "Values, Health, & Academic Success ",
+        "credits": "3"
+    },
+    "BBH 119": {
+        "description": "Behavior, Health, and Disease ",
+        "credits": "3"
+    },
+    "BBH 130": {
+        "description": "Strategies for Addressing the Obesity and Diabetes Epidemics ",
+        "credits": "3"
+    },
+    "BBH 143": {
+        "description": "Drugs, Behavior, and Health ",
+        "credits": "3"
+    },
+    "BBH 146": {
+        "description": "Introduction to Health and Human Sexuality ",
+        "credits": "3"
+    },
+    "BBH 150N": {
+        "description": "Safe and Sound: The Intersection of Criminal Justice and Public Health ",
+        "credits": "3"
+    },
+    "BBH 452": {
+        "description": "Women's Health Issues ",
+        "credits": "3"
+    },
+    "BBH 458": {
+        "description": "Critical Feminist Issues in Reproduction ",
+        "credits": "3"
+    },
+    "BIOL 160N": {
+        "description": "Fitness with Exercise Physiology ",
+        "credits": "3"
+    },
+    "CI 105N": {
+        "description": "Improv Theater, Curriculum & Instruction ",
+        "credits": "3"
+    },
+    "CMAS 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "CRIMJ 150N": {
+        "description": "Safe and Sound: The Intersection of Criminal Justice and Public Health ",
+        "credits": "3"
+    },
+    "CSD 100": {
+        "description": "Preventing Vocal Abuse, Misuse, and Disorders ",
+        "credits": "3"
+    },
+    "DANCE 170": {
+        "description": "Dance Conditioning ",
+        "credits": "1.5"
+    },
+    "DANCE 270": {
+        "description": "Introduction to Bartenieff Fundamentals ",
+        "credits": "3"
+    },
+    "DANCE 270Z": {
+        "description": "Introduction to Bartenieff Fundamentals ",
+        "credits": "3"
+    },
+    "DANCE 405": {
+        "description": "Conditioning, Self-Defense, and Combat for Theatre ",
+        "credits": "3"
+    },
+    "EDPSY 297G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "ENGL 161N": {
+        "description": "The Pursuit of Happiness in American Life: Historical Literature and Modern Practice ",
+        "credits": "3"
+    },
+    "FDSC 105": {
+        "description": "Food Facts and Fads ",
+        "credits": "3"
+    },
+    "HDFS 101N": {
+        "description": "Helping People: Introduction to Understanding Social Problems & How to Help ",
+        "credits": "3"
+    },
+    "HDFS 108N": {
+        "description": "Art and Science of Human Flourishing ",
+        "credits": "3"
+    },
+    "HDFS 210": {
+        "description": "Ethnicity, Health and Aging ",
+        "credits": "3"
+    },
+    "HDFS 215N": {
+        "description": "Global health and families ",
+        "credits": "3"
+    },
+    "HDFS 249N": {
+        "description": "Adult Development and Aging ",
+        "credits": "3"
+    },
+    "HDFS 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "HIST 162N": {
+        "description": "The Pursuit of Happiness in American Life: Historical Literature and Modern Practice ",
+        "credits": "3"
+    },
+    "HM 208": {
+        "description": "Social, Cultural, and Health Influences of Alcohol ",
+        "credits": "1.5"
+    },
+    "HM 209": {
+        "description": "Alcohol & Cuisine: Culture & Responsible Service ",
+        "credits": "1.5"
+    },
+    "HPA 57": {
+        "description": "Consumer Choices in Health Care ",
+        "credits": "3"
+    },
+    "KINES 1": {
+        "description": "Introduction to Outdoor Pursuits ",
+        "credits": "1.5-3"
+    },
+    "KINES 4": {
+        "description": "Principles of Fly Tying and Fly Fishing for Trout ",
+        "credits": "1.5"
+    },
+    "KINES 6": {
+        "description": "Cycle Conditioning ",
+        "credits": "1.5-3"
+    },
+    "KINES 10": {
+        "description": "Techniques in Rock Climbing ",
+        "credits": "1.5"
+    },
+    "KINES 10A": {
+        "description": "Lead Rock Climbing ",
+        "credits": "1.5"
+    },
+    "KINES 11": {
+        "description": "Snowsports: Downhill Skiing ",
+        "credits": "1.5"
+    },
+    "KINES 12": {
+        "description": "Snowsports: Snowboarding ",
+        "credits": "1.5"
+    },
+    "KINES 13": {
+        "description": "First Aid & Safety, CPR/AED ",
+        "credits": "1.5"
+    },
+    "KINES 17": {
+        "description": "Ballroom Dance ",
+        "credits": "1.5"
+    },
+    "KINES 20": {
+        "description": "Modern Dance ",
+        "credits": "1.5"
+    },
+    "KINES 24": {
+        "description": "Lifetime Sports ",
+        "credits": "3"
+    },
+    "KINES 25": {
+        "description": "Introduction to Court Sports ",
+        "credits": "1.5"
+    },
+    "KINES 27": {
+        "description": "Badminton ",
+        "credits": "1.5"
+    },
+    "KINES 29": {
+        "description": "Golf I ",
+        "credits": "1-1.5"
+    },
+    "KINES 29B": {
+        "description": "Total Golf ",
+        "credits": "1.5-3"
+    },
+    "KINES 29C": {
+        "description": "Total Golf in Pennsylvania ",
+        "credits": "3"
+    },
+    "KINES 42": {
+        "description": "Ice Skating ",
+        "credits": "1.5"
+    },
+    "KINES 44": {
+        "description": "Racquetball I ",
+        "credits": "1.5"
+    },
+    "KINES 45": {
+        "description": "NAUI Basic SCUBA ",
+        "credits": "1.5"
+    },
+    "KINES 46": {
+        "description": "Squash I ",
+        "credits": "1-1.5"
+    },
+    "KINES 47A": {
+        "description": "Beginning Swimming ",
+        "credits": "1.5"
+    },
+    "KINES 47B": {
+        "description": "Intermediate Swimming ",
+        "credits": "1.5"
+    },
+    "KINES 48": {
+        "description": "Tennis I ",
+        "credits": "1.5"
+    },
+    "KINES 50": {
+        "description": "Lifeguarding ",
+        "credits": "3"
+    },
+    "KINES 53N": {
+        "description": "History and Practice of Martial Arts ",
+        "credits": "3"
+    },
+    "KINES 56": {
+        "description": "Introduction to Martial Arts ",
+        "credits": "1.5"
+    },
+    "KINES 57": {
+        "description": "Personal Defense ",
+        "credits": "1.5"
+    },
+    "KINES 61": {
+        "description": "Fitness Theory and Practice ",
+        "credits": "3"
+    },
+    "KINES 61S": {
+        "description": "Fitness Theory and Practice ",
+        "credits": "3"
+    },
+    "KINES 62": {
+        "description": "Introduction to Cardiovascular Activities ",
+        "credits": "1.5"
+    },
+    "KINES 63": {
+        "description": "Aerobic Dance ",
+        "credits": "1.5"
+    },
+    "KINES 65": {
+        "description": "Lifetime Jogging ",
+        "credits": "1.5"
+    },
+    "KINES 67": {
+        "description": "Physical Conditioning ",
+        "credits": "1.5"
+    },
+    "KINES 68": {
+        "description": "Resistance Training ",
+        "credits": "1.5"
+    },
+    "KINES 70": {
+        "description": "Swim Conditioning ",
+        "credits": "1.5"
+    },
+    "KINES 72": {
+        "description": "Walking for Fitness ",
+        "credits": "1.5"
+    },
+    "KINES 76": {
+        "description": "Introduction to Tai Chi Ch'uan ",
+        "credits": "1.5"
+    },
+    "KINES 77": {
+        "description": "Yoga for a Lifetime ",
+        "credits": "1.5"
+    },
+    "KINES 77A": {
+        "description": "Advanced Yoga Practice ",
+        "credits": "1.5"
+    },
+    "KINES 81": {
+        "description": "Wellness Theory ",
+        "credits": "3"
+    },
+    "KINES 82": {
+        "description": "Action Methods for Stress Management ",
+        "credits": "3"
+    },
+    "KINES 83": {
+        "description": "Exercise for Stress Management ",
+        "credits": "1.5"
+    },
+    "KINES 84": {
+        "description": "Fitness for Life ",
+        "credits": "1.5-3"
+    },
+    "KINES 88": {
+        "description": "Varsity Sport Experience ",
+        "credits": "1.5-3"
+    },
+    "KINES 89": {
+        "description": "Wilderness Experience ",
+        "credits": "3"
+    },
+    "KINES 90": {
+        "description": "Indoor Team Sports ",
+        "credits": "3"
+    },
+    "KINES 90A": {
+        "description": "Introduction to Team Sports/Indoor - Volleyball ",
+        "credits": "1.5"
+    },
+    "KINES 90B": {
+        "description": "Introduction to Team Sports/Indoor - Basketball ",
+        "credits": "1.5"
+    },
+    "KINES 91A": {
+        "description": "Introduction to Outdoor Team Sports-Soccer ",
+        "credits": "1.5"
+    },
+    "KINES 91D": {
+        "description": "Introduction to Outdoor Team Sports - Ultimate ",
+        "credits": "1.5"
+    },
+    "KINES 92": {
+        "description": "Personal Fitness and Wellness ",
+        "credits": "0.5-3"
+    },
+    "KINES 93": {
+        "description": "Enhancing Mastery in Physical Activity ",
+        "credits": "1.5-3"
+    },
+    "KINES 160N": {
+        "description": "Fitness with Exercise Physiology ",
+        "credits": "3"
+    },
+    "KINES 197N": {
+        "description": "Special Topics - Interdomain ",
+        "credits": "1-9"
+    },
+    "KINES 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "KINES 303": {
+        "description": "Emergency Recognition and Care with BLS CPR ",
+        "credits": "3"
+    },
+    "KINES 405N": {
+        "description": "Bicycling Culture and Urban Design ",
+        "credits": "3"
+    },
+    "LARCH 405N": {
+        "description": "Bicycling Culture and Urban Design ",
+        "credits": "3"
+    },
+    "NURS 203": {
+        "description": "First Aid and CPR ",
+        "credits": "3"
+    },
+    "NURS 325N": {
+        "description": "Health and Environmental Sustainability ",
+        "credits": "3"
+    },
+    "NURS 407": {
+        "description": "Drugs of Abuse and Mental Health Issues ",
+        "credits": "3"
+    },
+    "NURS 452": {
+        "description": "Women's Health Issues ",
+        "credits": "3"
+    },
+    "NURS 464": {
+        "description": "Dying and Death ",
+        "credits": "3"
+    },
+    "NUTR 100": {
+        "description": "Nutrition Applications for a Healthy Lifestyle ",
+        "credits": "3"
+    },
+    "NUTR 144": {
+        "description": "Our Plates: Exploring Food and Healthy Eating Patterns Through Cooking ",
+        "credits": "3"
+    },
+    "NUTR 175N": {
+        "description": "Healthy Food for All: Factors that Influence What we Eat in the US ",
+        "credits": "3"
+    },
+    "NUTR 251": {
+        "description": "Introductory Principles of Nutrition ",
+        "credits": "3"
+    },
+    "NUTR 251H": {
+        "description": "Introd Prin Nutrition (honors) ",
+        "credits": "3"
+    },
+    "PHIL 137N": {
+        "description": "Introduction to Philosophy through Health and Sport ",
+        "credits": "3"
+    },
+    "PLSC 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "PUBPL 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "RHS 226": {
+        "description": "College Student Mental Health and Wellness ",
+        "credits": "3"
+    },
+    "RPTM 1": {
+        "description": "Introduction to Outdoor Pursuits ",
+        "credits": "1.5-3"
+    },
+    "RPTM 140": {
+        "description": "Outdoor School Field Experience ",
+        "credits": "2"
+    },
+    "RPTM 280": {
+        "description": "Wilderness First Aid ",
+        "credits": "1"
+    },
+    "SCIED 140": {
+        "description": "Outdoor School Field Experience ",
+        "credits": "2"
+    },
+    "SOC 150N": {
+        "description": "Healthy People, Healthy Society ",
+        "credits": "3"
+    },
+    "SOC 210N": {
+        "description": "Social Determinants of Health ",
+        "credits": "3"
+    },
+    "SOC 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "STS 105": {
+        "description": "Food Facts and Fads ",
+        "credits": "3"
+    },
+    "SUST 325N": {
+        "description": "Health and Environmental Sustainability ",
+        "credits": "3"
+    },
+    "VBSC 130": {
+        "description": "Understanding Human Disease ",
+        "credits": "3"
+    },
+    "WMNST 458": {
+        "description": "Critical Feminist Issues in Reproduction ",
+        "credits": "3"
+    }
+}

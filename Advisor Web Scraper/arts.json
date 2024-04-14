@@ -1,0 +1,1616 @@
+{
+    "AA 100": {
+        "description": "Introduction to International Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 103": {
+        "description": "Introduction to Interior Design",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 120N": {
+        "description": "Introduction to Art Therapy",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 121": {
+        "description": "Design Thinking and Creativity",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 122": {
+        "description": "Introduction to Graphic Storytelling",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 130N": {
+        "description": "Creative Arts Therapy Applications",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 160N": {
+        "description": "The Virtual Transformational Leadership Development Experience",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 193N": {
+        "description": "The Craft of Comics",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AA 230N": {
+        "description": "Arts & Wellness in Communities",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AED 62": {
+        "description": "Contemporary African and African American Arts and Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AED 211W": {
+        "description": "Interpreting Art Experience: Social-cultural Perspectives",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AED 225": {
+        "description": "Diversity, Pedagogy, and Visual Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AED 233N": {
+        "description": "Learning in Maker Cultures",
+        "pre-requisite": [],
+        "credits": "1-3"
+    },
+    "AED 355Q": {
+        "description": "Show Me Where it Hurts: Healthcare and Creative Inquiry",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AFAM 126N": {
+        "description": "The Popular Arts in America: The History of Hip-Hop",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AFAM 141N": {
+        "description": "African American Read-In Engaged Learning Experience",
+        "pre-requisite": [],
+        "credits": "1-3"
+    },
+    "AFAM 207N": {
+        "description": "Jazz and the African American Experience",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AFAM 226N": {
+        "description": "Critical Approaches to Hip-Hop",
+        "pre-requisite": [
+            "AMST 100*",
+            "AFAM 126*",
+            "INART 126*"
+        ],
+        "credits": "3"
+    },
+    "AFR 335": {
+        "description": "African Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AMST 150N": {
+        "description": "Western Pennsylvania Art, Literature, and Culture",
+        "pre-requisite": [
+            "ENGL 15"
+        ],
+        "credits": "3"
+    },
+    "AMST 226N": {
+        "description": "Critical Approaches to Hip-Hop",
+        "pre-requisite": [
+            "AMST 100*",
+            "AFAM 126*",
+            "INART 126*"
+        ],
+        "credits": "3"
+    },
+    "AMST 307N": {
+        "description": "American Art and Society",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AMST 308N": {
+        "description": "American Architecture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "AMST 309N": {
+        "description": "American Material Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARCH 100": {
+        "description": "Architecture and Ideas",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARCH 170N": {
+        "description": "Introduction to Sustainable Architecture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARCH 210": {
+        "description": "Ideas Across Time in Architecture and Urbanism",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARCH 316": {
+        "description": "Analysis of Human Settlements: Cities",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 1": {
+        "description": "Introduction to the Visual Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 2": {
+        "description": "Interactive Learning and Web-Design",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 3": {
+        "description": "Visual Images on the Web",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 10": {
+        "description": "Introduction to Visual Studies",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 17": {
+        "description": "Introduction to Metal Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 20": {
+        "description": "Introduction to Drawing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 30": {
+        "description": "Introduction to Sculpture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 40": {
+        "description": "Introduction to Printmaking",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 50": {
+        "description": "Introduction to Painting",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 51N": {
+        "description": "Meteorology and Visual Arts: To Know is to See",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 80": {
+        "description": "Introduction to Ceramics",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 102": {
+        "description": "Beginning Computer Aided Design for Artists",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 144Z": {
+        "description": "Climate Change: Arts, Agency and Activism",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 160N": {
+        "description": "STEAM: Connecting Art to Science, Technology, Engineering and Mathematics",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 165": {
+        "description": "Artistic Concepts of Space",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 166": {
+        "description": "Artistic Concepts of Form",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 168": {
+        "description": "The Digital Medium",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 170N": {
+        "description": "Plant and Microbial Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 175N": {
+        "description": "Intersections Between Art and Psychology",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ART 197N": {
+        "description": "Special Topics - Interdomain",
+        "pre-requisite": [],
+        "credits": "1-9"
+    },
+    "ART 207N": {
+        "description": "LGBTQ+ Identity, Culture and The Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 1S": {
+        "description": "First-Year Seminar in Art History",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 100": {
+        "description": "Introduction to Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 101N": {
+        "description": "Introduction to Global Art History",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 105N": {
+        "description": "Pictures and Power",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 107N": {
+        "description": "Rocks, Minerals, and the History of Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 111": {
+        "description": "Ancient to Medieval Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 111U": {
+        "description": "Ancient to Medieval Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 112": {
+        "description": "Renaissance to Modern Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 112U": {
+        "description": "Renaissance to Modern Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 115N": {
+        "description": "Arts of Love",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 120": {
+        "description": "Asian Art and Architecture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 125": {
+        "description": "Islamic Architecture and Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 130": {
+        "description": "Art of Africa, Oceania, and the Americas",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 140": {
+        "description": "Introduction to the Art and Architecture of the Mayas, Aztecs, and Incas",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 201": {
+        "description": "Ancient to Medieval Architecture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 202N": {
+        "description": "Renaissance to Modern Architecture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 204": {
+        "description": "The Art of Marvel: Italy and Spain 1600 - 1750",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 207": {
+        "description": "The Eternal City: Rome from Antiquity to the Present",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 215": {
+        "description": "Architecture and Art of South and Southeast Asia",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 220": {
+        "description": "Chinese Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 222N": {
+        "description": "Intersections between Art History and the History of Psychology",
+        "pre-requisite": [
+            "ENGL 15"
+        ],
+        "credits": "3"
+    },
+    "ARTH 222Q": {
+        "description": "Intersections between Art History and the History of Psychology",
+        "pre-requisite": [
+            "ENGL 15"
+        ],
+        "credits": "3"
+    },
+    "ARTH 224N": {
+        "description": "Authors and Artists",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 225N": {
+        "description": "Sexuality and Modern Visual Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 280": {
+        "description": "The Secret Lives of Things: Design and Decorative Arts since the 18th Century",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 292N": {
+        "description": "Witches and Witchcraft from the Middle Ages to the Present",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 297G": {
+        "description": "Special Topics - GenEd",
+        "pre-requisite": [],
+        "credits": "1-9"
+    },
+    "ARTH 301": {
+        "description": "Egyptian and Mesopotamian Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 302": {
+        "description": "Early Medieval Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 303": {
+        "description": "Italian Renaissance Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 305": {
+        "description": "Romanticism and Revolution",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 306": {
+        "description": "Color across Cultures: A Global History of Pigments, Dyes, Metals and Other Colorants in Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 307N": {
+        "description": "American Art and Society",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 308N": {
+        "description": "American Architecture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 311": {
+        "description": "Greek and Roman Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 312": {
+        "description": "Romanesque and Gothic Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 325": {
+        "description": "Impressionism to Surrealism",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 326": {
+        "description": "Art Since 1940",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ARTH 335": {
+        "description": "African Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ASIA 107N": {
+        "description": "Bollywood: Seeing South Asia Through Cinema",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ASIA 197N": {
+        "description": "Special Topics - InterDomain",
+        "pre-requisite": [],
+        "credits": "1-9"
+    },
+    "ASIA 215": {
+        "description": "Architecture and Art of South and Southeast Asia",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ASTRO 7N": {
+        "description": "The Artistic Universe",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ASTRO 141N": {
+        "description": "Film and Extraterrestrial Life: Science Fact or Fiction?",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "BBH 201N": {
+        "description": "Health and the Media",
+        "pre-requisite": [
+            "ENGL 15"
+        ],
+        "credits": "3"
+    },
+    "BRASS 100": {
+        "description": "Trumpet: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "BRASS 101": {
+        "description": "French Horn: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "BRASS 102": {
+        "description": "Trombone: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "BRASS 103": {
+        "description": "Euphonium: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "BRASS 104": {
+        "description": "Tuba: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "BRASS 110": {
+        "description": "Trumpet: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "BRASS 111": {
+        "description": "French Horn: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "BRASS 112": {
+        "description": "Trombone: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "BRASS 113": {
+        "description": "Euphonium: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "BRASS 114": {
+        "description": "Tuba: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "CHNS 121N": {
+        "description": "Chinese Film and New Media",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "CI 105N": {
+        "description": "Improv Theater, Curriculum & Instruction",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "CMLIT 112N": {
+        "description": "Introduction to Global Drama, Theatre, and Performance",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "CMLIT 128N": {
+        "description": "The Holocaust in Film and Literature",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "CMLIT 191N": {
+        "description": "Introduction to Video Game Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "CMLIT 240Q": {
+        "description": "Artistic Patronage in Europe",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 20N": {
+        "description": "Critical Media Literacy",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 101N": {
+        "description": "Understanding and Enhancing Creativity",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 150N": {
+        "description": "The Art of the Cinema",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 150Q": {
+        "description": "The Art of the Cinema",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 151N": {
+        "description": "Film and Extraterrestrial Life: Science Fact or Fiction?",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 175N": {
+        "description": "Mental Illness and the Movies",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 208N": {
+        "description": "Visual Representations of the Middle East in the US and Middle East",
+        "pre-requisite": [
+            "ENGL 15"
+        ],
+        "credits": "3"
+    },
+    "COMM 222N": {
+        "description": "Social Justice and the Image",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "COMM 250": {
+        "description": "Film History and Theory",
+        "pre-requisite": [
+            "COMM 150"
+        ],
+        "credits": "3"
+    },
+    "COMM 290N": {
+        "description": "Cinema and Globalization",
+        "pre-requisite": [
+            "ENGL 15",
+            "COMM 150"
+        ],
+        "credits": "3"
+    },
+    "COMM 335N": {
+        "description": "Media, Social Justice, and the Public Humanities",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "DANCE 100": {
+        "description": "Dance Appreciation",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "DANCE 225": {
+        "description": "Introduction to Hip Hop",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "DANCE 230": {
+        "description": "Ballet",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "DANCE 240": {
+        "description": "Jazz Dance",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "DANCE 250": {
+        "description": "Tap Dance",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "DANCE 260": {
+        "description": "Introduction to Modern Dance",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "DANCE 261": {
+        "description": "Beginning Modern Dance I",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "DANCE 361": {
+        "description": "Intermediate Modern Dance I",
+        "pre-requisite": [
+            "DANCE 262",
+            "THEA 225B"
+        ],
+        "credits": "1.5"
+    },
+    "DANCE 362": {
+        "description": "Intermediate Modern Dance II",
+        "pre-requisite": [
+            "DANCE 361"
+        ],
+        "credits": "1.5"
+    },
+    "DART 102N": {
+        "description": "Introduction to 2d Digital Art and Technology",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 50": {
+        "description": "Introduction to Creative Writing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 50H": {
+        "description": "Introduction to Creative Writing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 115N": {
+        "description": "Arts of Love",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 128N": {
+        "description": "The Holocaust in Film and Literature",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 141N": {
+        "description": "African American Read-In Engaged Learning Experience",
+        "pre-requisite": [],
+        "credits": "1-3"
+    },
+    "ENGL 190Q": {
+        "description": "Medievalism",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 193N": {
+        "description": "The Craft of Comics",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 208N": {
+        "description": "The Music of the Beatles and American Popular Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 212": {
+        "description": "Introduction to Fiction Writing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 213": {
+        "description": "Introduction to Poetry Writing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 214": {
+        "description": "Introduction to Creative Nonfiction Writing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 223N": {
+        "description": "Shakespeare: Page, Stage, and Screen",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 224N": {
+        "description": "Authors and Artists",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 225N": {
+        "description": "Sexuality and Modern Visual Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 237N": {
+        "description": "Reading and Writing Documentary Poetry",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGL 260": {
+        "description": "Theory & Practice of Screenwriting",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "ENGR 120N": {
+        "description": "Design Thinking and 3D Printing in Engineering and Healthcare",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "FR 138N": {
+        "description": "French Culture Through Film",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "FRNAR 100": {
+        "description": "Introduction to Forensic Photography",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GAME 160N": {
+        "description": "Introduction to Video Game Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GAME 180N": {
+        "description": "The Art and Science of Virtual Worlds",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GAME 220": {
+        "description": "Introduction to Game Design",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GD 100": {
+        "description": "Introduction to Graphic Design",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GD 110": {
+        "description": "User Experience Design: Concepts and Principles",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GD 115N": {
+        "description": "Visualizing Information",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GD 210": {
+        "description": "User Interface Design and Prototyping",
+        "pre-requisite": [
+            "GD 110"
+        ],
+        "credits": "3"
+    },
+    "GEOSC 107N": {
+        "description": "Rocks, Minerals, and the History of Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GER 128N": {
+        "description": "The Holocaust in Film and Literature",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "GER 189N": {
+        "description": "German Film",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HDFS 175N": {
+        "description": "Introduction to Youth Development and Arts-based Social Justice",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HIST 131N": {
+        "description": "Slavery, the Civil War, and Cinema",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HIST 240Q": {
+        "description": "Artistic Patronage in Europe",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HIST 255N": {
+        "description": "History of the Book",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HIST 292N": {
+        "description": "Witches and Witchcraft from the Middle Ages to the Present",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HORT 169N": {
+        "description": "Fundamentals of Home Landscaping: An Introduction to Design, Construction, and Maintenance",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HUM 100N": {
+        "description": "Foundations in the Humanities: Understanding the Human Experience",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HUM 150N": {
+        "description": "World Mythologies in the Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "HUM 197N": {
+        "description": "Special Topics - InterDomain",
+        "pre-requisite": [],
+        "credits": "1-9"
+    },
+    "HUM 200N": {
+        "description": "Explorations in the Humanities: The Quest",
+        "pre-requisite": [
+            "HUM 100N"
+        ],
+        "credits": "3"
+    },
+    "HUM 300N": {
+        "description": "Interpretations in the Humanities",
+        "pre-requisite": [
+            "ENGL 015,",
+            "ENGL 202"
+        ],
+        "credits": "3"
+    },
+    "HUM 400N": {
+        "description": "Expressions in the Humanities",
+        "pre-requisite": [
+            "HUM "
+        ],
+        "credits": "3"
+    },
+    "INART 1": {
+        "description": "The Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 5": {
+        "description": "Performing Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 10": {
+        "description": "The Popular Arts in America:  Mass Media Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 55N": {
+        "description": "History of Electronic Music",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 100": {
+        "description": "Seminar in Integrative Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 110": {
+        "description": "The Dramatic Arts in the Mass Media",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 115": {
+        "description": "The Popular Arts in America:  Popular Music",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 116": {
+        "description": "The Popular Arts in America: The History of Rock and Roll-The 1950s",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 126N": {
+        "description": "The Popular Arts in America: The History of Hip-Hop",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 141N": {
+        "description": "African American Read-In Engaged Learning Experience",
+        "pre-requisite": [],
+        "credits": "1-3"
+    },
+    "INART 203Q": {
+        "description": "Medievalism",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 205": {
+        "description": "Introducing the Beatles",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 210": {
+        "description": "Integrative Approaches to Computer-Aided Music Composition",
+        "pre-requisite": [
+            "MUSIC 8"
+        ],
+        "credits": "3"
+    },
+    "INART 220": {
+        "description": "Stand-Up Comedy: A Cultural History",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 226N": {
+        "description": "Critical Approaches to Hip-Hop",
+        "pre-requisite": [
+            "AMST 100*",
+            "AFAM 126*",
+            "INART 126*"
+        ],
+        "credits": "3"
+    },
+    "INART 258A": {
+        "description": "Fundamentals of Digital Audio",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "INART 258B": {
+        "description": "Fundamentals of Digital Audio",
+        "pre-requisite": [
+            "MUSIC 131"
+        ],
+        "credits": "1"
+    },
+    "IST 130": {
+        "description": "Emerging Technologies in Popular Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "IT 240Q": {
+        "description": "Artistic Patronage in Europe",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "JAPNS 121N": {
+        "description": "Japanese Film and New Media",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "JAPNS 121Q": {
+        "description": "Japanese Film and New Media",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "JST 128N": {
+        "description": "The Holocaust in Film and Literature",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "KEYBD 100": {
+        "description": "Piano: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "KEYBD 110": {
+        "description": "Piano: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "KINES 197G": {
+        "description": "Special Topics - GenEd",
+        "pre-requisite": [],
+        "credits": "1-9"
+    },
+    "KINES 405N": {
+        "description": "Bicycling Culture and Urban Design",
+        "pre-requisite": [
+            "KINES 100*",
+            "LARCH 125*",
+            "CAS or*"
+        ],
+        "credits": "3"
+    },
+    "LA 335N": {
+        "description": "Media, Social Justice, and the Public Humanities",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "LARCH 60": {
+        "description": "Cultural History of Designed Places",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "LARCH 65": {
+        "description": "Built Environment and Culture: Examining the Modern City",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "LARCH 297N": {
+        "description": "Special Topics - Inter Domain",
+        "pre-requisite": [],
+        "credits": "1-9"
+    },
+    "LARCH 405N": {
+        "description": "Bicycling Culture and Urban Design",
+        "pre-requisite": [
+            "KINES 100*",
+            "LARCH 125*",
+            "CAS or*"
+        ],
+        "credits": "3"
+    },
+    "LDT 110N": {
+        "description": "Making with Art and Learning Technologies",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "LHR 160N": {
+        "description": "The Virtual Transformational Leadership Development Experience",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "LLED 215N": {
+        "description": "Children's Picture Books as Multimodal Texts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "METEO 51N": {
+        "description": "Meteorology and Visual Arts: To Know is to See",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 4": {
+        "description": "Film Music",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 5": {
+        "description": "An Introduction to Western Music",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 7": {
+        "description": "Evolution of Jazz",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 8": {
+        "description": "Rudiments of Music",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 9": {
+        "description": "Introduction to World Musics",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 11": {
+        "description": "Under the Hood: How Classical Music Works",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 50": {
+        "description": "Beginning Piano: Non-Music Major",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 51": {
+        "description": "Intermediate Class Piano: Non-Music Major",
+        "pre-requisite": [
+            "MUSIC 50"
+        ],
+        "credits": "1"
+    },
+    "MUSIC 52": {
+        "description": "Voice Class: Non-Music Major",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 53": {
+        "description": "Class Voice Practicum",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 54": {
+        "description": "Beginning Class Guitar: Non-Music Major",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 77": {
+        "description": "Philharmonic Orchestra",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 78": {
+        "description": "Symphonic Wind Ensemble",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 79": {
+        "description": "Pep Band",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 80": {
+        "description": "Symphonic Band",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 81": {
+        "description": "Marching Blue Band",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 82": {
+        "description": "Concert Band",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 83": {
+        "description": "Campus Band",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 84": {
+        "description": "Jazz Ensemble",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 86": {
+        "description": "Percussion Ensemble",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 88": {
+        "description": "Campus Choir",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 88H": {
+        "description": "Campus Choir",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 89": {
+        "description": "University Choir",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 90": {
+        "description": "Glee Club",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 91": {
+        "description": "Oriana Singers",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 92": {
+        "description": "Chamber Music for Voices",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 93": {
+        "description": "Essence of Joy",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 103": {
+        "description": "Concert Choir",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 104": {
+        "description": "Chamber Singers",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 109": {
+        "description": "The Music of the Beatles",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 189": {
+        "description": "Studio Ensemble",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 190": {
+        "description": "Chamber Music for Strings",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 191": {
+        "description": "Chamber Music for Woodwinds",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 192": {
+        "description": "Chamber Music for Brass",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "MUSIC 207N": {
+        "description": "Jazz and the African American Experience",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 209N": {
+        "description": "The Music of the Beatles and American Popular Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 215": {
+        "description": "The Craft of Singing",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "MUSIC 261": {
+        "description": "Survey of Music History I",
+        "pre-requisite": [
+            "MUSIC 131",
+            "MUSIC 162"
+        ],
+        "credits": "3"
+    },
+    "MUSIC 262": {
+        "description": "Survey of Music History II",
+        "pre-requisite": [
+            "MUSIC 132",
+            "MUSIC 162"
+        ],
+        "credits": "3"
+    },
+    "PERCN 100": {
+        "description": "Percussion: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "PERCN 110": {
+        "description": "Percussion: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "PHIL 136N": {
+        "description": "Art and Philosophy in Ancient Greece",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PHOTO 100": {
+        "description": "Introduction to Photography",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PHOTO 101": {
+        "description": "Culture of Photography",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PHOTO 202": {
+        "description": "Fundamentals of Professional Photography",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PHOTO 321N": {
+        "description": "Flow Visualization: The Art and Physics of Fluid Motion",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PPEM 170N": {
+        "description": "Plant and Microbial Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PSYCH 109N": {
+        "description": "The Psychology of Artistic Creativity",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PSYCH 175N": {
+        "description": "Mental Illness and the Movies",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "PSYCH 246N": {
+        "description": "Human Factors in Design & Art",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "RUS 101N": {
+        "description": "Russian Cinema",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "SC 60N": {
+        "description": "Art in the Natural World",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "SC 103N": {
+        "description": "When Data Meets Design",
+        "pre-requisite": [
+            "MATH 21"
+        ],
+        "credits": "3"
+    },
+    "SC 145N": {
+        "description": "The Visual Body",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "SOC 20N": {
+        "description": "Critical Media Literacy",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "SOC 208N": {
+        "description": "Visual Representations of the Middle East in the US and Middle East",
+        "pre-requisite": [
+            "ENGL 15"
+        ],
+        "credits": "3"
+    },
+    "SOC 290N": {
+        "description": "Cinema and Globalization",
+        "pre-requisite": [
+            "ENGL 15",
+            "COMM 150"
+        ],
+        "credits": "3"
+    },
+    "SPAN 269N": {
+        "description": "Theater and Performance",
+        "pre-requisite": [
+            "SPAN 253W"
+        ],
+        "credits": "3"
+    },
+    "STRNG 100": {
+        "description": "Violin: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "STRNG 101": {
+        "description": "Viola: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "STRNG 102": {
+        "description": "Violoncello: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "STRNG 103": {
+        "description": "Double Bass: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "STRNG 104": {
+        "description": "Guitar: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "STRNG 105": {
+        "description": "Harp: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "STRNG 110": {
+        "description": "Violin: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "STRNG 111": {
+        "description": "Viola: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "STRNG 112": {
+        "description": "Violoncello: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "STRNG 113": {
+        "description": "Double Bass: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "STRNG 114": {
+        "description": "Guitar: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "STRNG 115": {
+        "description": "Harp: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "THEA 100": {
+        "description": "The Art of the Theatre",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 101N": {
+        "description": "Performance and Society",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 102": {
+        "description": "Fundamentals of Acting",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 105": {
+        "description": "Introduction to Theatre",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 111": {
+        "description": "The Fundamentals of Singing and Vocal Production",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 112": {
+        "description": "Introduction to Musical Theatre",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 189": {
+        "description": "Principles of Stagecraft, A Look Behind the Curtain",
+        "pre-requisite": [],
+        "credits": "1.5"
+    },
+    "THEA 207": {
+        "description": "Gender and Theatre",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "THEA 282": {
+        "description": "Production Practicum",
+        "pre-requisite": [],
+        "credits": "3-6"
+    },
+    "THEA 403": {
+        "description": "20th Century Theatre History",
+        "pre-requisite": [
+            "THEA 100*",
+            "THEA 105*",
+            "THEA 106*",
+            "THEA 112*",
+            "DANCE 100*",
+            "THEA_MFA*"
+        ],
+        "credits": "3"
+    },
+    "THEA 404": {
+        "description": "Twenty-first Century Theatre and Drama",
+        "pre-requisite": [
+            "THEA 100*",
+            "THEA 105*",
+            "THEA 106*",
+            "THEA 112*",
+            "DANCE 100*",
+            "THEA_MFA*"
+        ],
+        "credits": "3"
+    },
+    "VOICE 100": {
+        "description": "Voice: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "VOICE 110": {
+        "description": "Voice: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "WMNST 106N": {
+        "description": "Representing Women and Gender in Literature, Art and Popular Cultures",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "WMNST 106Q": {
+        "description": "Representing Women and Gender in Literature, Art and Popular Cultures",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "WMNST 175N": {
+        "description": "Fashion, Gender, and Identity",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "WMNST 207N": {
+        "description": "LGBTQ+ Identity, Culture and The Arts",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "WMNST 225N": {
+        "description": "Sexuality and Modern Visual Culture",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "WMNST 240Q": {
+        "description": "Artistic Patronage in Europe",
+        "pre-requisite": [],
+        "credits": "3"
+    },
+    "WWNDS 100": {
+        "description": "Flute: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "WWNDS 101": {
+        "description": "Oboe: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "WWNDS 102": {
+        "description": "Clarinet: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "WWNDS 103": {
+        "description": "Bassoon: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "WWNDS 104": {
+        "description": "Saxophone: Secondary",
+        "pre-requisite": [],
+        "credits": "1"
+    },
+    "WWNDS 110": {
+        "description": "Flute: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "WWNDS 111": {
+        "description": "Oboe: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "WWNDS 112": {
+        "description": "Clarinet: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "WWNDS 113": {
+        "description": "Bassoon: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    },
+    "WWNDS 114": {
+        "description": "Saxophone: Secondary",
+        "pre-requisite": [],
+        "credits": "2"
+    }
+}

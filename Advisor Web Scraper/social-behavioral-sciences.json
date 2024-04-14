@@ -1,0 +1,1750 @@
+{
+    "AA 120N": {
+        "description": "Introduction to Art Therapy ",
+        "credits": "3"
+    },
+    "AA 160N": {
+        "description": "The Virtual Transformational Leadership Development Experience ",
+        "credits": "3"
+    },
+    "AAS 100N": {
+        "description": "Introduction to Asian American Studies ",
+        "credits": "3"
+    },
+    "ADTED 300": {
+        "description": "Social Movements and Education: Global Perspectives ",
+        "credits": "3"
+    },
+    "AED 233N": {
+        "description": "Learning in Maker Cultures ",
+        "credits": "1-3"
+    },
+    "AED 355Q": {
+        "description": "Show Me Where it Hurts: Healthcare and Creative Inquiry ",
+        "credits": "3"
+    },
+    "AEE 201": {
+        "description": "Interpersonal Skills for Tomorrow's Leaders ",
+        "credits": "3"
+    },
+    "AEE 204N": {
+        "description": "Science Literacy and Policy in the 21st Century ",
+        "credits": "3"
+    },
+    "AFAM 100N": {
+        "description": "Black Freedom Struggles ",
+        "credits": "3"
+    },
+    "AFAM 101N": {
+        "description": "African American Women ",
+        "credits": "3"
+    },
+    "AFAM 105N": {
+        "description": "Afro-Latin America: Race and Revolution ",
+        "credits": "3"
+    },
+    "AFAM 110N": {
+        "description": "Introduction to African American Studies ",
+        "credits": "3"
+    },
+    "AFAM 111N": {
+        "description": "Introduction to Anti-Black racism in the United States: The African American Experience ",
+        "credits": "3"
+    },
+    "AFAM 114N": {
+        "description": "Race, Gender and Sport ",
+        "credits": "3"
+    },
+    "AFAM 136": {
+        "description": "Race, Gender, and Employment ",
+        "credits": "3"
+    },
+    "AFAM 136Y": {
+        "description": "Race, Gender, and Employment ",
+        "credits": "3"
+    },
+    "AFAM 207N": {
+        "description": "Jazz and the African American Experience ",
+        "credits": "3"
+    },
+    "AFAM 364N": {
+        "description": "Black & White Sexuality ",
+        "credits": "3"
+    },
+    "AFAM 435N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "AFR 110N": {
+        "description": "Introduction to Contemporary Africa ",
+        "credits": "3"
+    },
+    "AFR 202N": {
+        "description": "Women, Gender, and Feminisms in Africa ",
+        "credits": "3"
+    },
+    "AFR 205": {
+        "description": "Development and Sustainability in Africa ",
+        "credits": "3"
+    },
+    "AFR 209": {
+        "description": "Poverty in Africa ",
+        "credits": "3"
+    },
+    "AFR 230N": {
+        "description": "Language and Social Justice ",
+        "credits": "3"
+    },
+    "AFR 234": {
+        "description": "Environment, Climate Change and Resilience in Africa ",
+        "credits": "3"
+    },
+    "AFR 435N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "AGBM 101": {
+        "description": "Economic Principles of Agribusiness Decision Making ",
+        "credits": "3"
+    },
+    "AGBM 170": {
+        "description": "Investigating the U.S. Food System: How food moves from field to table ",
+        "credits": "3"
+    },
+    "AGBM 170N": {
+        "description": "Investigating the U.S. Food System: How food moves from field to table ",
+        "credits": "3"
+    },
+    "AGECO 134N": {
+        "description": "Sustainable Agriculture Science and Policy ",
+        "credits": "3"
+    },
+    "AIR 252": {
+        "description": "The Evolution of USAF Air and Space Power II ",
+        "credits": "2"
+    },
+    "AIR 451": {
+        "description": "National Security, Leadership Responsibilities, and Commissioning Preparation I ",
+        "credits": "3"
+    },
+    "AMST 106N": {
+        "description": "The Mass Media and Society ",
+        "credits": "3"
+    },
+    "AMST 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "AMST 160N": {
+        "description": "Introduction to Asian American Studies ",
+        "credits": "3"
+    },
+    "AMST 161N": {
+        "description": "Chinese in America, Americans in China ",
+        "credits": "3"
+    },
+    "AMST 170N": {
+        "description": "Introduction to American Folklore ",
+        "credits": "3"
+    },
+    "ANSC 215": {
+        "description": "Pets in Society ",
+        "credits": "3"
+    },
+    "ANSC 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "ANTH 1": {
+        "description": "Understanding Humans ",
+        "credits": "3"
+    },
+    "ANTH 2N": {
+        "description": "World Archaeology ",
+        "credits": "3"
+    },
+    "ANTH 8": {
+        "description": "Aztec, Inca, Maya ",
+        "credits": "3"
+    },
+    "ANTH 9N": {
+        "description": "Rise of Civilization in the Old World ",
+        "credits": "3"
+    },
+    "ANTH 11": {
+        "description": "North American Archaeology ",
+        "credits": "3"
+    },
+    "ANTH 40Q": {
+        "description": "Biocultural Evolution ",
+        "credits": "3"
+    },
+    "ANTH 45N": {
+        "description": "Cultural Diversity: A Global Perspective ",
+        "credits": "3"
+    },
+    "ANTH 45Q": {
+        "description": "Cultural Diversity: A Global Perspective ",
+        "credits": "3"
+    },
+    "ANTH 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "ANTH 83S": {
+        "description": "First-Year Seminar in Anthropology ",
+        "credits": "3"
+    },
+    "ANTH 100N": {
+        "description": "Anthropology of Race and Racism ",
+        "credits": "3"
+    },
+    "ANTH 120": {
+        "description": "First Farmers ",
+        "credits": "3"
+    },
+    "ANTH 140": {
+        "description": "Anthropology of Alcohol ",
+        "credits": "3"
+    },
+    "ANTH 146": {
+        "description": "Indigenous North America ",
+        "credits": "3"
+    },
+    "ANTH 150N": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "ANTH 150Q": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "ANTH 210N": {
+        "description": "Anthropology, Ancestry, and You ",
+        "credits": "3"
+    },
+    "ANTH 216N": {
+        "description": "Sex and Evolution ",
+        "credits": "3"
+    },
+    "ANTH 219N": {
+        "description": "Spillover: The Anthropology of Emerging Infectious Diseases ",
+        "credits": "3"
+    },
+    "ANTH 221N": {
+        "description": "Ancient Maya: Sacred Blood & Conjured Serpent ",
+        "credits": "3"
+    },
+    "ANTH 222": {
+        "description": "Archaeology of Domesticated Animals ",
+        "credits": "3"
+    },
+    "ANTH 240N": {
+        "description": "Livelihoods and Ecosystems: Anthropological Approaches to Human-Environment Interaction ",
+        "credits": "3"
+    },
+    "ANTH 375Q": {
+        "description": "Anthropology of Food Honors ",
+        "credits": "3"
+    },
+    "ANTH 430": {
+        "description": "Ancient Brews ",
+        "credits": "3"
+    },
+    "ANTH 434N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "APLNG 83": {
+        "description": "First-Year Seminar in Applied Linguistics: Language as Social Practice ",
+        "credits": "3"
+    },
+    "APLNG 220N": {
+        "description": "Multilingual Lives: Stories of Language and Culture Learning ",
+        "credits": "3"
+    },
+    "APLNG 230N": {
+        "description": "Language and Social Justice ",
+        "credits": "3"
+    },
+    "APLNG 260": {
+        "description": "LANGUAGE AND TECHNOLOGY ",
+        "credits": "3"
+    },
+    "APLNG 280N": {
+        "description": "Conducting International Comparative Research ",
+        "credits": "3"
+    },
+    "ART 175N": {
+        "description": "Intersections Between Art and Psychology ",
+        "credits": "3"
+    },
+    "ART 207N": {
+        "description": "LGBTQ+ Identity, Culture and The Arts ",
+        "credits": "3"
+    },
+    "ARTH 105N": {
+        "description": "Pictures and Power ",
+        "credits": "3"
+    },
+    "ARTH 222N": {
+        "description": "Intersections between Art History and the History of Psychology ",
+        "credits": "3"
+    },
+    "ARTH 222Q": {
+        "description": "Intersections between Art History and the History of Psychology ",
+        "credits": "3"
+    },
+    "ASIA 101N": {
+        "description": "Sports in Asia ",
+        "credits": "3"
+    },
+    "AYFCE 211N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "AYFCE 270": {
+        "description": "Consumer and Financial Skills ",
+        "credits": "3"
+    },
+    "BA 100": {
+        "description": "Introduction to Business ",
+        "credits": "3"
+    },
+    "BA 100S": {
+        "description": "Introduction to Business ",
+        "credits": "3"
+    },
+    "BBH 150N": {
+        "description": "Safe and Sound: The Intersection of Criminal Justice and Public Health ",
+        "credits": "3"
+    },
+    "BBH 201N": {
+        "description": "Health and the Media ",
+        "credits": "3"
+    },
+    "BIOET 110N": {
+        "description": "Health, Illness, and the Human Condition ",
+        "credits": "3"
+    },
+    "BIOET 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "BIOET 401Q": {
+        "description": "Science, Ethics, Policy, and Law ",
+        "credits": "3"
+    },
+    "BIOL 169N": {
+        "description": "What it means to be human ",
+        "credits": "3"
+    },
+    "CAMS 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "CAS 83": {
+        "description": "First-Year Seminar in Communication Arts and Sciences ",
+        "credits": "3"
+    },
+    "CAS 101N": {
+        "description": "Introduction to Human Communication ",
+        "credits": "3"
+    },
+    "CAS 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "CAS 170N": {
+        "description": "What is Information? ",
+        "credits": "3"
+    },
+    "CAS 175N": {
+        "description": "Persuasion and Propaganda ",
+        "credits": "3"
+    },
+    "CAS 182N": {
+        "description": "Communication and Sport ",
+        "credits": "3"
+    },
+    "CAS 203": {
+        "description": "Interpersonal Communication ",
+        "credits": "3"
+    },
+    "CAS 208N": {
+        "description": "Introduction to Managing Conflict and Bargaining ",
+        "credits": "3"
+    },
+    "CAS 220": {
+        "description": "Persuasion ",
+        "credits": "3"
+    },
+    "CAS 222N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "CAS 232N": {
+        "description": "Identity, Citizenship, and the Rhetoric of American Horror Film ",
+        "credits": "3"
+    },
+    "CAS 250": {
+        "description": "Small Group Communication ",
+        "credits": "3"
+    },
+    "CAS 252": {
+        "description": "Business and Professional Communication ",
+        "credits": "3"
+    },
+    "CAS 253": {
+        "description": "Health Communication ",
+        "credits": "3"
+    },
+    "CAS 271N": {
+        "description": "Intercultural Communication ",
+        "credits": "3"
+    },
+    "CAS 272N": {
+        "description": "Political Communication and Technology ",
+        "credits": "3"
+    },
+    "CAS 283": {
+        "description": "Communication and Information Technology I ",
+        "credits": "3"
+    },
+    "CAS 303": {
+        "description": "Communication Theory ",
+        "credits": "3"
+    },
+    "CAS 303H": {
+        "description": "Introduction to Communication Theory- Honors ",
+        "credits": "3"
+    },
+    "CAS 304": {
+        "description": "Quantitative Methods for Communication Research ",
+        "credits": "3"
+    },
+    "CAS 383N": {
+        "description": "Culture and Technology ",
+        "credits": "3"
+    },
+    "CAS 390": {
+        "description": "Qualitative Research Methods ",
+        "credits": "3"
+    },
+    "CAS 403": {
+        "description": "Interpersonal Communication Theory and Research ",
+        "credits": "3"
+    },
+    "CAS 404": {
+        "description": "Conflict Resolution and Negotiation ",
+        "credits": "3"
+    },
+    "CAS 452": {
+        "description": "Organizational Communication Theory and Research ",
+        "credits": "3"
+    },
+    "CAS 452W": {
+        "description": "Organizational Communication Theory and Research ",
+        "credits": "3"
+    },
+    "CC 200": {
+        "description": "Introduction to Corporate Communication ",
+        "credits": "3"
+    },
+    "CED 102N": {
+        "description": "Wicked Problems Like Inequality, Sustainability & Climate Change: What's the Right Thing to Do? ",
+        "credits": "3"
+    },
+    "CED 109N": {
+        "description": "Gentrification in Everyday Life ",
+        "credits": "3"
+    },
+    "CED 152": {
+        "description": "Community Development Concepts and Practice ",
+        "credits": "3"
+    },
+    "CED 155": {
+        "description": "Science, Technology and Public Policy ",
+        "credits": "3"
+    },
+    "CED 400N": {
+        "description": "Exploring Indigenous Ways of Knowing in Great Lakes Region: Lecture ",
+        "credits": "3"
+    },
+    "CI 185": {
+        "description": "Principles of Social Justice in Education ",
+        "credits": "3"
+    },
+    "CI 304N": {
+        "description": "Food, Farms & Justice: What's Education Got To Do With Them? ",
+        "credits": "3"
+    },
+    "CI 497N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "CIED 410": {
+        "description": "The Global Impact of Education ",
+        "credits": "3"
+    },
+    "CIVCM 211N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "CMAS 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "CMLIT 133N": {
+        "description": "Global Satire and Modern Politics ",
+        "credits": "3"
+    },
+    "COMM 20N": {
+        "description": "Critical Media Literacy ",
+        "credits": "3"
+    },
+    "COMM 100N": {
+        "description": "The Mass Media and Society ",
+        "credits": "3"
+    },
+    "COMM 101N": {
+        "description": "Understanding and Enhancing Creativity ",
+        "credits": "3"
+    },
+    "COMM 118": {
+        "description": "Introduction to Media Effects ",
+        "credits": "3"
+    },
+    "COMM 175N": {
+        "description": "Mental Illness and the Movies ",
+        "credits": "3"
+    },
+    "COMM 180": {
+        "description": "Survey of Electronic Media and Telecommunications ",
+        "credits": "3"
+    },
+    "COMM 190": {
+        "description": "Gaming and Interactive Media ",
+        "credits": "3"
+    },
+    "COMM 205": {
+        "description": "Gender, Diversity and the Media ",
+        "credits": "3"
+    },
+    "COMM 208N": {
+        "description": "Visual Representations of the Middle East in the US and Middle East ",
+        "credits": "3"
+    },
+    "COMM 234N": {
+        "description": "Digital Cultures ",
+        "credits": "3"
+    },
+    "COMM 290N": {
+        "description": "Cinema and Globalization ",
+        "credits": "3"
+    },
+    "CRIM 12": {
+        "description": "Criminology ",
+        "credits": "3"
+    },
+    "CRIM 12H": {
+        "description": "Honors Criminology ",
+        "credits": "3"
+    },
+    "CRIM 100": {
+        "description": "Introduction to Criminal Justice ",
+        "credits": "3"
+    },
+    "CRIM 201": {
+        "description": "Presumed Innocent? Social Science of Wrongful Conviction ",
+        "credits": "3"
+    },
+    "CRIM 225N": {
+        "description": "Organized Crime in Film and Society ",
+        "credits": "3"
+    },
+    "CRIMJ 12": {
+        "description": "Criminology ",
+        "credits": "3"
+    },
+    "CRIMJ 12H": {
+        "description": "Honors Criminology ",
+        "credits": "3"
+    },
+    "CRIMJ 13": {
+        "description": "Juvenile Delinquency ",
+        "credits": "3"
+    },
+    "CRIMJ 100": {
+        "description": "Introduction to Criminal Justice ",
+        "credits": "3"
+    },
+    "CRIMJ 150N": {
+        "description": "Safe and Sound: The Intersection of Criminal Justice and Public Health ",
+        "credits": "3"
+    },
+    "CRIMJ 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "CSD 240": {
+        "description": "Supporting Communication Through The Performing Arts ",
+        "credits": "3"
+    },
+    "CSD 269": {
+        "description": "Deaf Culture ",
+        "credits": "3"
+    },
+    "EARTH 103N": {
+        "description": "Earth in the Future:  Predicting Climate Change and Its Impacts Over the   Next Century ",
+        "credits": "3"
+    },
+    "EARTH 104N": {
+        "description": "Climate, Energy and Our Future ",
+        "credits": "3"
+    },
+    "EARTH 105N": {
+        "description": "Environments of Africa:  Geology and Climate Change ",
+        "credits": "3"
+    },
+    "EARTH 107N": {
+        "description": "Coastal Processes, Hazards and Society ",
+        "credits": "3"
+    },
+    "EARTH 111N": {
+        "description": "Water: Science and Society ",
+        "credits": "3"
+    },
+    "EARTH 200N": {
+        "description": "Earth Systems Through a Soc & Envir Justice Lens ",
+        "credits": "3"
+    },
+    "EBF 200": {
+        "description": "Introduction to Energy and Earth Sciences Economics ",
+        "credits": "3"
+    },
+    "ECON 14": {
+        "description": "Principles of Economics ",
+        "credits": "3"
+    },
+    "ECON 102": {
+        "description": "Introductory Microeconomic Analysis and Policy ",
+        "credits": "3"
+    },
+    "ECON 102H": {
+        "description": "Introductory Microeconomic Analysis and Policy (Honors) ",
+        "credits": "3"
+    },
+    "ECON 104": {
+        "description": "Introductory Macroeconomic Analysis and Policy ",
+        "credits": "3"
+    },
+    "ECON 104H": {
+        "description": "Introductory Macroeconomic Analysis and Policy (Honors) ",
+        "credits": "3"
+    },
+    "ECON 302": {
+        "description": "Intermediate Microeconomic Analysis ",
+        "credits": "3"
+    },
+    "ECON 302H": {
+        "description": "Intermediate Microeconomic Analysis (Honors) ",
+        "credits": "3"
+    },
+    "ECON 304": {
+        "description": "Intermediate Macroeconomic Analysis ",
+        "credits": "3"
+    },
+    "ECON 304H": {
+        "description": "Intermediate Macroeconomic Analysis (Honors) ",
+        "credits": "3"
+    },
+    "ECON 315": {
+        "description": "Labor Economics ",
+        "credits": "3"
+    },
+    "ECON 323": {
+        "description": "Public Finance ",
+        "credits": "3"
+    },
+    "ECON 333": {
+        "description": "International Economics ",
+        "credits": "3"
+    },
+    "ECON 342": {
+        "description": "Industrial Organization ",
+        "credits": "3"
+    },
+    "ECON 472N": {
+        "description": "Russian Economic History ",
+        "credits": "3"
+    },
+    "EDPSY 10": {
+        "description": "Individual Differences and Education ",
+        "credits": "3"
+    },
+    "EDPSY 11": {
+        "description": "Educational Implications of Individual Differences in Childhood ",
+        "credits": "3"
+    },
+    "EDPSY 14": {
+        "description": "Learning and Instruction ",
+        "credits": "3"
+    },
+    "EDPSY 97G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "EDTHP 115": {
+        "description": "Education in American Society ",
+        "credits": "3"
+    },
+    "EDTHP 115A": {
+        "description": "Competing Rights: Issues in American Education ",
+        "credits": "3"
+    },
+    "EDTHP 115S": {
+        "description": "Competing Rights: Issues in American Education ",
+        "credits": "3"
+    },
+    "EDTHP 200": {
+        "description": "Educational Reform and Public Policy ",
+        "credits": "3"
+    },
+    "EDTHP 220": {
+        "description": "Children, Parents and Schools ",
+        "credits": "3"
+    },
+    "EDTHP 410": {
+        "description": "The Global Impact of Education ",
+        "credits": "3"
+    },
+    "EDTHP 426": {
+        "description": "Economic Foundations of Education Policy ",
+        "credits": "3"
+    },
+    "EDUC 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "EDUC 466N": {
+        "description": "Foundations of Teaching English as a Second Language ",
+        "credits": "3"
+    },
+    "EGEE 110N": {
+        "description": "Environmental Health and Safety Science ",
+        "credits": "3"
+    },
+    "EGEE 120": {
+        "description": "Oil: International Evolution ",
+        "credits": "3"
+    },
+    "EGEE 397N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-999"
+    },
+    "ENGL 108N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "ENGL 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "ENGL 165N": {
+        "description": "Work and Literature ",
+        "credits": "3"
+    },
+    "ENGL 170N": {
+        "description": "Introduction to American Folklore ",
+        "credits": "3"
+    },
+    "ENGL 183N": {
+        "description": "The Cold War in Literature, Politics, and History ",
+        "credits": "3"
+    },
+    "ENGL 236N": {
+        "description": "Inequality: Economics, Philosophy, Literature ",
+        "credits": "3"
+    },
+    "ENGR 320Y": {
+        "description": "Design for Global Society ",
+        "credits": "3"
+    },
+    "ENGR 467Q": {
+        "description": "Robots and Their Role in Society ",
+        "credits": "3"
+    },
+    "ENT 202N": {
+        "description": "Insect Connections: Insects, Globalization and Sustainability ",
+        "credits": "3"
+    },
+    "ENT 222N": {
+        "description": "Honey Bees and Humans ",
+        "credits": "3"
+    },
+    "ESC 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "FOR 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "GAME 140": {
+        "description": "Gaming and Interactive Media ",
+        "credits": "3"
+    },
+    "GEOG 1N": {
+        "description": "Global Parks and Sustainability ",
+        "credits": "3"
+    },
+    "GEOG 2N": {
+        "description": "Apocalyptic Geographies: How can we prevent the end of the world? ",
+        "credits": "3"
+    },
+    "GEOG 3N": {
+        "description": "Food and the Future Environment ",
+        "credits": "3"
+    },
+    "GEOG 6N": {
+        "description": "Maps and the Geospatial Revolution ",
+        "credits": "3"
+    },
+    "GEOG 30N": {
+        "description": "Environment and Society in a Changing World ",
+        "credits": "3"
+    },
+    "GEOG 40": {
+        "description": "World Regional Geography ",
+        "credits": "3"
+    },
+    "GEOG 107N": {
+        "description": "Immersive Technologies - Transforming Society Through Digital Innovation ",
+        "credits": "3"
+    },
+    "GEOG 126": {
+        "description": "Economic Geography ",
+        "credits": "3"
+    },
+    "GEOG 128": {
+        "description": "Geography of International Affairs ",
+        "credits": "3"
+    },
+    "GEOG 160": {
+        "description": "Mapping Our Changing World ",
+        "credits": "3"
+    },
+    "GEOG 220": {
+        "description": "Perspectives on Human Geography ",
+        "credits": "3"
+    },
+    "GEOG 260": {
+        "description": "Geographic Information in a Changing World: Introduction to GIScience ",
+        "credits": "3"
+    },
+    "GEOG 324": {
+        "description": "Place, Space and Culture ",
+        "credits": "3"
+    },
+    "GEOG 326": {
+        "description": "Geographic Perspectives on Economic Systems ",
+        "credits": "3"
+    },
+    "GEOG 330N": {
+        "description": "Political Ecology ",
+        "credits": "3"
+    },
+    "GEOG 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "GER 157N": {
+        "description": "The Amish ",
+        "credits": "3"
+    },
+    "GER 200N": {
+        "description": "Contemporary German Culture ",
+        "credits": "3"
+    },
+    "GLIS 101N": {
+        "description": "Globalization ",
+        "credits": "3"
+    },
+    "GLIS 102N": {
+        "description": "Global Pathways ",
+        "credits": "3"
+    },
+    "GLIS 410": {
+        "description": "The Global Impact of Education ",
+        "credits": "3"
+    },
+    "HDFS 101N": {
+        "description": "Helping People: Introduction to Understanding Social Problems & How to Help ",
+        "credits": "3"
+    },
+    "HDFS 108N": {
+        "description": "Art and Science of Human Flourishing ",
+        "credits": "3"
+    },
+    "HDFS 129": {
+        "description": "Introduction to Human Development and Family Studies ",
+        "credits": "3"
+    },
+    "HDFS 175N": {
+        "description": "Introduction to Youth Development and Arts-based Social Justice ",
+        "credits": "3"
+    },
+    "HDFS 215N": {
+        "description": "Global health and families ",
+        "credits": "3"
+    },
+    "HDFS 229": {
+        "description": "Infant and Child Development ",
+        "credits": "3"
+    },
+    "HDFS 239": {
+        "description": "Adolescent Development ",
+        "credits": "3"
+    },
+    "HDFS 249N": {
+        "description": "Adult Development and Aging ",
+        "credits": "3"
+    },
+    "HDFS 254N": {
+        "description": "Reading Our Lives: Understanding Diversity and Human Development through Memoirs ",
+        "credits": "3"
+    },
+    "HDFS 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "HDFS 345": {
+        "description": "CONTEMPORARY URBAN ISSUES AND SOCIAL JUSTICE FRAMEWORKS ",
+        "credits": "3"
+    },
+    "HHD 200N": {
+        "description": "Addiction Science to Society ",
+        "credits": "3"
+    },
+    "HHD 245N": {
+        "description": "Health, humanity, and longevity: Conversations with elders ",
+        "credits": "3"
+    },
+    "HHD 497I": {
+        "description": "Intergenerational Communication ",
+        "credits": "3"
+    },
+    "HHUM 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "HIST 114N": {
+        "description": "Historical Perspectives on HealthCare Innovations ",
+        "credits": "3"
+    },
+    "HIST 116N": {
+        "description": "Family and Gender Roles in Modern History ",
+        "credits": "3"
+    },
+    "HIST 120N": {
+        "description": "History of Modern Europe since 1789 ",
+        "credits": "3"
+    },
+    "HIST 142N": {
+        "description": "History of Communism ",
+        "credits": "3"
+    },
+    "HIST 143N": {
+        "description": "History of Fascism and Nazism ",
+        "credits": "3"
+    },
+    "HIST 145N": {
+        "description": "The Holocaust and Human Rights ",
+        "credits": "3"
+    },
+    "HIST 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "HIST 203N": {
+        "description": "History of Monsters, Aliens & the Supernatural ",
+        "credits": "3"
+    },
+    "HIST 238N": {
+        "description": "Society and Culture in Palestine/Israel ",
+        "credits": "3"
+    },
+    "HIST 402N": {
+        "description": "Russian Economic History ",
+        "credits": "3"
+    },
+    "HM 101": {
+        "description": "Exploring the Global Hospitality Industry ",
+        "credits": "3"
+    },
+    "HM 210N": {
+        "description": "The Impact of Culture and Customs in Global Hospitality Environments ",
+        "credits": "3"
+    },
+    "HM 265W": {
+        "description": "Teams and Leadership in the Hospitality Industry ",
+        "credits": "3"
+    },
+    "HORT 150N": {
+        "description": "Plants in the Human Context ",
+        "credits": "3"
+    },
+    "INTAG 100N": {
+        "description": "Everyone Eats: Hunger, Food Security & Global Agriculture ",
+        "credits": "3"
+    },
+    "INTAG 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "INTST 100": {
+        "description": "Introduction to International Studies ",
+        "credits": "3"
+    },
+    "IST 110": {
+        "description": "Information, People and Technology ",
+        "credits": "3"
+    },
+    "IST 144N": {
+        "description": "Invasion of Technology from a 21st Century Perspective ",
+        "credits": "3"
+    },
+    "IST 170N": {
+        "description": "What is Information? ",
+        "credits": "3"
+    },
+    "IST 222H": {
+        "description": "Community Informatics ",
+        "credits": "3"
+    },
+    "IST 234N": {
+        "description": "Digital Cultures ",
+        "credits": "3"
+    },
+    "IT 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "IT 225N": {
+        "description": "Organized Crime in Film and Society ",
+        "credits": "3"
+    },
+    "JST 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "JST 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "JST 143N": {
+        "description": "History of Fascism and Nazism ",
+        "credits": "3"
+    },
+    "KINES 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "LA 135N": {
+        "description": "College, Work, and Citizenship in the 21st Century ",
+        "credits": "3"
+    },
+    "LDT 100": {
+        "description": "World Technologies and Learning ",
+        "credits": "3"
+    },
+    "LDT 110N": {
+        "description": "Making with Art and Learning Technologies ",
+        "credits": "3"
+    },
+    "LDT 215": {
+        "description": "Creating Designs for Learning ",
+        "credits": "3"
+    },
+    "LHR 83S": {
+        "description": "First-Year Seminar in Labor and Human Resources ",
+        "credits": "3"
+    },
+    "LHR 100": {
+        "description": "Exploring Work and Employment ",
+        "credits": "3"
+    },
+    "LHR 136": {
+        "description": "Race, Gender, and Employment ",
+        "credits": "3"
+    },
+    "LHR 136Y": {
+        "description": "Race, Gender, and Employment ",
+        "credits": "3"
+    },
+    "LHR 160N": {
+        "description": "The Virtual Transformational Leadership Development Experience ",
+        "credits": "3"
+    },
+    "LHR 165N": {
+        "description": "Work and Literature ",
+        "credits": "3"
+    },
+    "LHR 201": {
+        "description": "Employment Relationship: Law and Policy ",
+        "credits": "3"
+    },
+    "LHR 202": {
+        "description": "Understanding Employee Behavior ",
+        "credits": "3"
+    },
+    "LHR 305": {
+        "description": "Human Resources Fundamentals ",
+        "credits": "3"
+    },
+    "LING 1": {
+        "description": "Language, Life and Society ",
+        "credits": "3"
+    },
+    "LING 100": {
+        "description": "Foundations of Linguistics ",
+        "credits": "3"
+    },
+    "LTNST 315N": {
+        "description": "Spanish and Spanish-speakers in the U.S. ",
+        "credits": "3"
+    },
+    "METEO 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "MUSIC 207N": {
+        "description": "Jazz and the African American Experience ",
+        "credits": "3"
+    },
+    "NURS 245": {
+        "description": "Violence and the Impact on Society ",
+        "credits": "3"
+    },
+    "NUTR 175N": {
+        "description": "Healthy Food for All: Factors that Influence What we Eat in the US ",
+        "credits": "3"
+    },
+    "OLEAD 100": {
+        "description": "Introduction to Leadership ",
+        "credits": "3"
+    },
+    "OLEAD 201": {
+        "description": "Organizational Theory and Functions for Leaders ",
+        "credits": "3"
+    },
+    "OLEAD 210": {
+        "description": "Evidence-Based Leadership ",
+        "credits": "3"
+    },
+    "OLEAD 220": {
+        "description": "Emotional, Social, and Cultural Intelligences and the Implications for Leadership ",
+        "credits": "3"
+    },
+    "PHIL 60N": {
+        "description": "Philosophy and 1960s Counterculture ",
+        "credits": "3"
+    },
+    "PHIL 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "PHIL 242N": {
+        "description": "Happiness and Well-Being ",
+        "credits": "3"
+    },
+    "PLSC 1": {
+        "description": "American Politics: Principles, Processes and Powers ",
+        "credits": "3"
+    },
+    "PLSC 1H": {
+        "description": "American Politics: Principles, Processes and Powers ",
+        "credits": "3"
+    },
+    "PLSC 1S": {
+        "description": "American Politics: Principles, Processes and Powers ",
+        "credits": "3"
+    },
+    "PLSC 3": {
+        "description": "Comparing Politics around the Globe ",
+        "credits": "3"
+    },
+    "PLSC 3H": {
+        "description": "Comparing Politics around the Globe ",
+        "credits": "3"
+    },
+    "PLSC 7N": {
+        "description": "Contemporary Political Ideologies ",
+        "credits": "3"
+    },
+    "PLSC 10": {
+        "description": "Scientific Study of Politics ",
+        "credits": "3"
+    },
+    "PLSC 14": {
+        "description": "International Relations ",
+        "credits": "3"
+    },
+    "PLSC 14H": {
+        "description": "International Relations Honors ",
+        "credits": "3"
+    },
+    "PLSC 17N": {
+        "description": "Introduction to Political Theory ",
+        "credits": "3"
+    },
+    "PLSC 17W": {
+        "description": "Introduction to Political Theory ",
+        "credits": "3"
+    },
+    "PLSC 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "PLSC 83S": {
+        "description": "First-Year Seminar in Political Science ",
+        "credits": "3"
+    },
+    "PLSC 90": {
+        "description": "Introduction to Security ",
+        "credits": "3"
+    },
+    "PLSC 112N": {
+        "description": "Ethics in Citizenship, Politics, and Government ",
+        "credits": "3"
+    },
+    "PLSC 114Z": {
+        "description": "Winning Political Support Through Persuasion ",
+        "credits": "3"
+    },
+    "PLSC 120N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "PLSC 132": {
+        "description": "The Politics of International Intolerance ",
+        "credits": "3"
+    },
+    "PLSC 140": {
+        "description": "Contemporary Controversies in International Relations ",
+        "credits": "3"
+    },
+    "PLSC 177N": {
+        "description": "Politics and Government in Washington DC ",
+        "credits": "1-3"
+    },
+    "PLSC 183N": {
+        "description": "The Cold War in Literature, Politics, and History ",
+        "credits": "3"
+    },
+    "PLSC 200N": {
+        "description": "Government and Politics of Europe ",
+        "credits": "3"
+    },
+    "PLSC 201N": {
+        "description": "Politics & Religion: Controversies Around the World ",
+        "credits": "3"
+    },
+    "PLSC 202": {
+        "description": "American Public Policy ",
+        "credits": "3"
+    },
+    "PLSC 210N": {
+        "description": "Rights in America ",
+        "credits": "3"
+    },
+    "PLSC 220": {
+        "description": "Politics of the Developing World ",
+        "credits": "3"
+    },
+    "PLSC 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "PLSC 223N": {
+        "description": "Ethnic and Racial Politics ",
+        "credits": "3"
+    },
+    "PLSC 230": {
+        "description": "American Political Campaigns and Elections ",
+        "credits": "3"
+    },
+    "PLSC 235": {
+        "description": "Environmental Politics ",
+        "credits": "3"
+    },
+    "PLSC 267N": {
+        "description": "Government and Politics of the Middle East ",
+        "credits": "3"
+    },
+    "PLSC 290N": {
+        "description": "Comparative Violence: Political and Criminological Perspectives ",
+        "credits": "3"
+    },
+    "PLSC 291": {
+        "description": "Introduction to Peace and Conflict Studies ",
+        "credits": "3"
+    },
+    "PORT 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "PSYCH 83S": {
+        "description": "First-Year Seminar in Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 100": {
+        "description": "Introductory Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 100H": {
+        "description": "Honors Introductory Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 100S": {
+        "description": "Introductory Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 109N": {
+        "description": "The Psychology of Artistic Creativity ",
+        "credits": "3"
+    },
+    "PSYCH 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "PSYCH 144": {
+        "description": "Climate Change: Individual Behaviors and Group Attitudes ",
+        "credits": "3"
+    },
+    "PSYCH 150N": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "PSYCH 150Q": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "PSYCH 169N": {
+        "description": "What it means to be human ",
+        "credits": "3"
+    },
+    "PSYCH 175N": {
+        "description": "Mental Illness and the Movies ",
+        "credits": "3"
+    },
+    "PSYCH 212": {
+        "description": "Introduction to Developmental Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 217N": {
+        "description": "The Science of Human Resilience ",
+        "credits": "3"
+    },
+    "PSYCH 221": {
+        "description": "Introduction to Social Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 230": {
+        "description": "Introduction to Psychologies of Religion ",
+        "credits": "3"
+    },
+    "PSYCH 231": {
+        "description": "Introduction to the Psychology of Gender ",
+        "credits": "3"
+    },
+    "PSYCH 232": {
+        "description": "Cross-Cultural Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 238": {
+        "description": "Introduction to Personality Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 243": {
+        "description": "Introduction to Well-being and Positive Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 244": {
+        "description": "Introduction to the Psychology of Human Factors Engineering ",
+        "credits": "3"
+    },
+    "PSYCH 246N": {
+        "description": "Human Factors in Design & Art ",
+        "credits": "3"
+    },
+    "PSYCH 253": {
+        "description": "Introduction to Psychology of Perception ",
+        "credits": "3"
+    },
+    "PSYCH 256": {
+        "description": "Introduction to Cognitive Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 260A": {
+        "description": "Neurological Bases of Human Behavior ",
+        "credits": "3"
+    },
+    "PSYCH 261": {
+        "description": "Introduction to Psychology of Learning ",
+        "credits": "3"
+    },
+    "PSYCH 263N": {
+        "description": "Science of Learning ",
+        "credits": "3"
+    },
+    "PSYCH 281": {
+        "description": "Introduction to Industrial-Organizational Psychology ",
+        "credits": "3"
+    },
+    "PSYCH 297G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "PUBPL 120N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "PUBPL 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "RHS 100": {
+        "description": "Introduction to Disability Culture ",
+        "credits": "3"
+    },
+    "RLST 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "RLST 105N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "RPTM 120": {
+        "description": "Leisure and Human Behavior ",
+        "credits": "3"
+    },
+    "RPTM 120S": {
+        "description": "Leisure and Human Behavior ",
+        "credits": "3"
+    },
+    "RPTM 220": {
+        "description": "Sustainability, Society, and Well-being ",
+        "credits": "3"
+    },
+    "RPTM 277": {
+        "description": "Inclusive Leisure Services ",
+        "credits": "3"
+    },
+    "RSOC 11": {
+        "description": "Intro Rural Sociology ",
+        "credits": "3"
+    },
+    "RSOC 400N": {
+        "description": "Exploring Indigenous Ways of Knowing in Great Lakes Region: Lecture ",
+        "credits": "3"
+    },
+    "SC 135N": {
+        "description": "Society and Disease Management ",
+        "credits": "3"
+    },
+    "SOC 1": {
+        "description": "Introductory Sociology ",
+        "credits": "3"
+    },
+    "SOC 1W": {
+        "description": "Introductory Sociology ",
+        "credits": "3"
+    },
+    "SOC 3": {
+        "description": "Introductory Social Psychology ",
+        "credits": "3"
+    },
+    "SOC 5": {
+        "description": "Social Problems ",
+        "credits": "3"
+    },
+    "SOC 12": {
+        "description": "Criminology ",
+        "credits": "3"
+    },
+    "SOC 12H": {
+        "description": "Honors Criminology ",
+        "credits": "3"
+    },
+    "SOC 13": {
+        "description": "Juvenile Delinquency ",
+        "credits": "3"
+    },
+    "SOC 15": {
+        "description": "Urban Sociology ",
+        "credits": "3"
+    },
+    "SOC 19": {
+        "description": "Sociology of Popular Culture ",
+        "credits": "3"
+    },
+    "SOC 20N": {
+        "description": "Critical Media Literacy ",
+        "credits": "3"
+    },
+    "SOC 23": {
+        "description": "Population and Policy Issues ",
+        "credits": "3"
+    },
+    "SOC 30": {
+        "description": "Sociology of the Family ",
+        "credits": "3"
+    },
+    "SOC 30H": {
+        "description": "Sociology of Family - Honors ",
+        "credits": "3"
+    },
+    "SOC 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "SOC 83": {
+        "description": "First-Year Seminar in Sociology ",
+        "credits": "3"
+    },
+    "SOC 110": {
+        "description": "Sociology of Gender ",
+        "credits": "3"
+    },
+    "SOC 119N": {
+        "description": "Race, Ethnicity and Culture ",
+        "credits": "3-4"
+    },
+    "SOC 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "SOC 130N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "SOC 145N": {
+        "description": "The Holocaust and Human Rights ",
+        "credits": "3"
+    },
+    "SOC 150N": {
+        "description": "Healthy People, Healthy Society ",
+        "credits": "3"
+    },
+    "SOC 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "SOC 180N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "SOC 201": {
+        "description": "Presumed Innocent? Social Science of Wrongful Conviction ",
+        "credits": "3"
+    },
+    "SOC 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "SOC 208N": {
+        "description": "Visual Representations of the Middle East in the US and Middle East ",
+        "credits": "3"
+    },
+    "SOC 209": {
+        "description": "Poverty in Africa ",
+        "credits": "3"
+    },
+    "SOC 210N": {
+        "description": "Social Determinants of Health ",
+        "credits": "3"
+    },
+    "SOC 211": {
+        "description": "Health Inequality: Understanding the Geographies of Life and Death ",
+        "credits": "3"
+    },
+    "SOC 245N": {
+        "description": "Globalization, Technology, and Ethics ",
+        "credits": "3"
+    },
+    "SOC 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "SOC 269": {
+        "description": "Intercultural Dialogue Concepts and Practice ",
+        "credits": "1-4"
+    },
+    "SOC 290N": {
+        "description": "Cinema and Globalization ",
+        "credits": "3"
+    },
+    "SOC 397G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "SOC 410": {
+        "description": "The Global Impact of Education ",
+        "credits": "3"
+    },
+    "SOC 451": {
+        "description": "Health, Disease & Society ",
+        "credits": "3"
+    },
+    "SOC 469": {
+        "description": "Advanced Theory and Practice in Small Group Facilitation ",
+        "credits": "3-4"
+    },
+    "SOCW 195": {
+        "description": "Introduction to Social Work with Field Hours ",
+        "credits": "3"
+    },
+    "SOCW 205": {
+        "description": "Diversity, Equity, Inclusion, and Justice ",
+        "credits": "3"
+    },
+    "SOCW 215": {
+        "description": "Introduction to Social Welfare History, Policy, Programs, and Services ",
+        "credits": "3"
+    },
+    "SOCW 290": {
+        "description": "Human Behavior and the Social Environment ",
+        "credits": "3"
+    },
+    "SPAN 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "SPAN 315N": {
+        "description": "Spanish and Spanish-speakers in the U.S. ",
+        "credits": "3"
+    },
+    "SRA 111": {
+        "description": "Introduction to Security and Risk Analysis ",
+        "credits": "3"
+    },
+    "SSED 100N": {
+        "description": "Foundations of History and Social Studies Concepts for K-8 Teachers ",
+        "credits": "3"
+    },
+    "STS 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "STS 200": {
+        "description": "Critical Issues in Science, Technology, and Society ",
+        "credits": "3"
+    },
+    "STS 245N": {
+        "description": "Globalization, Technology, and Ethics ",
+        "credits": "3"
+    },
+    "SUST 150N": {
+        "description": "The Science of Sustainable Development ",
+        "credits": "3"
+    },
+    "SUST 200": {
+        "description": "Foundations of Leadership in Sustainability ",
+        "credits": "3"
+    },
+    "SUST 242N": {
+        "description": "Issues in Sustainability ",
+        "credits": "3"
+    },
+    "THEA 101N": {
+        "description": "Performance and Society ",
+        "credits": "3"
+    },
+    "WFS 209N": {
+        "description": "Wildlife and Fisheries Conservation ",
+        "credits": "3"
+    },
+    "WMNST 83N": {
+        "description": "First-Year Seminar in Women's Studies ",
+        "credits": "3"
+    },
+    "WMNST 100": {
+        "description": "Introduction to Women's and Gender Studies ",
+        "credits": "3"
+    },
+    "WMNST 100U": {
+        "description": "Introduction to Women's and Gender Studies ",
+        "credits": "3"
+    },
+    "WMNST 101N": {
+        "description": "African American Women ",
+        "credits": "3"
+    },
+    "WMNST 105N": {
+        "description": "Living in a Diverse World ",
+        "credits": "3"
+    },
+    "WMNST 110": {
+        "description": "Sociology of Gender ",
+        "credits": "3"
+    },
+    "WMNST 116N": {
+        "description": "Family and Gender Roles in Modern History ",
+        "credits": "3"
+    },
+    "WMNST 120": {
+        "description": "Sex, Gender, and the Body ",
+        "credits": "3"
+    },
+    "WMNST 136": {
+        "description": "Race, Gender, and Employment ",
+        "credits": "3"
+    },
+    "WMNST 136Y": {
+        "description": "Race, Gender, and Employment ",
+        "credits": "3"
+    },
+    "WMNST 200": {
+        "description": "Global Feminisms ",
+        "credits": "3"
+    },
+    "WMNST 202N": {
+        "description": "Women, Gender, and Feminisms in Africa ",
+        "credits": "3"
+    },
+    "WMNST 205": {
+        "description": "Gender, Diversity and the Media ",
+        "credits": "3"
+    },
+    "WMNST 207N": {
+        "description": "LGBTQ+ Identity, Culture and The Arts ",
+        "credits": "3"
+    },
+    "WMNST 220": {
+        "description": "Beyond Birth Control: Feminist Perspectives on Women's Sexualities ",
+        "credits": "3"
+    },
+    "WMNST 230N": {
+        "description": "Dangerous Bodies ",
+        "credits": "3"
+    },
+    "WMNST 301N": {
+        "description": "Sexualities, Gender and Power: Feminist Thought and Politics ",
+        "credits": "3"
+    },
+    "WMNST 364N": {
+        "description": "Black & White Sexuality ",
+        "credits": "3"
+    },
+    "WMNST 400N": {
+        "description": "Debates in Contemporary Feminism ",
+        "credits": "3"
+    },
+    "WMNST 440W": {
+        "description": "Women in Global Cities ",
+        "credits": "3"
+    }
+}

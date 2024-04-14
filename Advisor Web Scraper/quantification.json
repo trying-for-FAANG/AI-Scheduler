@@ -1,0 +1,250 @@
+{
+    "ACS 97N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "AERSP 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "AGBM 106": {
+        "description": "Agribusiness Problem Solving ",
+        "credits": "3"
+    },
+    "CMPSC 101": {
+        "description": "Introduction to Programming ",
+        "credits": "3"
+    },
+    "CMPSC 200": {
+        "description": "Programming for Engineers with MATLAB ",
+        "credits": "3"
+    },
+    "CMPSC 201": {
+        "description": "Programming for Engineers with C++ ",
+        "credits": "3"
+    },
+    "CMPSC 203": {
+        "description": "Introduction to Spreadsheets and Databases ",
+        "credits": "4"
+    },
+    "CMPSC 208": {
+        "description": "Technical Game Development ",
+        "credits": "3"
+    },
+    "CRIMJ 260": {
+        "description": "Statistical Analysis for the Social Sciences ",
+        "credits": "3"
+    },
+    "DA 101": {
+        "description": "Introduction to Data Analytics ",
+        "credits": "3"
+    },
+    "EDPSY 101": {
+        "description": "Analysis and Interpretation of Statistical Data in Education ",
+        "credits": "3"
+    },
+    "EME 210": {
+        "description": "Data Analytics for Energy Systems ",
+        "credits": "3"
+    },
+    "GAME 250": {
+        "description": "Technical Game Development ",
+        "credits": "3"
+    },
+    "GAME 251": {
+        "description": "2D Game Programming ",
+        "credits": "3"
+    },
+    "GEOSC 210": {
+        "description": "Geoscience Data Analytics ",
+        "credits": "3"
+    },
+    "HDFS 200": {
+        "description": "Quantitative Skills for Human Services ",
+        "credits": "3"
+    },
+    "HM 350": {
+        "description": "Hospitality Revenue and Profit Optimization ",
+        "credits": "3"
+    },
+    "KINES 384": {
+        "description": "Biomechanics ",
+        "credits": "3"
+    },
+    "MATH 21": {
+        "description": "College Algebra with Analytic Geometry with Applications I ",
+        "credits": "3"
+    },
+    "MATH 22": {
+        "description": "College Algebra With Analytic Geometry and Applications II ",
+        "credits": "3"
+    },
+    "MATH 26": {
+        "description": "Plane Trigonometry and Applications of Trigonometry ",
+        "credits": "3"
+    },
+    "MATH 26H": {
+        "description": "Plane Trigonometry ",
+        "credits": "3"
+    },
+    "MATH 32": {
+        "description": "Math for Allied Health Professions ",
+        "credits": "3"
+    },
+    "MATH 33": {
+        "description": "Mathematics for Sustainability ",
+        "credits": "3"
+    },
+    "MATH 34": {
+        "description": "The Mathematics of Money ",
+        "credits": "3"
+    },
+    "MATH 35": {
+        "description": "General View of Mathematics ",
+        "credits": "3"
+    },
+    "MATH 36": {
+        "description": "Insights Into Mathematics ",
+        "credits": "3"
+    },
+    "MATH 37": {
+        "description": "Finite Mathematics ",
+        "credits": "3"
+    },
+    "MATH 38": {
+        "description": "Elementary Linear Algebra ",
+        "credits": "3"
+    },
+    "MATH 40": {
+        "description": "Algebra, Trigonometry, and Analytic Geometry ",
+        "credits": "5"
+    },
+    "MATH 41": {
+        "description": "Trigonometry and Analytic Geometry ",
+        "credits": "4"
+    },
+    "MATH 81": {
+        "description": "Technical Mathematics I ",
+        "credits": "3"
+    },
+    "MATH 82": {
+        "description": "Technical Mathematics II ",
+        "credits": "3"
+    },
+    "MATH 83": {
+        "description": "Technical Calculus ",
+        "credits": "4"
+    },
+    "MATH 97G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "MATH 110": {
+        "description": "Techniques of Calculus I ",
+        "credits": "4"
+    },
+    "MATH 111": {
+        "description": "Techniques of Calculus II ",
+        "credits": "2"
+    },
+    "MATH 140": {
+        "description": "Calculus With Analytic Geometry I ",
+        "credits": "4"
+    },
+    "MATH 140B": {
+        "description": "Calculus and Biology I ",
+        "credits": "4"
+    },
+    "MATH 140E": {
+        "description": "Calculus with Engineering Applications I ",
+        "credits": "4"
+    },
+    "MATH 140G": {
+        "description": "Calculus with Earth and Mineral Sciences Applications I ",
+        "credits": "4"
+    },
+    "MATH 140H": {
+        "description": "Honors Calculus with Analytic Geometry I ",
+        "credits": "4"
+    },
+    "MATH 141": {
+        "description": "Calculus with Analytic Geometry II ",
+        "credits": "4"
+    },
+    "MATH 141B": {
+        "description": "Calculus and Biology II ",
+        "credits": "4"
+    },
+    "MATH 141E": {
+        "description": "Calculus with Engineering Applications II ",
+        "credits": "4"
+    },
+    "MATH 141G": {
+        "description": "Calculus with Earth and Mineral Sciences Applications II ",
+        "credits": "4"
+    },
+    "MATH 141H": {
+        "description": "Honors Calculus with Analytic Geometry II ",
+        "credits": "4"
+    },
+    "MATH 200": {
+        "description": "Problem Solving in Mathematics ",
+        "credits": "3"
+    },
+    "MATH 201": {
+        "description": "Problem Solving in Mathematics II ",
+        "credits": "3"
+    },
+    "MATH 210": {
+        "description": "Calculus with Engineering Technology Applications ",
+        "credits": "3"
+    },
+    "MATH 211": {
+        "description": "Intermediate Calculus and Differential Equations with Applications ",
+        "credits": "3"
+    },
+    "MATH 220": {
+        "description": "Matrices ",
+        "credits": "2-3"
+    },
+    "MATH 220H": {
+        "description": "Honors Matrices ",
+        "credits": "2-3"
+    },
+    "MIS 204": {
+        "description": "Introduction to Management Information Systems ",
+        "credits": "3"
+    },
+    "PHIL 12": {
+        "description": "Symbolic Logic ",
+        "credits": "3"
+    },
+    "PSYCH 200": {
+        "description": "Elementary Statistics in Psychology ",
+        "credits": "4"
+    },
+    "SCM 200": {
+        "description": "Introduction to Statistics for Business ",
+        "credits": "4"
+    },
+    "SCM 200H": {
+        "description": "Honors Introduction to Statistics for Business ",
+        "credits": "4"
+    },
+    "STAT 100": {
+        "description": "Statistical Concepts and Reasoning ",
+        "credits": "3"
+    },
+    "STAT 200": {
+        "description": "Elementary Statistics ",
+        "credits": "4"
+    },
+    "STAT 240": {
+        "description": "Introduction to Biometry ",
+        "credits": "3"
+    },
+    "STAT 250": {
+        "description": "Introduction to Biostatistics ",
+        "credits": "3"
+    }
+}

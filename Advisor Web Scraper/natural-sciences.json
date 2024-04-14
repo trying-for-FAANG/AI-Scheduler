@@ -1,0 +1,874 @@
+{
+    "ACS 97G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "ACS 97N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "AEE 204N": {
+        "description": "Science Literacy and Policy in the 21st Century ",
+        "credits": "3"
+    },
+    "AERSP 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "AFR 105": {
+        "description": "African Biodiversity and Conservation ",
+        "credits": "3"
+    },
+    "AG 180N": {
+        "description": "Contemporary Issues in Food, Ag, Natural Resources, and Human Sciences ",
+        "credits": "3"
+    },
+    "AGBM 170N": {
+        "description": "Investigating the U.S. Food System: How food moves from field to table ",
+        "credits": "3"
+    },
+    "AGECO 121": {
+        "description": "Plant Stress: It's Not Easy Being Green ",
+        "credits": "3"
+    },
+    "AGECO 122": {
+        "description": "Atmospheric Environment: Growing in the Wind ",
+        "credits": "3"
+    },
+    "AGECO 134N": {
+        "description": "Sustainable Agriculture Science and Policy ",
+        "credits": "3"
+    },
+    "AGECO 144": {
+        "description": "Principles and Practices of Organic Agriculture ",
+        "credits": "3"
+    },
+    "ANSC 100": {
+        "description": "Introduction to Animal Industries ",
+        "credits": "3"
+    },
+    "ANSC 107": {
+        "description": "Introduction to Equine Science and the Equine Industry ",
+        "credits": "3"
+    },
+    "ANSC 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "ANSC 447": {
+        "description": "Equine Exercise Physiology ",
+        "credits": "3"
+    },
+    "ANTH 21": {
+        "description": "Introductory Biological Anthropology ",
+        "credits": "3"
+    },
+    "ANTH 22": {
+        "description": "Humans as Primates ",
+        "credits": "3"
+    },
+    "ANTH 40Q": {
+        "description": "Biocultural Evolution ",
+        "credits": "3"
+    },
+    "ANTH 100N": {
+        "description": "Anthropology of Race and Racism ",
+        "credits": "3"
+    },
+    "ANTH 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "ANTH 150N": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "ANTH 150Q": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "ANTH 210N": {
+        "description": "Anthropology, Ancestry, and You ",
+        "credits": "3"
+    },
+    "ANTH 216N": {
+        "description": "Sex and Evolution ",
+        "credits": "3"
+    },
+    "ANTH 219N": {
+        "description": "Spillover: The Anthropology of Emerging Infectious Diseases ",
+        "credits": "3"
+    },
+    "ANTH 240N": {
+        "description": "Livelihoods and Ecosystems: Anthropological Approaches to Human-Environment Interaction ",
+        "credits": "3"
+    },
+    "ANTH 375Q": {
+        "description": "Anthropology of Food Honors ",
+        "credits": "3"
+    },
+    "ARCH 170N": {
+        "description": "Introduction to Sustainable Architecture ",
+        "credits": "3"
+    },
+    "ART 51N": {
+        "description": "Meteorology and Visual Arts: To Know is to See ",
+        "credits": "3"
+    },
+    "ART 160N": {
+        "description": "STEAM: Connecting Art to Science, Technology, Engineering and Mathematics ",
+        "credits": "3"
+    },
+    "ART 170N": {
+        "description": "Plant and Microbial Art ",
+        "credits": "3"
+    },
+    "ARTH 107N": {
+        "description": "Rocks, Minerals, and the History of Art ",
+        "credits": "3"
+    },
+    "ASTRO 1": {
+        "description": "Astronomical Universe ",
+        "credits": "3"
+    },
+    "ASTRO 5": {
+        "description": "The Sky and Planets ",
+        "credits": "3"
+    },
+    "ASTRO 6": {
+        "description": "Stars, Galaxies, and the Universe ",
+        "credits": "3"
+    },
+    "ASTRO 7N": {
+        "description": "The Artistic Universe ",
+        "credits": "3"
+    },
+    "ASTRO 10": {
+        "description": "Elementary Astronomy ",
+        "credits": "2"
+    },
+    "ASTRO 11": {
+        "description": "Elementary Astronomy Laboratory ",
+        "credits": "1"
+    },
+    "ASTRO 19N": {
+        "description": "Being in the Universe ",
+        "credits": "3"
+    },
+    "ASTRO 120": {
+        "description": "The Big Bang Universe ",
+        "credits": "3"
+    },
+    "ASTRO 130": {
+        "description": "Black Holes in the Universe ",
+        "credits": "3"
+    },
+    "ASTRO 140": {
+        "description": "Life in the Universe ",
+        "credits": "3"
+    },
+    "ASTRO 141N": {
+        "description": "Film and Extraterrestrial Life: Science Fact or Fiction? ",
+        "credits": "3"
+    },
+    "ASTRO 291": {
+        "description": "Astronomical Methods and the Solar System ",
+        "credits": "3"
+    },
+    "ASTRO 320": {
+        "description": "Observational Astronomy Laboratory ",
+        "credits": "3"
+    },
+    "BIOL 11": {
+        "description": "Introductory Biology I ",
+        "credits": "3"
+    },
+    "BIOL 12": {
+        "description": "Introductory Biology II ",
+        "credits": "1"
+    },
+    "BIOL 110": {
+        "description": "Biology:  Basic Concepts and Biodiversity ",
+        "credits": "4"
+    },
+    "BIOL 110H": {
+        "description": "Honors Biology: Basic Concepts and Biodiversity ",
+        "credits": "4"
+    },
+    "BIOL 127": {
+        "description": "Introduction to Plant Biology ",
+        "credits": "3"
+    },
+    "BIOL 133": {
+        "description": "Genetics and Evolution of the Human Species ",
+        "credits": "3"
+    },
+    "BIOL 141": {
+        "description": "Introduction to Human Physiology ",
+        "credits": "3"
+    },
+    "BIOL 144": {
+        "description": "Climate Change: Biological Impacts ",
+        "credits": "3"
+    },
+    "BIOL 155": {
+        "description": "Introduction to the Biology of Aging ",
+        "credits": "3"
+    },
+    "BIOL 160N": {
+        "description": "Fitness with Exercise Physiology ",
+        "credits": "3"
+    },
+    "BIOL 161": {
+        "description": "Human Anatomy and Physiology I - Lecture ",
+        "credits": "3"
+    },
+    "BIOL 162": {
+        "description": "Human Anatomy and Physiology I - Laboratory ",
+        "credits": "1"
+    },
+    "BIOL 163": {
+        "description": "Human Anatomy and Physiology II - Lecture ",
+        "credits": "3"
+    },
+    "BIOL 164": {
+        "description": "Human Anatomy and Physiology II - Laboratory ",
+        "credits": "1"
+    },
+    "BIOL 169N": {
+        "description": "What it means to be human ",
+        "credits": "3"
+    },
+    "BIOL 177": {
+        "description": "Biology of Sex ",
+        "credits": "3"
+    },
+    "BISC 2": {
+        "description": "Genetics, Ecology, and Evolution ",
+        "credits": "3"
+    },
+    "BISC 3": {
+        "description": "Environmental Science ",
+        "credits": "3"
+    },
+    "BISC 4": {
+        "description": "Human Body: Form and Function ",
+        "credits": "3"
+    },
+    "BMB 1": {
+        "description": "The Science of Sickness ",
+        "credits": "3"
+    },
+    "BMB 1Z": {
+        "description": "The Science of Sickness - Linked ",
+        "credits": "3"
+    },
+    "CHEM 1": {
+        "description": "Molecular Science ",
+        "credits": "3"
+    },
+    "CHEM 3": {
+        "description": "Molecular Science With Laboratory ",
+        "credits": "3"
+    },
+    "CHEM 5": {
+        "description": "Kitchen Chemistry ",
+        "credits": "3"
+    },
+    "CHEM 101": {
+        "description": "Introductory Chemistry ",
+        "credits": "2-3"
+    },
+    "CHEM 106": {
+        "description": "Introductory and General Chemistry ",
+        "credits": "5"
+    },
+    "CHEM 110": {
+        "description": "Chemical Principles I ",
+        "credits": "3"
+    },
+    "CHEM 110H": {
+        "description": "Chemical Principles I - Honors ",
+        "credits": "3"
+    },
+    "CHEM 111": {
+        "description": "Experimental Chemistry I ",
+        "credits": "1"
+    },
+    "CHEM 112": {
+        "description": "Chemical Principles II ",
+        "credits": "3"
+    },
+    "CHEM 112H": {
+        "description": "Chemical Principles II - Honors ",
+        "credits": "3"
+    },
+    "CHEM 113": {
+        "description": "Experimental Chemistry II ",
+        "credits": "1"
+    },
+    "CHEM 113B": {
+        "description": "Experimental Chemistry II--Bioscience ",
+        "credits": "1"
+    },
+    "CHEM 130": {
+        "description": "Introduction to General, Organic, and Biochemistry ",
+        "credits": "3"
+    },
+    "CHEM 233N": {
+        "description": "Chemistry and Literature ",
+        "credits": "3"
+    },
+    "CMLIT 19N": {
+        "description": "Being in the Universe ",
+        "credits": "3"
+    },
+    "CMLIT 183Q": {
+        "description": "From Beast Books to Resurrecting Dinosaurs ",
+        "credits": "3"
+    },
+    "COMM 151N": {
+        "description": "Film and Extraterrestrial Life: Science Fact or Fiction? ",
+        "credits": "3"
+    },
+    "DANCE 370": {
+        "description": "Anatomy and Physiology for Performers ",
+        "credits": "3"
+    },
+    "DANCE 370Z": {
+        "description": "Anatomy and Physiology for Performers ",
+        "credits": "3"
+    },
+    "EARTH 2": {
+        "description": "The Earth System and Global Change ",
+        "credits": "3"
+    },
+    "EARTH 10": {
+        "description": "Energy and Earth's Climate ",
+        "credits": "1"
+    },
+    "EARTH 100": {
+        "description": "Environment Earth ",
+        "credits": "3"
+    },
+    "EARTH 101": {
+        "description": "Natural Disasters:  Hollywood vs. Reality ",
+        "credits": "3"
+    },
+    "EARTH 103N": {
+        "description": "Earth in the Future:  Predicting Climate Change and Its Impacts Over the   Next Century ",
+        "credits": "3"
+    },
+    "EARTH 104N": {
+        "description": "Climate, Energy and Our Future ",
+        "credits": "3"
+    },
+    "EARTH 105N": {
+        "description": "Environments of Africa:  Geology and Climate Change ",
+        "credits": "3"
+    },
+    "EARTH 107N": {
+        "description": "Coastal Processes, Hazards and Society ",
+        "credits": "3"
+    },
+    "EARTH 109": {
+        "description": "The Fundamentals of Shale Energy Development ",
+        "credits": "3"
+    },
+    "EARTH 111N": {
+        "description": "Water: Science and Society ",
+        "credits": "3"
+    },
+    "EARTH 150": {
+        "description": "Dinosaur Extinctions and Other Controversies ",
+        "credits": "3"
+    },
+    "EARTH 155N": {
+        "description": "Scientific Controversies and Public Debate ",
+        "credits": "3"
+    },
+    "EARTH 200N": {
+        "description": "Earth Systems Through a Soc & Envir Justice Lens ",
+        "credits": "3"
+    },
+    "EGEE 101": {
+        "description": "Energy and the Environment ",
+        "credits": "3"
+    },
+    "EGEE 101H": {
+        "description": "Energy and the Environment ",
+        "credits": "3"
+    },
+    "EGEE 102": {
+        "description": "Energy Conservation for Environmental Protection ",
+        "credits": "3"
+    },
+    "EGEE 110N": {
+        "description": "Environmental Health and Safety Science ",
+        "credits": "3"
+    },
+    "EGEE 397N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-999"
+    },
+    "EMSC 240N": {
+        "description": "Energy and Sustainability in Contemporary Culture ",
+        "credits": "3"
+    },
+    "ENGL 142N": {
+        "description": "Science in Literature ",
+        "credits": "3"
+    },
+    "ENGL 163N": {
+        "description": "Defining the Animal ",
+        "credits": "3"
+    },
+    "ENGL 233N": {
+        "description": "Chemistry and Literature ",
+        "credits": "3"
+    },
+    "ENGR 115N": {
+        "description": "Science, Humanity and Catastrophe: Scientific Discovery in Germany ",
+        "credits": "3"
+    },
+    "ENGR 120N": {
+        "description": "Design Thinking and 3D Printing in Engineering and Healthcare ",
+        "credits": "3"
+    },
+    "ENT 202N": {
+        "description": "Insect Connections: Insects, Globalization and Sustainability ",
+        "credits": "3"
+    },
+    "ENT 216N": {
+        "description": "Plagues Through the Ages ",
+        "credits": "3"
+    },
+    "ENT 222N": {
+        "description": "Honey Bees and Humans ",
+        "credits": "3"
+    },
+    "ENVST 100N": {
+        "description": "Visions of Nature ",
+        "credits": "3"
+    },
+    "FDSC 223": {
+        "description": "Understanding Science Through Wine Beer and Bread ",
+        "credits": "3"
+    },
+    "FOR 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "FRNSC 100": {
+        "description": "Introduction to Forensic Science ",
+        "credits": "3"
+    },
+    "FRNSC 200": {
+        "description": "Introduction to Crime Scene Investigation ",
+        "credits": "3"
+    },
+    "GAME 180N": {
+        "description": "The Art and Science of Virtual Worlds ",
+        "credits": "3"
+    },
+    "GEOG 1N": {
+        "description": "Global Parks and Sustainability ",
+        "credits": "3"
+    },
+    "GEOG 3N": {
+        "description": "Food and the Future Environment ",
+        "credits": "3"
+    },
+    "GEOG 4": {
+        "description": "Earth and Environmental Systems Geography ",
+        "credits": "3"
+    },
+    "GEOG 6N": {
+        "description": "Maps and the Geospatial Revolution ",
+        "credits": "3"
+    },
+    "GEOG 30N": {
+        "description": "Environment and Society in a Changing World ",
+        "credits": "3"
+    },
+    "GEOG 107N": {
+        "description": "Immersive Technologies - Transforming Society Through Digital Innovation ",
+        "credits": "3"
+    },
+    "GEOG 115": {
+        "description": "Landforms of the World ",
+        "credits": "3"
+    },
+    "GEOG 210": {
+        "description": "Geographic Perspectives on Environmental Systems Science ",
+        "credits": "3"
+    },
+    "GEOG 315": {
+        "description": "Landforms and Geomorphic Systems in the Anthropocene ",
+        "credits": "3"
+    },
+    "GEOG 330N": {
+        "description": "Political Ecology ",
+        "credits": "3"
+    },
+    "GEOG 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "GEOSC 10": {
+        "description": "Geology of the National Parks ",
+        "credits": "3"
+    },
+    "GEOSC 20": {
+        "description": "Planet Earth ",
+        "credits": "3"
+    },
+    "GEOSC 30": {
+        "description": "Volcanoes ",
+        "credits": "3"
+    },
+    "GEOSC 40": {
+        "description": "The Sea Around Us ",
+        "credits": "3"
+    },
+    "GEOSC 50": {
+        "description": "Planetary Geology ",
+        "credits": "3"
+    },
+    "GEOSC 97N": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "GEOSC 107N": {
+        "description": "Rocks, Minerals, and the History of Art ",
+        "credits": "3"
+    },
+    "GEOSC 110H": {
+        "description": "The Science of Gemstones ",
+        "credits": "3"
+    },
+    "GEOSC 212N": {
+        "description": "Earthquakes and Human History ",
+        "credits": "3"
+    },
+    "GER 115N": {
+        "description": "Science, Humanity and Catastrophe: Scientific Discovery in Germany ",
+        "credits": "3"
+    },
+    "GER 197E": {
+        "description": "Special Topics GN/GH ",
+        "credits": "3"
+    },
+    "HHD 200N": {
+        "description": "Addiction Science to Society ",
+        "credits": "3"
+    },
+    "HIST 6N": {
+        "description": "History and Weather: How Weather Played an Instrumental Role in Great World Events ",
+        "credits": "3"
+    },
+    "HIST 125N": {
+        "description": "History of Infectious Disease and Epidemiology ",
+        "credits": "3"
+    },
+    "HIST 128N": {
+        "description": "Cultural Perspectives on Mathematics ",
+        "credits": "3"
+    },
+    "HIST 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "HIST 212N": {
+        "description": "Earthquakes and Human History ",
+        "credits": "3"
+    },
+    "HORT 101": {
+        "description": "Horticultural Science ",
+        "credits": "3"
+    },
+    "HORT 150N": {
+        "description": "Plants in the Human Context ",
+        "credits": "3"
+    },
+    "HORT 169N": {
+        "description": "Fundamentals of Home Landscaping: An Introduction to Design, Construction, and Maintenance ",
+        "credits": "3"
+    },
+    "INART 50": {
+        "description": "The Science of Music ",
+        "credits": "3"
+    },
+    "INTAG 100N": {
+        "description": "Everyone Eats: Hunger, Food Security & Global Agriculture ",
+        "credits": "3"
+    },
+    "INTAG 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "KINES 160N": {
+        "description": "Fitness with Exercise Physiology ",
+        "credits": "3"
+    },
+    "LARCH 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "MATSE 81": {
+        "description": "Materials in Today's World ",
+        "credits": "3"
+    },
+    "MATSE 101": {
+        "description": "Energy and the Environment ",
+        "credits": "3"
+    },
+    "MATSE 112": {
+        "description": "Applied Materials Chemistry for Engineers ",
+        "credits": "3"
+    },
+    "MATSE 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "METEO 3": {
+        "description": "Weather Revealed: Introductory Meteorology ",
+        "credits": "3"
+    },
+    "METEO 4": {
+        "description": "Weather and Risk ",
+        "credits": "3"
+    },
+    "METEO 5": {
+        "description": "Severe and Unusual Weather ",
+        "credits": "3"
+    },
+    "METEO 6N": {
+        "description": "History and Weather: How Weather Played an Instrumental Role in Great World Events ",
+        "credits": "3"
+    },
+    "METEO 7": {
+        "description": "An Introduction to Climate Sciences: Climate change, Variability, and Society ",
+        "credits": "3"
+    },
+    "METEO 51N": {
+        "description": "Meteorology and Visual Arts: To Know is to See ",
+        "credits": "3"
+    },
+    "METEO 122": {
+        "description": "Atmospheric Environment: Growing in the Wind ",
+        "credits": "3"
+    },
+    "METEO 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "METEO 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "MICRB 106": {
+        "description": "Elementary Microbiology ",
+        "credits": "3"
+    },
+    "MICRB 107": {
+        "description": "Elementary Microbiology Laboratory ",
+        "credits": "1"
+    },
+    "NURS 325N": {
+        "description": "Health and Environmental Sustainability ",
+        "credits": "3"
+    },
+    "NUTR 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "PHIL 131N": {
+        "description": "BS: Identifying Bias and Falsehood ",
+        "credits": "3"
+    },
+    "PHIL 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "PHOTO 321N": {
+        "description": "Flow Visualization: The Art and Physics of Fluid Motion ",
+        "credits": "3"
+    },
+    "PHYS 1": {
+        "description": "The Science of Physics ",
+        "credits": "3"
+    },
+    "PHYS 10": {
+        "description": "Physics Behind the Headlines ",
+        "credits": "3"
+    },
+    "PHYS 150": {
+        "description": "Technical Physics I ",
+        "credits": "3"
+    },
+    "PHYS 151": {
+        "description": "Technical Physics II ",
+        "credits": "3"
+    },
+    "PHYS 211": {
+        "description": "General Physics:  Mechanics ",
+        "credits": "4"
+    },
+    "PHYS 211H": {
+        "description": "General Physics:  Mechanics ",
+        "credits": "4"
+    },
+    "PHYS 212": {
+        "description": "General Physics:  Electricity and Magnetism ",
+        "credits": "4"
+    },
+    "PHYS 212H": {
+        "description": "General Physics:  Electricity and Magnetism ",
+        "credits": "4"
+    },
+    "PHYS 213": {
+        "description": "General Physics:  Fluids and Thermal Physics ",
+        "credits": "2"
+    },
+    "PHYS 214": {
+        "description": "General Physics:  Wave Motion and Quantum Physics ",
+        "credits": "2"
+    },
+    "PHYS 250": {
+        "description": "Introductory Physics I ",
+        "credits": "4"
+    },
+    "PHYS 251": {
+        "description": "Introductory Physics II ",
+        "credits": "4"
+    },
+    "PLANT 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "PLANT 200": {
+        "description": "Introduction to Agricultural Crop Growth, Form, and Function ",
+        "credits": "3"
+    },
+    "PLANT 220": {
+        "description": "Gardening for Fun and Profit ",
+        "credits": "3"
+    },
+    "PLANT 240": {
+        "description": "Fundamentals of Cannabis: An Introduction to the Botany, Cultivation, and Harvesting of Hemp ",
+        "credits": "3"
+    },
+    "PPEM 120": {
+        "description": "The Fungal Jungle: A Mycological Safari From Truffles to Slime Molds ",
+        "credits": "3"
+    },
+    "PPEM 170N": {
+        "description": "Plant and Microbial Art ",
+        "credits": "3"
+    },
+    "PPEM 300": {
+        "description": "Horticultural Crop Diseases ",
+        "credits": "3"
+    },
+    "PSYCH 150N": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "PSYCH 150Q": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "PSYCH 169N": {
+        "description": "What it means to be human ",
+        "credits": "3"
+    },
+    "PSYCH 217N": {
+        "description": "The Science of Human Resilience ",
+        "credits": "3"
+    },
+    "PSYCH 263N": {
+        "description": "Science of Learning ",
+        "credits": "3"
+    },
+    "RLST 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "SC 60N": {
+        "description": "Art in the Natural World ",
+        "credits": "3"
+    },
+    "SC 103N": {
+        "description": "When Data Meets Design ",
+        "credits": "3"
+    },
+    "SC 120N": {
+        "description": "Plants, Places, and People ",
+        "credits": "3"
+    },
+    "SC 125N": {
+        "description": "History of Infectious Disease and Epidemiology ",
+        "credits": "3"
+    },
+    "SC 135N": {
+        "description": "Society and Disease Management ",
+        "credits": "3"
+    },
+    "SC 142N": {
+        "description": "Science in Literature ",
+        "credits": "3"
+    },
+    "SC 145N": {
+        "description": "The Visual Body ",
+        "credits": "3"
+    },
+    "SC 183Q": {
+        "description": "From Beast Books to Resurrecting Dinosaurs ",
+        "credits": "3"
+    },
+    "SC 200": {
+        "description": "Science in Our World: Certainty and Controversy ",
+        "credits": "3"
+    },
+    "SC 205N": {
+        "description": "BS: Identifying Bias and Falsehood ",
+        "credits": "3"
+    },
+    "SC 290": {
+        "description": "Renewable Energy in Costa Rica ",
+        "credits": "3"
+    },
+    "SC 297G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "SC 475N": {
+        "description": "Anatomy in Italy: Cadavers, Culture, and Science ",
+        "credits": "3"
+    },
+    "SOILS 71": {
+        "description": "Environmental Sustainability ",
+        "credits": "3"
+    },
+    "SOILS 101": {
+        "description": "Introductory Soil Science ",
+        "credits": "3"
+    },
+    "STS 110N": {
+        "description": "Chemistry in World Wars I and II ",
+        "credits": "3"
+    },
+    "SUST 150N": {
+        "description": "The Science of Sustainable Development ",
+        "credits": "3"
+    },
+    "SUST 325N": {
+        "description": "Health and Environmental Sustainability ",
+        "credits": "3"
+    },
+    "WFS 209N": {
+        "description": "Wildlife and Fisheries Conservation ",
+        "credits": "3"
+    }
+}

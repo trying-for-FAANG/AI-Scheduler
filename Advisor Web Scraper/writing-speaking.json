@@ -1,0 +1,134 @@
+{
+    "ADTED 100": {
+        "description": "Adult Learners in the University ",
+        "credits": "3"
+    },
+    "AIR 352": {
+        "description": "Leading People and Effective Communication II ",
+        "credits": "3"
+    },
+    "BE 391": {
+        "description": "Communication Skills for BE and BRS Students ",
+        "credits": "2"
+    },
+    "BE 392": {
+        "description": "Leadership Skills for BE and BRS Students ",
+        "credits": "2"
+    },
+    "BIOL 403": {
+        "description": "Biological Writing and Communication for Research ",
+        "credits": "3"
+    },
+    "BMB 491": {
+        "description": "Undergraduate Research in Cellular Dynamics II: Communicating Scientific Findings ",
+        "credits": "3"
+    },
+    "BRS 391": {
+        "description": "Communication Skills for BE and BRS Students ",
+        "credits": "2"
+    },
+    "BRS 392": {
+        "description": "Leadership Skills for BE and BRS Students ",
+        "credits": "2"
+    },
+    "CAS 100A": {
+        "description": "Effective Speech ",
+        "credits": "3"
+    },
+    "CAS 100B": {
+        "description": "Effective Speech ",
+        "credits": "3"
+    },
+    "CAS 100C": {
+        "description": "Effective Speech ",
+        "credits": "3"
+    },
+    "CAS 100S": {
+        "description": "Effective Speech ",
+        "credits": "3"
+    },
+    "CAS 137H": {
+        "description": "Rhetoric and Civic Life I ",
+        "credits": "3"
+    },
+    "CAS 138T": {
+        "description": "Rhetoric and Civic Life II ",
+        "credits": "3"
+    },
+    "EMSC 100S": {
+        "description": "Earth and Mineral Sciences First-Year Seminar ",
+        "credits": "3"
+    },
+    "ENGL 15": {
+        "description": "Rhetoric and Composition ",
+        "credits": "3"
+    },
+    "ENGL 15A": {
+        "description": "Rhetoric and Composition ",
+        "credits": "3"
+    },
+    "ENGL 15E": {
+        "description": "Rhetoric and Composition Enhanced ",
+        "credits": "3"
+    },
+    "ENGL 15S": {
+        "description": "Rhetoric and Composition ",
+        "credits": "3"
+    },
+    "ENGL 30H": {
+        "description": "Honors Rhetoric and Composition ",
+        "credits": "3"
+    },
+    "ENGL 30T": {
+        "description": "Honors Freshman Composition First-Year Seminar ",
+        "credits": "3"
+    },
+    "ENGL 137H": {
+        "description": "Rhetoric and Civic Life I ",
+        "credits": "3"
+    },
+    "ENGL 138T": {
+        "description": "Rhetoric and Civic Life II ",
+        "credits": "3"
+    },
+    "ENGL 202A": {
+        "description": "Effective Writing: Writing in the Social Sciences ",
+        "credits": "3"
+    },
+    "ENGL 202B": {
+        "description": "Effective Writing: Writing in the Humanities ",
+        "credits": "3"
+    },
+    "ENGL 202C": {
+        "description": "Effective Writing: Technical Writing ",
+        "credits": "3"
+    },
+    "ENGL 202D": {
+        "description": "Effective Writing: Business Writing ",
+        "credits": "3"
+    },
+    "ENGL 202H": {
+        "description": "Effective Writing: Honors ",
+        "credits": "3"
+    },
+    "ESL 15": {
+        "description": "ESL Composition for American Academic Communication II ",
+        "credits": "3"
+    },
+    "GEOSC 435": {
+        "description": "GEOSCHOLARSHIP ",
+        "credits": "3"
+    },
+    "HIST 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "MATSE 203": {
+        "description": "Technical Communications ",
+        "credits": "3"
+    },
+    "WMNST 297N": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    }
+}

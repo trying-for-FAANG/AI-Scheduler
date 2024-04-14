@@ -1,0 +1,1538 @@
+{
+    "AA 120N": {
+        "description": "Introduction to Art Therapy ",
+        "credits": "3"
+    },
+    "AA 130N": {
+        "description": "Creative Arts Therapy Applications ",
+        "credits": "3"
+    },
+    "AA 160N": {
+        "description": "The Virtual Transformational Leadership Development Experience ",
+        "credits": "3"
+    },
+    "AA 193N": {
+        "description": "The Craft of Comics ",
+        "credits": "3"
+    },
+    "AA 230N": {
+        "description": "Arts & Wellness in Communities ",
+        "credits": "3"
+    },
+    "AAS 100N": {
+        "description": "Introduction to Asian American Studies ",
+        "credits": "3"
+    },
+    "ACS 97N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "AED 233N": {
+        "description": "Learning in Maker Cultures ",
+        "credits": "1-3"
+    },
+    "AED 355Q": {
+        "description": "Show Me Where it Hurts: Healthcare and Creative Inquiry ",
+        "credits": "3"
+    },
+    "AEE 204N": {
+        "description": "Science Literacy and Policy in the 21st Century ",
+        "credits": "3"
+    },
+    "AERSP 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "AFAM 100N": {
+        "description": "Black Freedom Struggles ",
+        "credits": "3"
+    },
+    "AFAM 101N": {
+        "description": "African American Women ",
+        "credits": "3"
+    },
+    "AFAM 105N": {
+        "description": "Afro-Latin America: Race and Revolution ",
+        "credits": "3"
+    },
+    "AFAM 110N": {
+        "description": "Introduction to African American Studies ",
+        "credits": "3"
+    },
+    "AFAM 111N": {
+        "description": "Introduction to Anti-Black racism in the United States: The African American Experience ",
+        "credits": "3"
+    },
+    "AFAM 114N": {
+        "description": "Race, Gender and Sport ",
+        "credits": "3"
+    },
+    "AFAM 126N": {
+        "description": "The Popular Arts in America: The History of Hip-Hop ",
+        "credits": "3"
+    },
+    "AFAM 141N": {
+        "description": "African American Read-In Engaged Learning Experience ",
+        "credits": "1-3"
+    },
+    "AFAM 207N": {
+        "description": "Jazz and the African American Experience ",
+        "credits": "3"
+    },
+    "AFAM 226N": {
+        "description": "Critical Approaches to Hip-Hop ",
+        "credits": "3"
+    },
+    "AFAM 364N": {
+        "description": "Black & White Sexuality ",
+        "credits": "3"
+    },
+    "AFAM 435N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "AFR 110N": {
+        "description": "Introduction to Contemporary Africa ",
+        "credits": "3"
+    },
+    "AFR 202N": {
+        "description": "Women, Gender, and Feminisms in Africa ",
+        "credits": "3"
+    },
+    "AFR 230N": {
+        "description": "Language and Social Justice ",
+        "credits": "3"
+    },
+    "AFR 435N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "AG 180N": {
+        "description": "Contemporary Issues in Food, Ag, Natural Resources, and Human Sciences ",
+        "credits": "3"
+    },
+    "AGBM 170N": {
+        "description": "Investigating the U.S. Food System: How food moves from field to table ",
+        "credits": "3"
+    },
+    "AGECO 134N": {
+        "description": "Sustainable Agriculture Science and Policy ",
+        "credits": "3"
+    },
+    "AMST 106N": {
+        "description": "The Mass Media and Society ",
+        "credits": "3"
+    },
+    "AMST 150N": {
+        "description": "Western Pennsylvania Art, Literature, and Culture ",
+        "credits": "3"
+    },
+    "AMST 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "AMST 160N": {
+        "description": "Introduction to Asian American Studies ",
+        "credits": "3"
+    },
+    "AMST 161N": {
+        "description": "Chinese in America, Americans in China ",
+        "credits": "3"
+    },
+    "AMST 170N": {
+        "description": "Introduction to American Folklore ",
+        "credits": "3"
+    },
+    "AMST 226N": {
+        "description": "Critical Approaches to Hip-Hop ",
+        "credits": "3"
+    },
+    "AMST 307N": {
+        "description": "American Art and Society ",
+        "credits": "3"
+    },
+    "AMST 308N": {
+        "description": "American Architecture ",
+        "credits": "3"
+    },
+    "AMST 309N": {
+        "description": "American Material Culture ",
+        "credits": "3"
+    },
+    "ANSC 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "ANTH 2N": {
+        "description": "World Archaeology ",
+        "credits": "3"
+    },
+    "ANTH 9N": {
+        "description": "Rise of Civilization in the Old World ",
+        "credits": "3"
+    },
+    "ANTH 40Q": {
+        "description": "Biocultural Evolution ",
+        "credits": "3"
+    },
+    "ANTH 45N": {
+        "description": "Cultural Diversity: A Global Perspective ",
+        "credits": "3"
+    },
+    "ANTH 45Q": {
+        "description": "Cultural Diversity: A Global Perspective ",
+        "credits": "3"
+    },
+    "ANTH 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "ANTH 100N": {
+        "description": "Anthropology of Race and Racism ",
+        "credits": "3"
+    },
+    "ANTH 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "ANTH 150N": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "ANTH 150Q": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "ANTH 210N": {
+        "description": "Anthropology, Ancestry, and You ",
+        "credits": "3"
+    },
+    "ANTH 216N": {
+        "description": "Sex and Evolution ",
+        "credits": "3"
+    },
+    "ANTH 219N": {
+        "description": "Spillover: The Anthropology of Emerging Infectious Diseases ",
+        "credits": "3"
+    },
+    "ANTH 221N": {
+        "description": "Ancient Maya: Sacred Blood & Conjured Serpent ",
+        "credits": "3"
+    },
+    "ANTH 240N": {
+        "description": "Livelihoods and Ecosystems: Anthropological Approaches to Human-Environment Interaction ",
+        "credits": "3"
+    },
+    "ANTH 375Q": {
+        "description": "Anthropology of Food Honors ",
+        "credits": "3"
+    },
+    "ANTH 434N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "APLNG 220N": {
+        "description": "Multilingual Lives: Stories of Language and Culture Learning ",
+        "credits": "3"
+    },
+    "APLNG 230N": {
+        "description": "Language and Social Justice ",
+        "credits": "3"
+    },
+    "APLNG 260": {
+        "description": "LANGUAGE AND TECHNOLOGY ",
+        "credits": "3"
+    },
+    "APLNG 280N": {
+        "description": "Conducting International Comparative Research ",
+        "credits": "3"
+    },
+    "ARCH 170N": {
+        "description": "Introduction to Sustainable Architecture ",
+        "credits": "3"
+    },
+    "ART 51N": {
+        "description": "Meteorology and Visual Arts: To Know is to See ",
+        "credits": "3"
+    },
+    "ART 160N": {
+        "description": "STEAM: Connecting Art to Science, Technology, Engineering and Mathematics ",
+        "credits": "3"
+    },
+    "ART 170N": {
+        "description": "Plant and Microbial Art ",
+        "credits": "3"
+    },
+    "ART 175N": {
+        "description": "Intersections Between Art and Psychology ",
+        "credits": "3"
+    },
+    "ART 197N": {
+        "description": "Special Topics - Interdomain ",
+        "credits": "1-9"
+    },
+    "ART 207N": {
+        "description": "LGBTQ+ Identity, Culture and The Arts ",
+        "credits": "3"
+    },
+    "ARTH 101N": {
+        "description": "Introduction to Global Art History ",
+        "credits": "3"
+    },
+    "ARTH 105N": {
+        "description": "Pictures and Power ",
+        "credits": "3"
+    },
+    "ARTH 107N": {
+        "description": "Rocks, Minerals, and the History of Art ",
+        "credits": "3"
+    },
+    "ARTH 115N": {
+        "description": "Arts of Love ",
+        "credits": "3"
+    },
+    "ARTH 202N": {
+        "description": "Renaissance to Modern Architecture ",
+        "credits": "3"
+    },
+    "ARTH 222N": {
+        "description": "Intersections between Art History and the History of Psychology ",
+        "credits": "3"
+    },
+    "ARTH 222Q": {
+        "description": "Intersections between Art History and the History of Psychology ",
+        "credits": "3"
+    },
+    "ARTH 224N": {
+        "description": "Authors and Artists ",
+        "credits": "3"
+    },
+    "ARTH 225N": {
+        "description": "Sexuality and Modern Visual Culture ",
+        "credits": "3"
+    },
+    "ARTH 292N": {
+        "description": "Witches and Witchcraft from the Middle Ages to the Present ",
+        "credits": "3"
+    },
+    "ARTH 307N": {
+        "description": "American Art and Society ",
+        "credits": "3"
+    },
+    "ARTH 308N": {
+        "description": "American Architecture ",
+        "credits": "3"
+    },
+    "ASIA 101N": {
+        "description": "Sports in Asia ",
+        "credits": "3"
+    },
+    "ASIA 106N": {
+        "description": "Asian Traditions of Health, Medicine, and the Body ",
+        "credits": "3"
+    },
+    "ASIA 107N": {
+        "description": "Bollywood: Seeing South Asia Through Cinema ",
+        "credits": "3"
+    },
+    "ASIA 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "ASTRO 7N": {
+        "description": "The Artistic Universe ",
+        "credits": "3"
+    },
+    "ASTRO 19N": {
+        "description": "Being in the Universe ",
+        "credits": "3"
+    },
+    "ASTRO 141N": {
+        "description": "Film and Extraterrestrial Life: Science Fact or Fiction? ",
+        "credits": "3"
+    },
+    "AYFCE 211N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "BBH 150N": {
+        "description": "Safe and Sound: The Intersection of Criminal Justice and Public Health ",
+        "credits": "3"
+    },
+    "BBH 201N": {
+        "description": "Health and the Media ",
+        "credits": "3"
+    },
+    "BIOET 110N": {
+        "description": "Health, Illness, and the Human Condition ",
+        "credits": "3"
+    },
+    "BIOET 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "BIOET 401Q": {
+        "description": "Science, Ethics, Policy, and Law ",
+        "credits": "3"
+    },
+    "BIOL 160N": {
+        "description": "Fitness with Exercise Physiology ",
+        "credits": "3"
+    },
+    "BIOL 169N": {
+        "description": "What it means to be human ",
+        "credits": "3"
+    },
+    "CAMS 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "CAS 101N": {
+        "description": "Introduction to Human Communication ",
+        "credits": "3"
+    },
+    "CAS 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "CAS 170N": {
+        "description": "What is Information? ",
+        "credits": "3"
+    },
+    "CAS 175N": {
+        "description": "Persuasion and Propaganda ",
+        "credits": "3"
+    },
+    "CAS 182N": {
+        "description": "Communication and Sport ",
+        "credits": "3"
+    },
+    "CAS 208N": {
+        "description": "Introduction to Managing Conflict and Bargaining ",
+        "credits": "3"
+    },
+    "CAS 222N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "CAS 232N": {
+        "description": "Identity, Citizenship, and the Rhetoric of American Horror Film ",
+        "credits": "3"
+    },
+    "CAS 271N": {
+        "description": "Intercultural Communication ",
+        "credits": "3"
+    },
+    "CAS 272N": {
+        "description": "Political Communication and Technology ",
+        "credits": "3"
+    },
+    "CAS 383N": {
+        "description": "Culture and Technology ",
+        "credits": "3"
+    },
+    "CED 102N": {
+        "description": "Wicked Problems Like Inequality, Sustainability & Climate Change: What's the Right Thing to Do? ",
+        "credits": "3"
+    },
+    "CED 109N": {
+        "description": "Gentrification in Everyday Life ",
+        "credits": "3"
+    },
+    "CED 400N": {
+        "description": "Exploring Indigenous Ways of Knowing in Great Lakes Region: Lecture ",
+        "credits": "3"
+    },
+    "CHEM 233N": {
+        "description": "Chemistry and Literature ",
+        "credits": "3"
+    },
+    "CHNS 121N": {
+        "description": "Chinese Film and New Media ",
+        "credits": "3"
+    },
+    "CI 105N": {
+        "description": "Improv Theater, Curriculum & Instruction ",
+        "credits": "3"
+    },
+    "CI 304N": {
+        "description": "Food, Farms & Justice: What's Education Got To Do With Them? ",
+        "credits": "3"
+    },
+    "CI 497N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "CIVCM 211N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "CMAS 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "CMLIT 19N": {
+        "description": "Being in the Universe ",
+        "credits": "3"
+    },
+    "CMLIT 112N": {
+        "description": "Introduction to Global Drama, Theatre, and Performance ",
+        "credits": "3"
+    },
+    "CMLIT 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "CMLIT 133N": {
+        "description": "Global Satire and Modern Politics ",
+        "credits": "3"
+    },
+    "CMLIT 183Q": {
+        "description": "From Beast Books to Resurrecting Dinosaurs ",
+        "credits": "3"
+    },
+    "CMLIT 191N": {
+        "description": "Introduction to Video Game Culture ",
+        "credits": "3"
+    },
+    "CMLIT 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "COMM 20N": {
+        "description": "Critical Media Literacy ",
+        "credits": "3"
+    },
+    "COMM 100N": {
+        "description": "The Mass Media and Society ",
+        "credits": "3"
+    },
+    "COMM 101N": {
+        "description": "Understanding and Enhancing Creativity ",
+        "credits": "3"
+    },
+    "COMM 150N": {
+        "description": "The Art of the Cinema ",
+        "credits": "3"
+    },
+    "COMM 150Q": {
+        "description": "The Art of the Cinema ",
+        "credits": "3"
+    },
+    "COMM 151N": {
+        "description": "Film and Extraterrestrial Life: Science Fact or Fiction? ",
+        "credits": "3"
+    },
+    "COMM 175N": {
+        "description": "Mental Illness and the Movies ",
+        "credits": "3"
+    },
+    "COMM 208N": {
+        "description": "Visual Representations of the Middle East in the US and Middle East ",
+        "credits": "3"
+    },
+    "COMM 222N": {
+        "description": "Social Justice and the Image ",
+        "credits": "3"
+    },
+    "COMM 234N": {
+        "description": "Digital Cultures ",
+        "credits": "3"
+    },
+    "COMM 290N": {
+        "description": "Cinema and Globalization ",
+        "credits": "3"
+    },
+    "COMM 335N": {
+        "description": "Media, Social Justice, and the Public Humanities ",
+        "credits": "3"
+    },
+    "CRIM 225N": {
+        "description": "Organized Crime in Film and Society ",
+        "credits": "3"
+    },
+    "CRIMJ 150N": {
+        "description": "Safe and Sound: The Intersection of Criminal Justice and Public Health ",
+        "credits": "3"
+    },
+    "CRIMJ 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "DART 102N": {
+        "description": "Introduction to 2d Digital Art and Technology ",
+        "credits": "3"
+    },
+    "EARTH 103N": {
+        "description": "Earth in the Future:  Predicting Climate Change and Its Impacts Over the   Next Century ",
+        "credits": "3"
+    },
+    "EARTH 104N": {
+        "description": "Climate, Energy and Our Future ",
+        "credits": "3"
+    },
+    "EARTH 105N": {
+        "description": "Environments of Africa:  Geology and Climate Change ",
+        "credits": "3"
+    },
+    "EARTH 107N": {
+        "description": "Coastal Processes, Hazards and Society ",
+        "credits": "3"
+    },
+    "EARTH 111N": {
+        "description": "Water: Science and Society ",
+        "credits": "3"
+    },
+    "EARTH 155N": {
+        "description": "Scientific Controversies and Public Debate ",
+        "credits": "3"
+    },
+    "EARTH 200N": {
+        "description": "Earth Systems Through a Soc & Envir Justice Lens ",
+        "credits": "3"
+    },
+    "ECON 472N": {
+        "description": "Russian Economic History ",
+        "credits": "3"
+    },
+    "EDUC 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "EDUC 466N": {
+        "description": "Foundations of Teaching English as a Second Language ",
+        "credits": "3"
+    },
+    "EGEE 110N": {
+        "description": "Environmental Health and Safety Science ",
+        "credits": "3"
+    },
+    "EGEE 397N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-999"
+    },
+    "EMSC 240N": {
+        "description": "Energy and Sustainability in Contemporary Culture ",
+        "credits": "3"
+    },
+    "ENGL 108N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "ENGL 115N": {
+        "description": "Arts of Love ",
+        "credits": "3"
+    },
+    "ENGL 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "ENGL 141N": {
+        "description": "African American Read-In Engaged Learning Experience ",
+        "credits": "1-3"
+    },
+    "ENGL 142N": {
+        "description": "Science in Literature ",
+        "credits": "3"
+    },
+    "ENGL 161N": {
+        "description": "The Pursuit of Happiness in American Life: Historical Literature and Modern Practice ",
+        "credits": "3"
+    },
+    "ENGL 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "ENGL 163N": {
+        "description": "Defining the Animal ",
+        "credits": "3"
+    },
+    "ENGL 165N": {
+        "description": "Work and Literature ",
+        "credits": "3"
+    },
+    "ENGL 170N": {
+        "description": "Introduction to American Folklore ",
+        "credits": "3"
+    },
+    "ENGL 183N": {
+        "description": "The Cold War in Literature, Politics, and History ",
+        "credits": "3"
+    },
+    "ENGL 190Q": {
+        "description": "Medievalism ",
+        "credits": "3"
+    },
+    "ENGL 193N": {
+        "description": "The Craft of Comics ",
+        "credits": "3"
+    },
+    "ENGL 208N": {
+        "description": "The Music of the Beatles and American Popular Culture ",
+        "credits": "3"
+    },
+    "ENGL 223N": {
+        "description": "Shakespeare: Page, Stage, and Screen ",
+        "credits": "3"
+    },
+    "ENGL 224N": {
+        "description": "Authors and Artists ",
+        "credits": "3"
+    },
+    "ENGL 225N": {
+        "description": "Sexuality and Modern Visual Culture ",
+        "credits": "3"
+    },
+    "ENGL 233N": {
+        "description": "Chemistry and Literature ",
+        "credits": "3"
+    },
+    "ENGL 236N": {
+        "description": "Inequality: Economics, Philosophy, Literature ",
+        "credits": "3"
+    },
+    "ENGL 237N": {
+        "description": "Reading and Writing Documentary Poetry ",
+        "credits": "3"
+    },
+    "ENGR 115N": {
+        "description": "Science, Humanity and Catastrophe: Scientific Discovery in Germany ",
+        "credits": "3"
+    },
+    "ENGR 120N": {
+        "description": "Design Thinking and 3D Printing in Engineering and Healthcare ",
+        "credits": "3"
+    },
+    "ENGR 467Q": {
+        "description": "Robots and Their Role in Society ",
+        "credits": "3"
+    },
+    "ENT 202N": {
+        "description": "Insect Connections: Insects, Globalization and Sustainability ",
+        "credits": "3"
+    },
+    "ENT 216N": {
+        "description": "Plagues Through the Ages ",
+        "credits": "3"
+    },
+    "ENT 222N": {
+        "description": "Honey Bees and Humans ",
+        "credits": "3"
+    },
+    "ENVST 100N": {
+        "description": "Visions of Nature ",
+        "credits": "3"
+    },
+    "ESC 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "FOR 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "FR 138N": {
+        "description": "French Culture Through Film ",
+        "credits": "3"
+    },
+    "GAME 160N": {
+        "description": "Introduction to Video Game Culture ",
+        "credits": "3"
+    },
+    "GAME 180N": {
+        "description": "The Art and Science of Virtual Worlds ",
+        "credits": "3"
+    },
+    "GD 115N": {
+        "description": "Visualizing Information ",
+        "credits": "3"
+    },
+    "GEOG 1N": {
+        "description": "Global Parks and Sustainability ",
+        "credits": "3"
+    },
+    "GEOG 2N": {
+        "description": "Apocalyptic Geographies: How can we prevent the end of the world? ",
+        "credits": "3"
+    },
+    "GEOG 3N": {
+        "description": "Food and the Future Environment ",
+        "credits": "3"
+    },
+    "GEOG 6N": {
+        "description": "Maps and the Geospatial Revolution ",
+        "credits": "3"
+    },
+    "GEOG 30N": {
+        "description": "Environment and Society in a Changing World ",
+        "credits": "3"
+    },
+    "GEOG 107N": {
+        "description": "Immersive Technologies - Transforming Society Through Digital Innovation ",
+        "credits": "3"
+    },
+    "GEOG 330N": {
+        "description": "Political Ecology ",
+        "credits": "3"
+    },
+    "GEOG 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "GEOSC 107N": {
+        "description": "Rocks, Minerals, and the History of Art ",
+        "credits": "3"
+    },
+    "GEOSC 212N": {
+        "description": "Earthquakes and Human History ",
+        "credits": "3"
+    },
+    "GER 115N": {
+        "description": "Science, Humanity and Catastrophe: Scientific Discovery in Germany ",
+        "credits": "3"
+    },
+    "GER 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "GER 157N": {
+        "description": "The Amish ",
+        "credits": "3"
+    },
+    "GER 189N": {
+        "description": "German Film ",
+        "credits": "3"
+    },
+    "GER 197E": {
+        "description": "Special Topics GN/GH ",
+        "credits": "3"
+    },
+    "GER 200N": {
+        "description": "Contemporary German Culture ",
+        "credits": "3"
+    },
+    "GLIS 101N": {
+        "description": "Globalization ",
+        "credits": "3"
+    },
+    "GLIS 102N": {
+        "description": "Global Pathways ",
+        "credits": "3"
+    },
+    "HDFS 101N": {
+        "description": "Helping People: Introduction to Understanding Social Problems & How to Help ",
+        "credits": "3"
+    },
+    "HDFS 108N": {
+        "description": "Art and Science of Human Flourishing ",
+        "credits": "3"
+    },
+    "HDFS 175N": {
+        "description": "Introduction to Youth Development and Arts-based Social Justice ",
+        "credits": "3"
+    },
+    "HDFS 215N": {
+        "description": "Global health and families ",
+        "credits": "3"
+    },
+    "HDFS 249N": {
+        "description": "Adult Development and Aging ",
+        "credits": "3"
+    },
+    "HDFS 254N": {
+        "description": "Reading Our Lives: Understanding Diversity and Human Development through Memoirs ",
+        "credits": "3"
+    },
+    "HDFS 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "HHD 200N": {
+        "description": "Addiction Science to Society ",
+        "credits": "3"
+    },
+    "HHD 245N": {
+        "description": "Health, humanity, and longevity: Conversations with elders ",
+        "credits": "3"
+    },
+    "HHD 497I": {
+        "description": "Intergenerational Communication ",
+        "credits": "3"
+    },
+    "HHUM 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "HIST 6N": {
+        "description": "History and Weather: How Weather Played an Instrumental Role in Great World Events ",
+        "credits": "3"
+    },
+    "HIST 114N": {
+        "description": "Historical Perspectives on HealthCare Innovations ",
+        "credits": "3"
+    },
+    "HIST 116N": {
+        "description": "Family and Gender Roles in Modern History ",
+        "credits": "3"
+    },
+    "HIST 120N": {
+        "description": "History of Modern Europe since 1789 ",
+        "credits": "3"
+    },
+    "HIST 125N": {
+        "description": "History of Infectious Disease and Epidemiology ",
+        "credits": "3"
+    },
+    "HIST 128N": {
+        "description": "Cultural Perspectives on Mathematics ",
+        "credits": "3"
+    },
+    "HIST 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "HIST 131N": {
+        "description": "Slavery, the Civil War, and Cinema ",
+        "credits": "3"
+    },
+    "HIST 142N": {
+        "description": "History of Communism ",
+        "credits": "3"
+    },
+    "HIST 143N": {
+        "description": "History of Fascism and Nazism ",
+        "credits": "3"
+    },
+    "HIST 145N": {
+        "description": "The Holocaust and Human Rights ",
+        "credits": "3"
+    },
+    "HIST 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "HIST 162N": {
+        "description": "The Pursuit of Happiness in American Life: Historical Literature and Modern Practice ",
+        "credits": "3"
+    },
+    "HIST 203N": {
+        "description": "History of Monsters, Aliens & the Supernatural ",
+        "credits": "3"
+    },
+    "HIST 212N": {
+        "description": "Earthquakes and Human History ",
+        "credits": "3"
+    },
+    "HIST 238N": {
+        "description": "Society and Culture in Palestine/Israel ",
+        "credits": "3"
+    },
+    "HIST 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "HIST 255N": {
+        "description": "History of the Book ",
+        "credits": "3"
+    },
+    "HIST 292N": {
+        "description": "Witches and Witchcraft from the Middle Ages to the Present ",
+        "credits": "3"
+    },
+    "HIST 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "HIST 402N": {
+        "description": "Russian Economic History ",
+        "credits": "3"
+    },
+    "HM 210N": {
+        "description": "The Impact of Culture and Customs in Global Hospitality Environments ",
+        "credits": "3"
+    },
+    "HORT 150N": {
+        "description": "Plants in the Human Context ",
+        "credits": "3"
+    },
+    "HORT 169N": {
+        "description": "Fundamentals of Home Landscaping: An Introduction to Design, Construction, and Maintenance ",
+        "credits": "3"
+    },
+    "HUM 100N": {
+        "description": "Foundations in the Humanities: Understanding the Human Experience ",
+        "credits": "3"
+    },
+    "HUM 150N": {
+        "description": "World Mythologies in the Arts ",
+        "credits": "3"
+    },
+    "HUM 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "HUM 200N": {
+        "description": "Explorations in the Humanities: The Quest ",
+        "credits": "3"
+    },
+    "HUM 300N": {
+        "description": "Interpretations in the Humanities ",
+        "credits": "3"
+    },
+    "HUM 400N": {
+        "description": "Expressions in the Humanities ",
+        "credits": "3"
+    },
+    "INART 55N": {
+        "description": "History of Electronic Music ",
+        "credits": "3"
+    },
+    "INART 126N": {
+        "description": "The Popular Arts in America: The History of Hip-Hop ",
+        "credits": "3"
+    },
+    "INART 141N": {
+        "description": "African American Read-In Engaged Learning Experience ",
+        "credits": "1-3"
+    },
+    "INART 203Q": {
+        "description": "Medievalism ",
+        "credits": "3"
+    },
+    "INART 226N": {
+        "description": "Critical Approaches to Hip-Hop ",
+        "credits": "3"
+    },
+    "INTAG 100N": {
+        "description": "Everyone Eats: Hunger, Food Security & Global Agriculture ",
+        "credits": "3"
+    },
+    "INTAG 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "IST 144N": {
+        "description": "Invasion of Technology from a 21st Century Perspective ",
+        "credits": "3"
+    },
+    "IST 170N": {
+        "description": "What is Information? ",
+        "credits": "3"
+    },
+    "IST 234N": {
+        "description": "Digital Cultures ",
+        "credits": "3"
+    },
+    "IT 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "IT 225N": {
+        "description": "Organized Crime in Film and Society ",
+        "credits": "3"
+    },
+    "IT 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "JAPNS 121N": {
+        "description": "Japanese Film and New Media ",
+        "credits": "3"
+    },
+    "JAPNS 121Q": {
+        "description": "Japanese Film and New Media ",
+        "credits": "3"
+    },
+    "JST 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "JST 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "JST 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "JST 143N": {
+        "description": "History of Fascism and Nazism ",
+        "credits": "3"
+    },
+    "KINES 53N": {
+        "description": "History and Practice of Martial Arts ",
+        "credits": "3"
+    },
+    "KINES 160N": {
+        "description": "Fitness with Exercise Physiology ",
+        "credits": "3"
+    },
+    "KINES 197N": {
+        "description": "Special Topics - Interdomain ",
+        "credits": "1-9"
+    },
+    "KINES 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "KINES 405N": {
+        "description": "Bicycling Culture and Urban Design ",
+        "credits": "3"
+    },
+    "LA 135N": {
+        "description": "College, Work, and Citizenship in the 21st Century ",
+        "credits": "3"
+    },
+    "LA 335N": {
+        "description": "Media, Social Justice, and the Public Humanities ",
+        "credits": "3"
+    },
+    "LARCH 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "LARCH 405N": {
+        "description": "Bicycling Culture and Urban Design ",
+        "credits": "3"
+    },
+    "LDT 110N": {
+        "description": "Making with Art and Learning Technologies ",
+        "credits": "3"
+    },
+    "LHR 160N": {
+        "description": "The Virtual Transformational Leadership Development Experience ",
+        "credits": "3"
+    },
+    "LHR 165N": {
+        "description": "Work and Literature ",
+        "credits": "3"
+    },
+    "LLED 215N": {
+        "description": "Children's Picture Books as Multimodal Texts ",
+        "credits": "3"
+    },
+    "LTNST 315N": {
+        "description": "Spanish and Spanish-speakers in the U.S. ",
+        "credits": "3"
+    },
+    "MATSE 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "METEO 6N": {
+        "description": "History and Weather: How Weather Played an Instrumental Role in Great World Events ",
+        "credits": "3"
+    },
+    "METEO 51N": {
+        "description": "Meteorology and Visual Arts: To Know is to See ",
+        "credits": "3"
+    },
+    "METEO 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "METEO 332N": {
+        "description": "Science and policy of global greenhouse gas emissions and management ",
+        "credits": "3"
+    },
+    "MUSIC 207N": {
+        "description": "Jazz and the African American Experience ",
+        "credits": "3"
+    },
+    "MUSIC 209N": {
+        "description": "The Music of the Beatles and American Popular Culture ",
+        "credits": "3"
+    },
+    "NURS 325N": {
+        "description": "Health and Environmental Sustainability ",
+        "credits": "3"
+    },
+    "NUTR 175N": {
+        "description": "Healthy Food for All: Factors that Influence What we Eat in the US ",
+        "credits": "3"
+    },
+    "NUTR 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "PHIL 60N": {
+        "description": "Philosophy and 1960s Counterculture ",
+        "credits": "3"
+    },
+    "PHIL 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "PHIL 131N": {
+        "description": "BS: Identifying Bias and Falsehood ",
+        "credits": "3"
+    },
+    "PHIL 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "PHIL 136N": {
+        "description": "Art and Philosophy in Ancient Greece ",
+        "credits": "3"
+    },
+    "PHIL 137N": {
+        "description": "Introduction to Philosophy through Health and Sport ",
+        "credits": "3"
+    },
+    "PHIL 242N": {
+        "description": "Happiness and Well-Being ",
+        "credits": "3"
+    },
+    "PHOTO 321N": {
+        "description": "Flow Visualization: The Art and Physics of Fluid Motion ",
+        "credits": "3"
+    },
+    "PLANT 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "PLSC 7N": {
+        "description": "Contemporary Political Ideologies ",
+        "credits": "3"
+    },
+    "PLSC 17N": {
+        "description": "Introduction to Political Theory ",
+        "credits": "3"
+    },
+    "PLSC 17W": {
+        "description": "Introduction to Political Theory ",
+        "credits": "3"
+    },
+    "PLSC 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "PLSC 112N": {
+        "description": "Ethics in Citizenship, Politics, and Government ",
+        "credits": "3"
+    },
+    "PLSC 120N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "PLSC 177N": {
+        "description": "Politics and Government in Washington DC ",
+        "credits": "1-3"
+    },
+    "PLSC 183N": {
+        "description": "The Cold War in Literature, Politics, and History ",
+        "credits": "3"
+    },
+    "PLSC 200N": {
+        "description": "Government and Politics of Europe ",
+        "credits": "3"
+    },
+    "PLSC 201N": {
+        "description": "Politics & Religion: Controversies Around the World ",
+        "credits": "3"
+    },
+    "PLSC 210N": {
+        "description": "Rights in America ",
+        "credits": "3"
+    },
+    "PLSC 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "PLSC 223N": {
+        "description": "Ethnic and Racial Politics ",
+        "credits": "3"
+    },
+    "PLSC 267N": {
+        "description": "Government and Politics of the Middle East ",
+        "credits": "3"
+    },
+    "PLSC 290N": {
+        "description": "Comparative Violence: Political and Criminological Perspectives ",
+        "credits": "3"
+    },
+    "PORT 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "PPEM 170N": {
+        "description": "Plant and Microbial Art ",
+        "credits": "3"
+    },
+    "PSYCH 109N": {
+        "description": "The Psychology of Artistic Creativity ",
+        "credits": "3"
+    },
+    "PSYCH 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "PSYCH 150N": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "PSYCH 150Q": {
+        "description": "Human Nature: The Science of Extreme Altruism and Violence ",
+        "credits": "3"
+    },
+    "PSYCH 169N": {
+        "description": "What it means to be human ",
+        "credits": "3"
+    },
+    "PSYCH 175N": {
+        "description": "Mental Illness and the Movies ",
+        "credits": "3"
+    },
+    "PSYCH 217N": {
+        "description": "The Science of Human Resilience ",
+        "credits": "3"
+    },
+    "PSYCH 246N": {
+        "description": "Human Factors in Design & Art ",
+        "credits": "3"
+    },
+    "PSYCH 263N": {
+        "description": "Science of Learning ",
+        "credits": "3"
+    },
+    "PUBPL 120N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "PUBPL 222N": {
+        "description": "Science and Politics of the Female Athlete ",
+        "credits": "3"
+    },
+    "RLST 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "RLST 105N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "RLST 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "RSOC 400N": {
+        "description": "Exploring Indigenous Ways of Knowing in Great Lakes Region: Lecture ",
+        "credits": "3"
+    },
+    "RUS 101N": {
+        "description": "Russian Cinema ",
+        "credits": "3"
+    },
+    "SC 60N": {
+        "description": "Art in the Natural World ",
+        "credits": "3"
+    },
+    "SC 103N": {
+        "description": "When Data Meets Design ",
+        "credits": "3"
+    },
+    "SC 120N": {
+        "description": "Plants, Places, and People ",
+        "credits": "3"
+    },
+    "SC 125N": {
+        "description": "History of Infectious Disease and Epidemiology ",
+        "credits": "3"
+    },
+    "SC 135N": {
+        "description": "Society and Disease Management ",
+        "credits": "3"
+    },
+    "SC 142N": {
+        "description": "Science in Literature ",
+        "credits": "3"
+    },
+    "SC 145N": {
+        "description": "The Visual Body ",
+        "credits": "3"
+    },
+    "SC 183Q": {
+        "description": "From Beast Books to Resurrecting Dinosaurs ",
+        "credits": "3"
+    },
+    "SC 205N": {
+        "description": "BS: Identifying Bias and Falsehood ",
+        "credits": "3"
+    },
+    "SC 475N": {
+        "description": "Anatomy in Italy: Cadavers, Culture, and Science ",
+        "credits": "3"
+    },
+    "SOC 20N": {
+        "description": "Critical Media Literacy ",
+        "credits": "3"
+    },
+    "SOC 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "SOC 119N": {
+        "description": "Race, Ethnicity and Culture ",
+        "credits": "3-4"
+    },
+    "SOC 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "SOC 130N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "SOC 145N": {
+        "description": "The Holocaust and Human Rights ",
+        "credits": "3"
+    },
+    "SOC 150N": {
+        "description": "Healthy People, Healthy Society ",
+        "credits": "3"
+    },
+    "SOC 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "SOC 180N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "SOC 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "SOC 208N": {
+        "description": "Visual Representations of the Middle East in the US and Middle East ",
+        "credits": "3"
+    },
+    "SOC 210N": {
+        "description": "Social Determinants of Health ",
+        "credits": "3"
+    },
+    "SOC 245N": {
+        "description": "Globalization, Technology, and Ethics ",
+        "credits": "3"
+    },
+    "SOC 258N": {
+        "description": "Introduction to Child Maltreatment and Advocacy Studies ",
+        "credits": "3"
+    },
+    "SOC 290N": {
+        "description": "Cinema and Globalization ",
+        "credits": "3"
+    },
+    "SPAN 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "SPAN 269N": {
+        "description": "Theater and Performance ",
+        "credits": "3"
+    },
+    "SPAN 315N": {
+        "description": "Spanish and Spanish-speakers in the U.S. ",
+        "credits": "3"
+    },
+    "SSED 100N": {
+        "description": "Foundations of History and Social Studies Concepts for K-8 Teachers ",
+        "credits": "3"
+    },
+    "STS 110N": {
+        "description": "Chemistry in World Wars I and II ",
+        "credits": "3"
+    },
+    "STS 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "STS 245N": {
+        "description": "Globalization, Technology, and Ethics ",
+        "credits": "3"
+    },
+    "SUST 150N": {
+        "description": "The Science of Sustainable Development ",
+        "credits": "3"
+    },
+    "SUST 242N": {
+        "description": "Issues in Sustainability ",
+        "credits": "3"
+    },
+    "SUST 325N": {
+        "description": "Health and Environmental Sustainability ",
+        "credits": "3"
+    },
+    "THEA 101N": {
+        "description": "Performance and Society ",
+        "credits": "3"
+    },
+    "WFS 209N": {
+        "description": "Wildlife and Fisheries Conservation ",
+        "credits": "3"
+    },
+    "WMNST 83N": {
+        "description": "First-Year Seminar in Women's Studies ",
+        "credits": "3"
+    },
+    "WMNST 101N": {
+        "description": "African American Women ",
+        "credits": "3"
+    },
+    "WMNST 105N": {
+        "description": "Living in a Diverse World ",
+        "credits": "3"
+    },
+    "WMNST 106N": {
+        "description": "Representing Women and Gender in Literature, Art and Popular Cultures ",
+        "credits": "3"
+    },
+    "WMNST 106Q": {
+        "description": "Representing Women and Gender in Literature, Art and Popular Cultures ",
+        "credits": "3"
+    },
+    "WMNST 116N": {
+        "description": "Family and Gender Roles in Modern History ",
+        "credits": "3"
+    },
+    "WMNST 175N": {
+        "description": "Fashion, Gender, and Identity ",
+        "credits": "3"
+    },
+    "WMNST 202N": {
+        "description": "Women, Gender, and Feminisms in Africa ",
+        "credits": "3"
+    },
+    "WMNST 207N": {
+        "description": "LGBTQ+ Identity, Culture and The Arts ",
+        "credits": "3"
+    },
+    "WMNST 225N": {
+        "description": "Sexuality and Modern Visual Culture ",
+        "credits": "3"
+    },
+    "WMNST 230N": {
+        "description": "Dangerous Bodies ",
+        "credits": "3"
+    },
+    "WMNST 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "WMNST 297N": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "WMNST 301N": {
+        "description": "Sexualities, Gender and Power: Feminist Thought and Politics ",
+        "credits": "3"
+    },
+    "WMNST 364N": {
+        "description": "Black & White Sexuality ",
+        "credits": "3"
+    },
+    "WMNST 400N": {
+        "description": "Debates in Contemporary Feminism ",
+        "credits": "3"
+    }
+}

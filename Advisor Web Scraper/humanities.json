@@ -1,0 +1,3166 @@
+{
+    "AA 193N": {
+        "description": "The Craft of Comics ",
+        "credits": "3"
+    },
+    "AAS 100N": {
+        "description": "Introduction to Asian American Studies ",
+        "credits": "3"
+    },
+    "AFAM 83": {
+        "description": "First-Year Seminar in African American Studies ",
+        "credits": "3"
+    },
+    "AFAM 100N": {
+        "description": "Black Freedom Struggles ",
+        "credits": "3"
+    },
+    "AFAM 101N": {
+        "description": "African American Women ",
+        "credits": "3"
+    },
+    "AFAM 102": {
+        "description": "Women of the African Diaspora ",
+        "credits": "3"
+    },
+    "AFAM 103": {
+        "description": "Racism and Sexism ",
+        "credits": "3"
+    },
+    "AFAM 105N": {
+        "description": "Afro-Latin America: Race and Revolution ",
+        "credits": "3"
+    },
+    "AFAM 110N": {
+        "description": "Introduction to African American Studies ",
+        "credits": "3"
+    },
+    "AFAM 111N": {
+        "description": "Introduction to Anti-Black racism in the United States: The African American Experience ",
+        "credits": "3"
+    },
+    "AFAM 114N": {
+        "description": "Race, Gender and Sport ",
+        "credits": "3"
+    },
+    "AFAM 116": {
+        "description": "Muslims in America ",
+        "credits": "3"
+    },
+    "AFAM 126N": {
+        "description": "The Popular Arts in America: The History of Hip-Hop ",
+        "credits": "3"
+    },
+    "AFAM 132": {
+        "description": "Afro-Hispanic Civilization ",
+        "credits": "3"
+    },
+    "AFAM 139": {
+        "description": "African American Literature ",
+        "credits": "3"
+    },
+    "AFAM 141N": {
+        "description": "African American Read-In Engaged Learning Experience ",
+        "credits": "1-3"
+    },
+    "AFAM 145": {
+        "description": "African Diaspora Religions and Spiritualities ",
+        "credits": "3"
+    },
+    "AFAM 146": {
+        "description": "The Life and Thought of Martin Luther King, Jr. ",
+        "credits": "3"
+    },
+    "AFAM 147": {
+        "description": "The Life and Thought of Malcolm X ",
+        "credits": "3"
+    },
+    "AFAM 152": {
+        "description": "African American History ",
+        "credits": "3"
+    },
+    "AFAM 164": {
+        "description": "The History of Brazil ",
+        "credits": "3"
+    },
+    "AFAM 210": {
+        "description": "Freedom's First Generation: African American Life and Work, from the Civil War to World War II ",
+        "credits": "3"
+    },
+    "AFAM 211": {
+        "description": "Slavery and Freedom in the Black Atlantic ",
+        "credits": "3"
+    },
+    "AFAM 213Y": {
+        "description": "African American Women's History ",
+        "credits": "3"
+    },
+    "AFAM 226N": {
+        "description": "Critical Approaches to Hip-Hop ",
+        "credits": "3"
+    },
+    "AFAM 250": {
+        "description": "Introduction to the Caribbean ",
+        "credits": "3"
+    },
+    "AFAM 297G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "AFAM 364N": {
+        "description": "Black & White Sexuality ",
+        "credits": "3"
+    },
+    "AFAM 435N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "AFR 110N": {
+        "description": "Introduction to Contemporary Africa ",
+        "credits": "3"
+    },
+    "AFR 132": {
+        "description": "Afro-Hispanic Civilization ",
+        "credits": "3"
+    },
+    "AFR 150": {
+        "description": "Africa in Cinema ",
+        "credits": "3"
+    },
+    "AFR 191": {
+        "description": "Early African History ",
+        "credits": "3"
+    },
+    "AFR 192": {
+        "description": "Modern African History ",
+        "credits": "3"
+    },
+    "AFR 192H": {
+        "description": "Modern African History ",
+        "credits": "3"
+    },
+    "AFR 202N": {
+        "description": "Women, Gender, and Feminisms in Africa ",
+        "credits": "3"
+    },
+    "AFR 230N": {
+        "description": "Language and Social Justice ",
+        "credits": "3"
+    },
+    "AFR 435N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "AFR 449": {
+        "description": "Sport in African History ",
+        "credits": "3"
+    },
+    "AG 160": {
+        "description": "Introduction into Ethics and Issues in Agriculture ",
+        "credits": "3"
+    },
+    "AG 180N": {
+        "description": "Contemporary Issues in Food, Ag, Natural Resources, and Human Sciences ",
+        "credits": "3"
+    },
+    "AMST 3": {
+        "description": "The American Nation:  Historical Perspectives ",
+        "credits": "3"
+    },
+    "AMST 100": {
+        "description": "Introduction to American Studies ",
+        "credits": "3"
+    },
+    "AMST 103": {
+        "description": "American Masculinities ",
+        "credits": "3"
+    },
+    "AMST 104": {
+        "description": "Women and the American Experience ",
+        "credits": "3"
+    },
+    "AMST 105": {
+        "description": "American Popular Culture and Folklife ",
+        "credits": "3"
+    },
+    "AMST 106N": {
+        "description": "The Mass Media and Society ",
+        "credits": "3"
+    },
+    "AMST 127": {
+        "description": "Introduction to U.S. Latina/o History ",
+        "credits": "3"
+    },
+    "AMST 134": {
+        "description": "American Comedy ",
+        "credits": "3"
+    },
+    "AMST 135": {
+        "description": "Alternative Voices in American Literature ",
+        "credits": "3"
+    },
+    "AMST 140Y": {
+        "description": "Religion in American Life and Thought ",
+        "credits": "3"
+    },
+    "AMST 150": {
+        "description": "America in the 1960s: An Introduction ",
+        "credits": "3"
+    },
+    "AMST 150N": {
+        "description": "Western Pennsylvania Art, Literature, and Culture ",
+        "credits": "3"
+    },
+    "AMST 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "AMST 155": {
+        "description": "American Business History ",
+        "credits": "3"
+    },
+    "AMST 160N": {
+        "description": "Introduction to Asian American Studies ",
+        "credits": "3"
+    },
+    "AMST 161": {
+        "description": "The Battle of Gettysburg in American Historical Memory ",
+        "credits": "3"
+    },
+    "AMST 161N": {
+        "description": "Chinese in America, Americans in China ",
+        "credits": "3"
+    },
+    "AMST 170N": {
+        "description": "Introduction to American Folklore ",
+        "credits": "3"
+    },
+    "AMST 226N": {
+        "description": "Critical Approaches to Hip-Hop ",
+        "credits": "3"
+    },
+    "AMST 307N": {
+        "description": "American Art and Society ",
+        "credits": "3"
+    },
+    "AMST 308N": {
+        "description": "American Architecture ",
+        "credits": "3"
+    },
+    "AMST 309N": {
+        "description": "American Material Culture ",
+        "credits": "3"
+    },
+    "ANTH 2N": {
+        "description": "World Archaeology ",
+        "credits": "3"
+    },
+    "ANTH 9N": {
+        "description": "Rise of Civilization in the Old World ",
+        "credits": "3"
+    },
+    "ANTH 45N": {
+        "description": "Cultural Diversity: A Global Perspective ",
+        "credits": "3"
+    },
+    "ANTH 45Q": {
+        "description": "Cultural Diversity: A Global Perspective ",
+        "credits": "3"
+    },
+    "ANTH 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "ANTH 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "ANTH 221N": {
+        "description": "Ancient Maya: Sacred Blood & Conjured Serpent ",
+        "credits": "3"
+    },
+    "ANTH 434N": {
+        "description": "Black Ecologies ",
+        "credits": "3"
+    },
+    "ANTH 479": {
+        "description": "Tradition, Modernity, and Cultural Change in South Asian Societies ",
+        "credits": "3"
+    },
+    "APLNG 200": {
+        "description": "Introduction to Language, Culture, and Social Interaction ",
+        "credits": "3"
+    },
+    "APLNG 210": {
+        "description": "Global English ",
+        "credits": "3"
+    },
+    "APLNG 220N": {
+        "description": "Multilingual Lives: Stories of Language and Culture Learning ",
+        "credits": "3"
+    },
+    "APLNG 230N": {
+        "description": "Language and Social Justice ",
+        "credits": "3"
+    },
+    "APLNG 260": {
+        "description": "LANGUAGE AND TECHNOLOGY ",
+        "credits": "3"
+    },
+    "APLNG 280N": {
+        "description": "Conducting International Comparative Research ",
+        "credits": "3"
+    },
+    "ARAB 110": {
+        "description": "Arab Language, Cultures, and Current Topics ",
+        "credits": "3"
+    },
+    "ARAB 164": {
+        "description": "Introduction to the Qur'an ",
+        "credits": "3"
+    },
+    "ARAB 165": {
+        "description": "Islamic States, Societies and Cultures c. 600-1500 ",
+        "credits": "3"
+    },
+    "ART 197N": {
+        "description": "Special Topics - Interdomain ",
+        "credits": "1-9"
+    },
+    "ARTH 101N": {
+        "description": "Introduction to Global Art History ",
+        "credits": "3"
+    },
+    "ARTH 115N": {
+        "description": "Arts of Love ",
+        "credits": "3"
+    },
+    "ARTH 202N": {
+        "description": "Renaissance to Modern Architecture ",
+        "credits": "3"
+    },
+    "ARTH 224N": {
+        "description": "Authors and Artists ",
+        "credits": "3"
+    },
+    "ARTH 225N": {
+        "description": "Sexuality and Modern Visual Culture ",
+        "credits": "3"
+    },
+    "ARTH 292N": {
+        "description": "Witches and Witchcraft from the Middle Ages to the Present ",
+        "credits": "3"
+    },
+    "ARTH 307N": {
+        "description": "American Art and Society ",
+        "credits": "3"
+    },
+    "ARTH 308N": {
+        "description": "American Architecture ",
+        "credits": "3"
+    },
+    "ASIA 3": {
+        "description": "Introduction to the Religions of the East ",
+        "credits": "3"
+    },
+    "ASIA 4": {
+        "description": "Introduction to Asian Literatures ",
+        "credits": "3"
+    },
+    "ASIA 83S": {
+        "description": "Asian Studies First Year Seminar ",
+        "credits": "3"
+    },
+    "ASIA 100": {
+        "description": "What is Asia? ",
+        "credits": "3"
+    },
+    "ASIA 101N": {
+        "description": "Sports in Asia ",
+        "credits": "3"
+    },
+    "ASIA 102": {
+        "description": "Asian Popular Culture ",
+        "credits": "3"
+    },
+    "ASIA 103": {
+        "description": "Introduction to Hinduism ",
+        "credits": "3"
+    },
+    "ASIA 104": {
+        "description": "Introduction to Buddhism ",
+        "credits": "3"
+    },
+    "ASIA 105": {
+        "description": "War and Memory in Asia: Twentieth Century and beyond ",
+        "credits": "3"
+    },
+    "ASIA 106N": {
+        "description": "Asian Traditions of Health, Medicine, and the Body ",
+        "credits": "3"
+    },
+    "ASIA 107N": {
+        "description": "Bollywood: Seeing South Asia Through Cinema ",
+        "credits": "3"
+    },
+    "ASIA 120Y": {
+        "description": "South Asia: A Literary History ",
+        "credits": "3"
+    },
+    "ASIA 172": {
+        "description": "Introduction to Japanese Civilization ",
+        "credits": "3"
+    },
+    "ASIA 174": {
+        "description": "East Asia to 1800 ",
+        "credits": "3"
+    },
+    "ASIA 175": {
+        "description": "East Asia since 1800 ",
+        "credits": "3"
+    },
+    "ASIA 176": {
+        "description": "Survey of Indian History ",
+        "credits": "3"
+    },
+    "ASIA 177": {
+        "description": "Rise of Modern Southeast Asia ",
+        "credits": "3"
+    },
+    "ASIA 181": {
+        "description": "Introduction to the Religions of China and Japan ",
+        "credits": "3"
+    },
+    "ASIA 182": {
+        "description": "Asian Trade: Economy, Industrialization and Capitalism in Asia ",
+        "credits": "3"
+    },
+    "ASIA 183": {
+        "description": "Gender, Family, and Society in East Asia ",
+        "credits": "3"
+    },
+    "ASIA 186": {
+        "description": "The Silk Roads ",
+        "credits": "3"
+    },
+    "ASIA 188": {
+        "description": "Tibet: People, Places and Spaces ",
+        "credits": "3"
+    },
+    "ASIA 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "ASIA 200": {
+        "description": "What Are Asian Languages? ",
+        "credits": "3"
+    },
+    "ASIA 472": {
+        "description": "Tradition, Modernity, and Cultural Change in South Asian Societies ",
+        "credits": "3"
+    },
+    "ASTRO 19N": {
+        "description": "Being in the Universe ",
+        "credits": "3"
+    },
+    "AYFCE 211N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "BIOET 100": {
+        "description": "Bioethics ",
+        "credits": "3"
+    },
+    "BIOET 110N": {
+        "description": "Health, Illness, and the Human Condition ",
+        "credits": "3"
+    },
+    "BIOET 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "BIOET 401Q": {
+        "description": "Science, Ethics, Policy, and Law ",
+        "credits": "3"
+    },
+    "CAMS 1": {
+        "description": "Greek and Roman Literature ",
+        "credits": "3"
+    },
+    "CAMS 4": {
+        "description": "Jewish and Christian Foundations ",
+        "credits": "3"
+    },
+    "CAMS 5": {
+        "description": "Ancient Mediterranean Civilizations ",
+        "credits": "3"
+    },
+    "CAMS 10": {
+        "description": "Mesopotamian Civilization ",
+        "credits": "3"
+    },
+    "CAMS 10U": {
+        "description": "MESOPOTAMIAN CIVILIZATION ",
+        "credits": "3"
+    },
+    "CAMS 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "CAMS 15": {
+        "description": "Wonders of the Ancient World ",
+        "credits": "3"
+    },
+    "CAMS 16": {
+        "description": "How to Live ",
+        "credits": "3"
+    },
+    "CAMS 20": {
+        "description": "Egyptian Civilization ",
+        "credits": "3"
+    },
+    "CAMS 25": {
+        "description": "Greek Civilization ",
+        "credits": "3"
+    },
+    "CAMS 25U": {
+        "description": "Greek Civilization - Honors ",
+        "credits": "3"
+    },
+    "CAMS 33": {
+        "description": "Roman Civilization ",
+        "credits": "3"
+    },
+    "CAMS 44": {
+        "description": "Ancient Near Eastern and Egyptian Mythology ",
+        "credits": "3"
+    },
+    "CAMS 45": {
+        "description": "Classical Mythology ",
+        "credits": "3"
+    },
+    "CAMS 45H": {
+        "description": "Classical Mythology ",
+        "credits": "3"
+    },
+    "CAMS 50": {
+        "description": "Words: Classical Sources of English Vocabulary ",
+        "credits": "3"
+    },
+    "CAMS 70": {
+        "description": "Prophecy in the Bible and the Ancient Near East ",
+        "credits": "3"
+    },
+    "CAMS 83Y": {
+        "description": "First-Year Seminar in Classics and Ancient Mediterranean Studies ",
+        "credits": "3"
+    },
+    "CAMS 90": {
+        "description": "Jerusalem: Past, Present, and Future ",
+        "credits": "3"
+    },
+    "CAMS 100": {
+        "description": "Ancient Greece ",
+        "credits": "3"
+    },
+    "CAMS 101": {
+        "description": "The Roman Republic and Empire ",
+        "credits": "3"
+    },
+    "CAMS 102": {
+        "description": "Canaan and Israel in Antiquity ",
+        "credits": "3"
+    },
+    "CAMS 104": {
+        "description": "Ancient Egypt ",
+        "credits": "3"
+    },
+    "CAMS 105": {
+        "description": "History of the Ancient Near East ",
+        "credits": "3"
+    },
+    "CAMS 109Y": {
+        "description": "Writing Systems of the World ",
+        "credits": "3"
+    },
+    "CAMS 110": {
+        "description": "Introduction to the Bible: Old Testament ",
+        "credits": "3"
+    },
+    "CAMS 111": {
+        "description": "Early Judaism ",
+        "credits": "3"
+    },
+    "CAMS 113": {
+        "description": "Jewish Myths and Legends ",
+        "credits": "3"
+    },
+    "CAMS 115": {
+        "description": "Literature of the Ancient Near East ",
+        "credits": "3"
+    },
+    "CAMS 120": {
+        "description": "New Testament ",
+        "credits": "3"
+    },
+    "CAMS 121": {
+        "description": "Jesus the Jew ",
+        "credits": "3"
+    },
+    "CAMS 122": {
+        "description": "Apocalypse and Beyond ",
+        "credits": "3"
+    },
+    "CAMS 123": {
+        "description": "History of God: Origins of Monotheism ",
+        "credits": "3"
+    },
+    "CAMS 124": {
+        "description": "Early and Medieval Christianity ",
+        "credits": "3"
+    },
+    "CAMS 130": {
+        "description": "The Ancient World in Film ",
+        "credits": "3"
+    },
+    "CAMS 140": {
+        "description": "Classical Archaeology--Ancient Greece ",
+        "credits": "3"
+    },
+    "CAMS 142": {
+        "description": "Sport and Spectacle in the Ancient Mediterranean World ",
+        "credits": "3"
+    },
+    "CAMS 150": {
+        "description": "Classical Archaeology--Ancient Rome ",
+        "credits": "3"
+    },
+    "CAMS 153": {
+        "description": "Dead Sea Scrolls ",
+        "credits": "3"
+    },
+    "CAMS 160": {
+        "description": "Sacrifice in the Ancient World ",
+        "credits": "3"
+    },
+    "CAMS 180": {
+        "description": "Ancient Warfare ",
+        "credits": "3"
+    },
+    "CAMS 194": {
+        "description": "Jerusalem: Sacred and Profane ",
+        "credits": "3"
+    },
+    "CAMS 200": {
+        "description": "Ancient Philosophy ",
+        "credits": "3"
+    },
+    "CAS 84": {
+        "description": "First-Year Seminar in Communication Arts and Sciences ",
+        "credits": "3"
+    },
+    "CAS 101N": {
+        "description": "Introduction to Human Communication ",
+        "credits": "3"
+    },
+    "CAS 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "CAS 170N": {
+        "description": "What is Information? ",
+        "credits": "3"
+    },
+    "CAS 175N": {
+        "description": "Persuasion and Propaganda ",
+        "credits": "3"
+    },
+    "CAS 182N": {
+        "description": "Communication and Sport ",
+        "credits": "3"
+    },
+    "CAS 208N": {
+        "description": "Introduction to Managing Conflict and Bargaining ",
+        "credits": "3"
+    },
+    "CAS 210": {
+        "description": "Landmark Speeches on Democracy and Dissent ",
+        "credits": "3"
+    },
+    "CAS 214W": {
+        "description": "Speech Writing ",
+        "credits": "3"
+    },
+    "CAS 215": {
+        "description": "Argumentation ",
+        "credits": "3"
+    },
+    "CAS 222N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "CAS 232N": {
+        "description": "Identity, Citizenship, and the Rhetoric of American Horror Film ",
+        "credits": "3"
+    },
+    "CAS 255": {
+        "description": "Communicating Gender ",
+        "credits": "3"
+    },
+    "CAS 271N": {
+        "description": "Intercultural Communication ",
+        "credits": "3"
+    },
+    "CAS 272N": {
+        "description": "Political Communication and Technology ",
+        "credits": "3"
+    },
+    "CAS 297G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "CAS 301": {
+        "description": "Rhetorical Theory ",
+        "credits": "3"
+    },
+    "CAS 311": {
+        "description": "Methods of Rhetorical Criticism ",
+        "credits": "3"
+    },
+    "CAS 315": {
+        "description": "Debate and Civic Life ",
+        "credits": "3"
+    },
+    "CAS 321": {
+        "description": "Rhetoric and Law ",
+        "credits": "3"
+    },
+    "CAS 352": {
+        "description": "Organizational Communication ",
+        "credits": "3"
+    },
+    "CAS 373": {
+        "description": "The Rhetorics of War and Peace ",
+        "credits": "3"
+    },
+    "CAS 375": {
+        "description": "Rhetoric and Public Controversy ",
+        "credits": "3"
+    },
+    "CAS 383N": {
+        "description": "Culture and Technology ",
+        "credits": "3"
+    },
+    "CAS 478": {
+        "description": "Contemporary U.S. Political Rhetoric ",
+        "credits": "3"
+    },
+    "CED 102N": {
+        "description": "Wicked Problems Like Inequality, Sustainability & Climate Change: What's the Right Thing to Do? ",
+        "credits": "3"
+    },
+    "CED 109N": {
+        "description": "Gentrification in Everyday Life ",
+        "credits": "3"
+    },
+    "CED 160": {
+        "description": "Introduction into Ethics and Issues in Agriculture ",
+        "credits": "3"
+    },
+    "CED 400N": {
+        "description": "Exploring Indigenous Ways of Knowing in Great Lakes Region: Lecture ",
+        "credits": "3"
+    },
+    "CHEM 233N": {
+        "description": "Chemistry and Literature ",
+        "credits": "3"
+    },
+    "CHNS 120": {
+        "description": "Introduction to Chinese Literature and Culture ",
+        "credits": "3"
+    },
+    "CHNS 121N": {
+        "description": "Chinese Film and New Media ",
+        "credits": "3"
+    },
+    "CI 280": {
+        "description": "Introduction to Teaching English Language Learners ",
+        "credits": "3"
+    },
+    "CI 304N": {
+        "description": "Food, Farms & Justice: What's Education Got To Do With Them? ",
+        "credits": "3"
+    },
+    "CI 497N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "CIVCM 211N": {
+        "description": "Foundations: Civic and Community Engagement ",
+        "credits": "3"
+    },
+    "CMLIT 1": {
+        "description": "Introduction to Western Literatures Through the Renaissance ",
+        "credits": "3"
+    },
+    "CMLIT 3": {
+        "description": "Introduction to African Literatures ",
+        "credits": "3"
+    },
+    "CMLIT 4": {
+        "description": "Introduction to Asian Literatures ",
+        "credits": "3"
+    },
+    "CMLIT 5": {
+        "description": "Introduction to Literatures of the Americas ",
+        "credits": "3"
+    },
+    "CMLIT 6": {
+        "description": "Literature and Philosophy ",
+        "credits": "3"
+    },
+    "CMLIT 7": {
+        "description": "Introduction to Middle Eastern Literatures ",
+        "credits": "3"
+    },
+    "CMLIT 10": {
+        "description": "World Literatures ",
+        "credits": "3"
+    },
+    "CMLIT 10U": {
+        "description": "The Forms of World Literature:  A Global Perspective ",
+        "credits": "3"
+    },
+    "CMLIT 11": {
+        "description": "The Hero in World Literature ",
+        "credits": "3"
+    },
+    "CMLIT 12": {
+        "description": "Introduction to World Drama and Performance ",
+        "credits": "3"
+    },
+    "CMLIT 13": {
+        "description": "Virtual Worlds: Antiquity to the Present ",
+        "credits": "3"
+    },
+    "CMLIT 19N": {
+        "description": "Being in the Universe ",
+        "credits": "3"
+    },
+    "CMLIT 83S": {
+        "description": "First-Year Seminar in Comparative Literature ",
+        "credits": "3"
+    },
+    "CMLIT 100": {
+        "description": "Reading Across Cultures ",
+        "credits": "3"
+    },
+    "CMLIT 101": {
+        "description": "Race, Gender, and Identity in World Literature ",
+        "credits": "3"
+    },
+    "CMLIT 105": {
+        "description": "The Development of Literary Humor ",
+        "credits": "3"
+    },
+    "CMLIT 106": {
+        "description": "The Arthurian Legend ",
+        "credits": "3"
+    },
+    "CMLIT 107": {
+        "description": "Exploration, Travel, Migration, and Exile ",
+        "credits": "3"
+    },
+    "CMLIT 108": {
+        "description": "Myths and Mythologies ",
+        "credits": "3"
+    },
+    "CMLIT 109": {
+        "description": "Native American Myths, Legends, and Literatures ",
+        "credits": "3"
+    },
+    "CMLIT 110": {
+        "description": "Jewish Literature: An International Perspective ",
+        "credits": "3"
+    },
+    "CMLIT 111": {
+        "description": "Introduction to Literatures of India ",
+        "credits": "3"
+    },
+    "CMLIT 112N": {
+        "description": "Introduction to Global Drama, Theatre, and Performance ",
+        "credits": "3"
+    },
+    "CMLIT 113": {
+        "description": "Jewish Myths and Legends ",
+        "credits": "3"
+    },
+    "CMLIT 116": {
+        "description": "Jewish Great Books ",
+        "credits": "3"
+    },
+    "CMLIT 120": {
+        "description": "The Literature of the Occult ",
+        "credits": "3"
+    },
+    "CMLIT 122": {
+        "description": "Global Science Fictions ",
+        "credits": "3"
+    },
+    "CMLIT 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "CMLIT 130": {
+        "description": "Banned Books: International and Comparative Perspectives ",
+        "credits": "3"
+    },
+    "CMLIT 131": {
+        "description": "Crime and Detection in World Literature ",
+        "credits": "3"
+    },
+    "CMLIT 132": {
+        "description": "Nobel Prize Literature ",
+        "credits": "3"
+    },
+    "CMLIT 133N": {
+        "description": "Global Satire and Modern Politics ",
+        "credits": "3"
+    },
+    "CMLIT 140": {
+        "description": "Literature and the Other Arts: International and Comparative Perspectives ",
+        "credits": "3"
+    },
+    "CMLIT 141": {
+        "description": "Religion and Literature ",
+        "credits": "3"
+    },
+    "CMLIT 142": {
+        "description": "The Psychology of World Literature ",
+        "credits": "3"
+    },
+    "CMLIT 143": {
+        "description": "Human Rights and World Literature ",
+        "credits": "3"
+    },
+    "CMLIT 153": {
+        "description": "International Cultures: Film and Literature ",
+        "credits": "3"
+    },
+    "CMLIT 183Q": {
+        "description": "From Beast Books to Resurrecting Dinosaurs ",
+        "credits": "3"
+    },
+    "CMLIT 184": {
+        "description": "The Short Story ",
+        "credits": "3"
+    },
+    "CMLIT 185": {
+        "description": "World Novel ",
+        "credits": "3"
+    },
+    "CMLIT 191N": {
+        "description": "Introduction to Video Game Culture ",
+        "credits": "3"
+    },
+    "CMLIT 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "CMLIT 415": {
+        "description": "World Graphic Novels ",
+        "credits": "3"
+    },
+    "COMM 100N": {
+        "description": "The Mass Media and Society ",
+        "credits": "3"
+    },
+    "COMM 110": {
+        "description": "Media and Democracy ",
+        "credits": "3"
+    },
+    "COMM 150N": {
+        "description": "The Art of the Cinema ",
+        "credits": "3"
+    },
+    "COMM 150Q": {
+        "description": "The Art of the Cinema ",
+        "credits": "3"
+    },
+    "COMM 168": {
+        "description": "American Journalism: Values, Traditions, and Practices ",
+        "credits": "3"
+    },
+    "COMM 222N": {
+        "description": "Social Justice and the Image ",
+        "credits": "3"
+    },
+    "COMM 234N": {
+        "description": "Digital Cultures ",
+        "credits": "3"
+    },
+    "COMM 335N": {
+        "description": "Media, Social Justice, and the Public Humanities ",
+        "credits": "3"
+    },
+    "CRIM 225N": {
+        "description": "Organized Crime in Film and Society ",
+        "credits": "3"
+    },
+    "CRIMJ 159": {
+        "description": "History of the FBI ",
+        "credits": "3"
+    },
+    "CRIMJ 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "DART 102N": {
+        "description": "Introduction to 2d Digital Art and Technology ",
+        "credits": "3"
+    },
+    "DIGIT 100": {
+        "description": "Introduction to Digital Humanities ",
+        "credits": "3"
+    },
+    "EARTH 155N": {
+        "description": "Scientific Controversies and Public Debate ",
+        "credits": "3"
+    },
+    "ECON 472N": {
+        "description": "Russian Economic History ",
+        "credits": "3"
+    },
+    "EDUC 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "EDUC 466N": {
+        "description": "Foundations of Teaching English as a Second Language ",
+        "credits": "3"
+    },
+    "EMSC 240N": {
+        "description": "Energy and Sustainability in Contemporary Culture ",
+        "credits": "3"
+    },
+    "ENGL 2": {
+        "description": "The Great Traditions in English Literature ",
+        "credits": "3"
+    },
+    "ENGL 83S": {
+        "description": "First-Year Seminar in English ",
+        "credits": "3"
+    },
+    "ENGL 88": {
+        "description": "Australian/New Zealand Cultural Perspectives ",
+        "credits": "3"
+    },
+    "ENGL 101": {
+        "description": "Introduction to Literature ",
+        "credits": "3"
+    },
+    "ENGL 103": {
+        "description": "The Great Traditions in American Literature ",
+        "credits": "3"
+    },
+    "ENGL 104": {
+        "description": "The Bible as Literature ",
+        "credits": "3"
+    },
+    "ENGL 105": {
+        "description": "American Popular Culture and Folklife ",
+        "credits": "3"
+    },
+    "ENGL 108N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "ENGL 112": {
+        "description": "Pennsylvania Literature ",
+        "credits": "3"
+    },
+    "ENGL 114": {
+        "description": "Modern Pagan Traditions and Texts ",
+        "credits": "3"
+    },
+    "ENGL 115N": {
+        "description": "Arts of Love ",
+        "credits": "3"
+    },
+    "ENGL 118": {
+        "description": "Music and Literature ",
+        "credits": "3"
+    },
+    "ENGL 120": {
+        "description": "Difference in Early Literature ",
+        "credits": "3"
+    },
+    "ENGL 124": {
+        "description": "Legal Fictions: Law, Justice, Literature ",
+        "credits": "3"
+    },
+    "ENGL 125": {
+        "description": "On the Farm: Agriculture and Literature ",
+        "credits": "3"
+    },
+    "ENGL 126": {
+        "description": "Bad Literature ",
+        "credits": "3"
+    },
+    "ENGL 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "ENGL 129": {
+        "description": "Shakespeare ",
+        "credits": "3"
+    },
+    "ENGL 129H": {
+        "description": "Shakespeare ",
+        "credits": "3"
+    },
+    "ENGL 130": {
+        "description": "Reading Popular Texts ",
+        "credits": "3"
+    },
+    "ENGL 131": {
+        "description": "Weird Tales: Literature of Horror and the Supernatural ",
+        "credits": "3"
+    },
+    "ENGL 132": {
+        "description": "Jewish American Literature ",
+        "credits": "3"
+    },
+    "ENGL 133": {
+        "description": "Modern American Literature to World War II ",
+        "credits": "3"
+    },
+    "ENGL 134": {
+        "description": "American Comedy ",
+        "credits": "3"
+    },
+    "ENGL 135": {
+        "description": "Alternative Voices in American Literature ",
+        "credits": "3"
+    },
+    "ENGL 136": {
+        "description": "The Graphic Novel ",
+        "credits": "3"
+    },
+    "ENGL 139": {
+        "description": "African American Literature ",
+        "credits": "3"
+    },
+    "ENGL 140": {
+        "description": "Contemporary Literature ",
+        "credits": "3"
+    },
+    "ENGL 140H": {
+        "description": "Contemporary Literature - Honors ",
+        "credits": "3"
+    },
+    "ENGL 141N": {
+        "description": "African American Read-In Engaged Learning Experience ",
+        "credits": "1-3"
+    },
+    "ENGL 142N": {
+        "description": "Science in Literature ",
+        "credits": "3"
+    },
+    "ENGL 144": {
+        "description": "Everyday Rhetoric ",
+        "credits": "3"
+    },
+    "ENGL 145": {
+        "description": "Modern Irish Literature ",
+        "credits": "3"
+    },
+    "ENGL 161N": {
+        "description": "The Pursuit of Happiness in American Life: Historical Literature and Modern Practice ",
+        "credits": "3"
+    },
+    "ENGL 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "ENGL 163N": {
+        "description": "Defining the Animal ",
+        "credits": "3"
+    },
+    "ENGL 165N": {
+        "description": "Work and Literature ",
+        "credits": "3"
+    },
+    "ENGL 170N": {
+        "description": "Introduction to American Folklore ",
+        "credits": "3"
+    },
+    "ENGL 179": {
+        "description": "Exploring the Literature of Food: Current Trends in American Food Writing  and Environmentalism ",
+        "credits": "3"
+    },
+    "ENGL 180": {
+        "description": "Literature and the Natural World ",
+        "credits": "3"
+    },
+    "ENGL 181A": {
+        "description": "Adventure Literature: Exploring the Chesapeake Bay ",
+        "credits": "4.5"
+    },
+    "ENGL 181B": {
+        "description": "Adventure Literature: Exploring Cape Cod ",
+        "credits": "4.5"
+    },
+    "ENGL 181C": {
+        "description": "The Beach: Exploring the Literature of the Atlantic Shore ",
+        "credits": "4.5"
+    },
+    "ENGL 181D": {
+        "description": "Adventure Literature: Exploring the Literature of American Wilderness ",
+        "credits": "3"
+    },
+    "ENGL 182A": {
+        "description": "Literature and Empire ",
+        "credits": "3"
+    },
+    "ENGL 182C": {
+        "description": "Literature and Empire ",
+        "credits": "3"
+    },
+    "ENGL 183": {
+        "description": "Adventure Literature ",
+        "credits": "3-4.5"
+    },
+    "ENGL 183N": {
+        "description": "The Cold War in Literature, Politics, and History ",
+        "credits": "3"
+    },
+    "ENGL 184": {
+        "description": "The Short Story ",
+        "credits": "3"
+    },
+    "ENGL 185": {
+        "description": "World Novel ",
+        "credits": "3"
+    },
+    "ENGL 190Q": {
+        "description": "Medievalism ",
+        "credits": "3"
+    },
+    "ENGL 191": {
+        "description": "Science Fiction ",
+        "credits": "3"
+    },
+    "ENGL 192": {
+        "description": "The Literature of Fantasy ",
+        "credits": "3"
+    },
+    "ENGL 193N": {
+        "description": "The Craft of Comics ",
+        "credits": "3"
+    },
+    "ENGL 194": {
+        "description": "Women Writers ",
+        "credits": "3"
+    },
+    "ENGL 194H": {
+        "description": "Women Writers - Honors ",
+        "credits": "3"
+    },
+    "ENGL 194S": {
+        "description": "Women Writers ",
+        "credits": "3"
+    },
+    "ENGL 201": {
+        "description": "What is Literature ",
+        "credits": "3"
+    },
+    "ENGL 201H": {
+        "description": "What is Literature ",
+        "credits": "3"
+    },
+    "ENGL 205": {
+        "description": "Children's Literature ",
+        "credits": "3"
+    },
+    "ENGL 206": {
+        "description": "Business and Literature ",
+        "credits": "3"
+    },
+    "ENGL 208N": {
+        "description": "The Music of the Beatles and American Popular Culture ",
+        "credits": "3"
+    },
+    "ENGL 221": {
+        "description": "British Literature to 1798 ",
+        "credits": "3"
+    },
+    "ENGL 221W": {
+        "description": "British Literature to 1798 ",
+        "credits": "3"
+    },
+    "ENGL 222": {
+        "description": "British Literature from 1798 ",
+        "credits": "3"
+    },
+    "ENGL 222W": {
+        "description": "British Literature from 1798 ",
+        "credits": "3"
+    },
+    "ENGL 223N": {
+        "description": "Shakespeare: Page, Stage, and Screen ",
+        "credits": "3"
+    },
+    "ENGL 224N": {
+        "description": "Authors and Artists ",
+        "credits": "3"
+    },
+    "ENGL 225N": {
+        "description": "Sexuality and Modern Visual Culture ",
+        "credits": "3"
+    },
+    "ENGL 226": {
+        "description": "Latina  and Latino Border Theories ",
+        "credits": "3"
+    },
+    "ENGL 227": {
+        "description": "Introduction to Queer Theory ",
+        "credits": "3"
+    },
+    "ENGL 228": {
+        "description": "Introduction to Disability Studies in the Humanities ",
+        "credits": "3"
+    },
+    "ENGL 229": {
+        "description": "Digital Studies ",
+        "credits": "3"
+    },
+    "ENGL 231": {
+        "description": "American Literature to 1865 ",
+        "credits": "3"
+    },
+    "ENGL 231Y": {
+        "description": "American Literature to 1865 ",
+        "credits": "3"
+    },
+    "ENGL 232": {
+        "description": "American Literature from 1865 ",
+        "credits": "3"
+    },
+    "ENGL 232Y": {
+        "description": "American Literature from 1865 ",
+        "credits": "3"
+    },
+    "ENGL 233N": {
+        "description": "Chemistry and Literature ",
+        "credits": "3"
+    },
+    "ENGL 234": {
+        "description": "Sports, Ethics, and Literature ",
+        "credits": "3"
+    },
+    "ENGL 236N": {
+        "description": "Inequality: Economics, Philosophy, Literature ",
+        "credits": "3"
+    },
+    "ENGL 237N": {
+        "description": "Reading and Writing Documentary Poetry ",
+        "credits": "3"
+    },
+    "ENGL 240": {
+        "description": "Exploring Literary Traditions ",
+        "credits": "3"
+    },
+    "ENGL 245": {
+        "description": "Introduction to LGBTQ Studies ",
+        "credits": "3"
+    },
+    "ENGL 261": {
+        "description": "Exploring Literary Forms ",
+        "credits": "3"
+    },
+    "ENGL 262": {
+        "description": "Reading Fiction ",
+        "credits": "3"
+    },
+    "ENGL 263": {
+        "description": "Reading Poetry ",
+        "credits": "3"
+    },
+    "ENGL 265": {
+        "description": "Reading Nonfiction ",
+        "credits": "3"
+    },
+    "ENGL 268": {
+        "description": "Reading Drama ",
+        "credits": "3"
+    },
+    "ENGR 115N": {
+        "description": "Science, Humanity and Catastrophe: Scientific Discovery in Germany ",
+        "credits": "3"
+    },
+    "ENGR 467Q": {
+        "description": "Robots and Their Role in Society ",
+        "credits": "3"
+    },
+    "ENT 216N": {
+        "description": "Plagues Through the Ages ",
+        "credits": "3"
+    },
+    "ENVST 100N": {
+        "description": "Visions of Nature ",
+        "credits": "3"
+    },
+    "ESC 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "FDSC 134": {
+        "description": "Food, Values, and Health ",
+        "credits": "3"
+    },
+    "FR 137": {
+        "description": "Paris: Anatomy of a Global City ",
+        "credits": "3"
+    },
+    "FR 138N": {
+        "description": "French Culture Through Film ",
+        "credits": "3"
+    },
+    "FR 139": {
+        "description": "France and the French-speaking World ",
+        "credits": "3"
+    },
+    "GAME 160N": {
+        "description": "Introduction to Video Game Culture ",
+        "credits": "3"
+    },
+    "GD 115N": {
+        "description": "Visualizing Information ",
+        "credits": "3"
+    },
+    "GEOG 2N": {
+        "description": "Apocalyptic Geographies: How can we prevent the end of the world? ",
+        "credits": "3"
+    },
+    "GEOSC 97N": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "GEOSC 212N": {
+        "description": "Earthquakes and Human History ",
+        "credits": "3"
+    },
+    "GER 83": {
+        "description": "First-Year Seminar in German ",
+        "credits": "3"
+    },
+    "GER 100": {
+        "description": "German Culture and Civilization ",
+        "credits": "3"
+    },
+    "GER 115N": {
+        "description": "Science, Humanity and Catastrophe: Scientific Discovery in Germany ",
+        "credits": "3"
+    },
+    "GER 123": {
+        "description": "Genocide in Global perspectives: Twentieth Century and beyond ",
+        "credits": "3"
+    },
+    "GER 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "GER 143": {
+        "description": "The Culture of Stalinism and Nazism ",
+        "credits": "3"
+    },
+    "GER 157N": {
+        "description": "The Amish ",
+        "credits": "3"
+    },
+    "GER 166": {
+        "description": "Marx, Nietzsche, Freud ",
+        "credits": "3"
+    },
+    "GER 175": {
+        "description": "Germanic Heroic and Medieval Literature in English Translation ",
+        "credits": "3"
+    },
+    "GER 189N": {
+        "description": "German Film ",
+        "credits": "3"
+    },
+    "GER 190": {
+        "description": "Twentieth-Century German Literature in English Translation ",
+        "credits": "3"
+    },
+    "GER 197E": {
+        "description": "Special Topics GN/GH ",
+        "credits": "3"
+    },
+    "GER 200N": {
+        "description": "Contemporary German Culture ",
+        "credits": "3"
+    },
+    "GER 245": {
+        "description": "The Vikings ",
+        "credits": "3"
+    },
+    "GLIS 101N": {
+        "description": "Globalization ",
+        "credits": "3"
+    },
+    "GLIS 102N": {
+        "description": "Global Pathways ",
+        "credits": "3"
+    },
+    "HDFS 254N": {
+        "description": "Reading Our Lives: Understanding Diversity and Human Development through Memoirs ",
+        "credits": "3"
+    },
+    "HEBR 10": {
+        "description": "Jewish Civilization ",
+        "credits": "3"
+    },
+    "HHD 245N": {
+        "description": "Health, humanity, and longevity: Conversations with elders ",
+        "credits": "3"
+    },
+    "HHD 497I": {
+        "description": "Intergenerational Communication ",
+        "credits": "3"
+    },
+    "HHUM 220N": {
+        "description": "Ethics, Society, and Science Fiction ",
+        "credits": "3"
+    },
+    "HIST 1": {
+        "description": "Western Civilization I ",
+        "credits": "3"
+    },
+    "HIST 2": {
+        "description": "Western Civilization II ",
+        "credits": "3"
+    },
+    "HIST 2H": {
+        "description": "Western Civilization II ",
+        "credits": "3"
+    },
+    "HIST 3": {
+        "description": "The American Nation:  Historical Perspectives ",
+        "credits": "3"
+    },
+    "HIST 5": {
+        "description": "Ancient Mediterranean Civilizations ",
+        "credits": "3"
+    },
+    "HIST 6N": {
+        "description": "History and Weather: How Weather Played an Instrumental Role in Great World Events ",
+        "credits": "3"
+    },
+    "HIST 10": {
+        "description": "World History to 1500 ",
+        "credits": "3"
+    },
+    "HIST 11": {
+        "description": "World History since 1500 ",
+        "credits": "3"
+    },
+    "HIST 12": {
+        "description": "History of Pennsylvania ",
+        "credits": "3"
+    },
+    "HIST 20": {
+        "description": "American Civilization to 1877 ",
+        "credits": "3"
+    },
+    "HIST 20Y": {
+        "description": "American Civ to 1877Y ",
+        "credits": "3"
+    },
+    "HIST 21": {
+        "description": "American Civilization Since 1877 ",
+        "credits": "3"
+    },
+    "HIST 66": {
+        "description": "Survey of British History ",
+        "credits": "3"
+    },
+    "HIST 83": {
+        "description": "First-Year Seminar in History ",
+        "credits": "3"
+    },
+    "HIST 100": {
+        "description": "Ancient Greece ",
+        "credits": "3"
+    },
+    "HIST 101": {
+        "description": "The Roman Republic and Empire ",
+        "credits": "3"
+    },
+    "HIST 102": {
+        "description": "Canaan and Israel in Antiquity ",
+        "credits": "3"
+    },
+    "HIST 103": {
+        "description": "The History of Madness, Mental Illness, and Psychiatry ",
+        "credits": "3"
+    },
+    "HIST 104": {
+        "description": "Ancient Egypt ",
+        "credits": "3"
+    },
+    "HIST 105": {
+        "description": "The Byzantine Empire ",
+        "credits": "3"
+    },
+    "HIST 106": {
+        "description": "Early Modern Empires of Islam: The Ottomans, Safavids, and Mughals ",
+        "credits": "3"
+    },
+    "HIST 107": {
+        "description": "Medieval Europe ",
+        "credits": "3"
+    },
+    "HIST 108": {
+        "description": "Crusades: Holy War in the Middle Ages ",
+        "credits": "3"
+    },
+    "HIST 109": {
+        "description": "Introduction to U.S. Environmental History ",
+        "credits": "3"
+    },
+    "HIST 110": {
+        "description": "Introduction to Global Environmental History ",
+        "credits": "3"
+    },
+    "HIST 111": {
+        "description": "Introduction to U.S. Food History ",
+        "credits": "3"
+    },
+    "HIST 112": {
+        "description": "Introduction to Public History ",
+        "credits": "3"
+    },
+    "HIST 113": {
+        "description": "Baseball in Comparative History ",
+        "credits": "3"
+    },
+    "HIST 114N": {
+        "description": "Historical Perspectives on HealthCare Innovations ",
+        "credits": "3"
+    },
+    "HIST 115": {
+        "description": "The American Jewish Experience ",
+        "credits": "3"
+    },
+    "HIST 116N": {
+        "description": "Family and Gender Roles in Modern History ",
+        "credits": "3"
+    },
+    "HIST 117": {
+        "description": "Women in United States History ",
+        "credits": "3"
+    },
+    "HIST 118": {
+        "description": "Modern Jewish History ",
+        "credits": "3"
+    },
+    "HIST 119": {
+        "description": "Gender and History ",
+        "credits": "3"
+    },
+    "HIST 120N": {
+        "description": "History of Modern Europe since 1789 ",
+        "credits": "3"
+    },
+    "HIST 121": {
+        "description": "History of the Holocaust 1933-1945 ",
+        "credits": "3"
+    },
+    "HIST 122": {
+        "description": "History of Science I ",
+        "credits": "3"
+    },
+    "HIST 123": {
+        "description": "History of Science II ",
+        "credits": "3"
+    },
+    "HIST 124": {
+        "description": "History of Western Medicine ",
+        "credits": "3"
+    },
+    "HIST 125N": {
+        "description": "History of Infectious Disease and Epidemiology ",
+        "credits": "3"
+    },
+    "HIST 127": {
+        "description": "Introduction to U.S. Latina/o History ",
+        "credits": "3"
+    },
+    "HIST 128N": {
+        "description": "Cultural Perspectives on Mathematics ",
+        "credits": "3"
+    },
+    "HIST 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "HIST 130": {
+        "description": "Introduction to the Civil War Era, 1848 through 1877 ",
+        "credits": "3"
+    },
+    "HIST 130H": {
+        "description": "Introduction to the Civil War Era, 1848-1877 Honors ",
+        "credits": "3"
+    },
+    "HIST 131N": {
+        "description": "Slavery, the Civil War, and Cinema ",
+        "credits": "3"
+    },
+    "HIST 134": {
+        "description": "Great Britain and Ireland in the Early Modern World ",
+        "credits": "3"
+    },
+    "HIST 140": {
+        "description": "The History of the Israel-Palestine Conflict (1917-Present) ",
+        "credits": "3"
+    },
+    "HIST 141": {
+        "description": "Medieval and Modern Russia ",
+        "credits": "3"
+    },
+    "HIST 142N": {
+        "description": "History of Communism ",
+        "credits": "3"
+    },
+    "HIST 143N": {
+        "description": "History of Fascism and Nazism ",
+        "credits": "3"
+    },
+    "HIST 144": {
+        "description": "The World at War: 1939-1945 ",
+        "credits": "3"
+    },
+    "HIST 145N": {
+        "description": "The Holocaust and Human Rights ",
+        "credits": "3"
+    },
+    "HIST 148": {
+        "description": "History of Pennsylvania State University ",
+        "credits": "3"
+    },
+    "HIST 150": {
+        "description": "America in the 1960s: An Introduction ",
+        "credits": "3"
+    },
+    "HIST 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "HIST 152": {
+        "description": "African American History ",
+        "credits": "3"
+    },
+    "HIST 153": {
+        "description": "Native American History ",
+        "credits": "3"
+    },
+    "HIST 154": {
+        "description": "History of Welfare and Poverty in the United States ",
+        "credits": "3"
+    },
+    "HIST 155": {
+        "description": "American Business History ",
+        "credits": "3"
+    },
+    "HIST 157": {
+        "description": "Railroads and American Society ",
+        "credits": "3"
+    },
+    "HIST 158": {
+        "description": "History of American Immigration ",
+        "credits": "3"
+    },
+    "HIST 159": {
+        "description": "History of the FBI ",
+        "credits": "3"
+    },
+    "HIST 161": {
+        "description": "The Battle of Gettysburg in American Historical Memory ",
+        "credits": "3"
+    },
+    "HIST 162N": {
+        "description": "The Pursuit of Happiness in American Life: Historical Literature and Modern Practice ",
+        "credits": "3"
+    },
+    "HIST 164": {
+        "description": "The History of Brazil ",
+        "credits": "3"
+    },
+    "HIST 165": {
+        "description": "Islamic States, Societies and Cultures c. 600-1500 ",
+        "credits": "3"
+    },
+    "HIST 166": {
+        "description": "History of Sexuality ",
+        "credits": "3"
+    },
+    "HIST 169": {
+        "description": "The Indian Ocean World ",
+        "credits": "3"
+    },
+    "HIST 170": {
+        "description": "South Asia to 1500 ",
+        "credits": "3"
+    },
+    "HIST 172": {
+        "description": "Introduction to Japanese Civilization ",
+        "credits": "3"
+    },
+    "HIST 173": {
+        "description": "Vietnam in War and Peace ",
+        "credits": "3"
+    },
+    "HIST 174": {
+        "description": "East Asia to 1800 ",
+        "credits": "3"
+    },
+    "HIST 175": {
+        "description": "East Asia since 1800 ",
+        "credits": "3"
+    },
+    "HIST 176": {
+        "description": "Survey of Indian History ",
+        "credits": "3"
+    },
+    "HIST 177": {
+        "description": "Rise of Modern Southeast Asia ",
+        "credits": "3"
+    },
+    "HIST 178": {
+        "description": "Latin-American History to 1820 ",
+        "credits": "3"
+    },
+    "HIST 179": {
+        "description": "Latin-American History Since 1820 ",
+        "credits": "3"
+    },
+    "HIST 180": {
+        "description": "Ancient Warfare ",
+        "credits": "3"
+    },
+    "HIST 181": {
+        "description": "Introduction to the Middle East ",
+        "credits": "3"
+    },
+    "HIST 182": {
+        "description": "Asian Trade: Economy, Industrialization and Capitalism in Asia ",
+        "credits": "3"
+    },
+    "HIST 183": {
+        "description": "Gender, Family, and Society in East Asia ",
+        "credits": "3"
+    },
+    "HIST 184": {
+        "description": "Society and Culture in the Pacific War ",
+        "credits": "3"
+    },
+    "HIST 186": {
+        "description": "The Silk Roads ",
+        "credits": "3"
+    },
+    "HIST 188": {
+        "description": "Tibet: People, Places and Spaces ",
+        "credits": "3"
+    },
+    "HIST 190": {
+        "description": "The Middle East Today ",
+        "credits": "3"
+    },
+    "HIST 191": {
+        "description": "Early African History ",
+        "credits": "3"
+    },
+    "HIST 192": {
+        "description": "Modern African History ",
+        "credits": "3"
+    },
+    "HIST 192H": {
+        "description": "Modern African History ",
+        "credits": "3"
+    },
+    "HIST 193": {
+        "description": "Modern Iran ",
+        "credits": "3"
+    },
+    "HIST 194": {
+        "description": "Jerusalem: Sacred and Profane ",
+        "credits": "3"
+    },
+    "HIST 195": {
+        "description": "Genocide in Global perspectives: Twentieth Century and beyond ",
+        "credits": "3"
+    },
+    "HIST 197G": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "HIST 203N": {
+        "description": "History of Monsters, Aliens & the Supernatural ",
+        "credits": "3"
+    },
+    "HIST 210": {
+        "description": "Freedom's First Generation: African American Life and Work, from the Civil War to World War II ",
+        "credits": "3"
+    },
+    "HIST 211": {
+        "description": "Slavery and Freedom in the Black Atlantic ",
+        "credits": "3"
+    },
+    "HIST 212N": {
+        "description": "Earthquakes and Human History ",
+        "credits": "3"
+    },
+    "HIST 213Y": {
+        "description": "African American Women's History ",
+        "credits": "3"
+    },
+    "HIST 238N": {
+        "description": "Society and Culture in Palestine/Israel ",
+        "credits": "3"
+    },
+    "HIST 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "HIST 245": {
+        "description": "Middle Eastern Cities ",
+        "credits": "3"
+    },
+    "HIST 250": {
+        "description": "Introduction to the Caribbean ",
+        "credits": "3"
+    },
+    "HIST 252": {
+        "description": "Revolutions in the Middle East ",
+        "credits": "3"
+    },
+    "HIST 255N": {
+        "description": "History of the Book ",
+        "credits": "3"
+    },
+    "HIST 260": {
+        "description": "The Middle East in Film ",
+        "credits": "3"
+    },
+    "HIST 266Y": {
+        "description": "Sexuality and Violence in Nineteenth-Century America ",
+        "credits": "3"
+    },
+    "HIST 292N": {
+        "description": "Witches and Witchcraft from the Middle Ages to the Present ",
+        "credits": "3"
+    },
+    "HIST 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "HIST 402N": {
+        "description": "Russian Economic History ",
+        "credits": "3"
+    },
+    "HIST 423": {
+        "description": "Orthodox Christianity: History and Interpretations ",
+        "credits": "3"
+    },
+    "HM 210N": {
+        "description": "The Impact of Culture and Customs in Global Hospitality Environments ",
+        "credits": "3"
+    },
+    "HUM 100N": {
+        "description": "Foundations in the Humanities: Understanding the Human Experience ",
+        "credits": "3"
+    },
+    "HUM 101": {
+        "description": "Transformative Texts Part 1: Foundational Knowledge ",
+        "credits": "3"
+    },
+    "HUM 102": {
+        "description": "Transformative Texts Part 2: Contemporary Issues & Practical Perspectives ",
+        "credits": "3"
+    },
+    "HUM 150N": {
+        "description": "World Mythologies in the Arts ",
+        "credits": "3"
+    },
+    "HUM 197N": {
+        "description": "Special Topics - InterDomain ",
+        "credits": "1-9"
+    },
+    "HUM 200N": {
+        "description": "Explorations in the Humanities: The Quest ",
+        "credits": "3"
+    },
+    "HUM 300N": {
+        "description": "Interpretations in the Humanities ",
+        "credits": "3"
+    },
+    "HUM 400N": {
+        "description": "Expressions in the Humanities ",
+        "credits": "3"
+    },
+    "INART 55N": {
+        "description": "History of Electronic Music ",
+        "credits": "3"
+    },
+    "INART 126N": {
+        "description": "The Popular Arts in America: The History of Hip-Hop ",
+        "credits": "3"
+    },
+    "INART 141N": {
+        "description": "African American Read-In Engaged Learning Experience ",
+        "credits": "1-3"
+    },
+    "INART 203Q": {
+        "description": "Medievalism ",
+        "credits": "3"
+    },
+    "INART 226N": {
+        "description": "Critical Approaches to Hip-Hop ",
+        "credits": "3"
+    },
+    "IST 144N": {
+        "description": "Invasion of Technology from a 21st Century Perspective ",
+        "credits": "3"
+    },
+    "IST 170N": {
+        "description": "What is Information? ",
+        "credits": "3"
+    },
+    "IST 234N": {
+        "description": "Digital Cultures ",
+        "credits": "3"
+    },
+    "IT 83": {
+        "description": "First-Year Seminar in Italian Literature, Film, and Culture ",
+        "credits": "3"
+    },
+    "IT 130": {
+        "description": "Italian Culture and Civilization ",
+        "credits": "3"
+    },
+    "IT 131": {
+        "description": "Introduction to Italian American Culture ",
+        "credits": "3"
+    },
+    "IT 140": {
+        "description": "Italian Language & Culture for Study Abroad ",
+        "credits": "3"
+    },
+    "IT 175": {
+        "description": "Italian Language and Culture for Embedded Experiences Abroad ",
+        "credits": "3"
+    },
+    "IT 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "IT 225N": {
+        "description": "Organized Crime in Film and Society ",
+        "credits": "3"
+    },
+    "IT 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "IT 325": {
+        "description": "Italy's Inspiration for Your Life ",
+        "credits": "3"
+    },
+    "JAPNS 120": {
+        "description": "Japanese Literature in Its Cultural Context ",
+        "credits": "3"
+    },
+    "JAPNS 120W": {
+        "description": "Japanese Literature in its Cultural Context ",
+        "credits": "3"
+    },
+    "JAPNS 121N": {
+        "description": "Japanese Film and New Media ",
+        "credits": "3"
+    },
+    "JAPNS 121Q": {
+        "description": "Japanese Film and New Media ",
+        "credits": "3"
+    },
+    "JAPNS 122": {
+        "description": "Gods to Godzilla: A Survey of Japanese Culture ",
+        "credits": "3"
+    },
+    "JAPNS 172": {
+        "description": "Introduction to Japanese Civilization ",
+        "credits": "3"
+    },
+    "JST 4": {
+        "description": "Jewish and Christian Foundations ",
+        "credits": "3"
+    },
+    "JST 10": {
+        "description": "Jewish Civilization ",
+        "credits": "3"
+    },
+    "JST 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "JST 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "JST 70": {
+        "description": "Prophecy in the Bible and the Ancient Near East ",
+        "credits": "3"
+    },
+    "JST 83": {
+        "description": "First-Year Seminar in Jewish Studies ",
+        "credits": "3"
+    },
+    "JST 90": {
+        "description": "Jerusalem: Past, Present, and Future ",
+        "credits": "3"
+    },
+    "JST 102": {
+        "description": "Canaan and Israel in Antiquity ",
+        "credits": "3"
+    },
+    "JST 104": {
+        "description": "The Bible as Literature ",
+        "credits": "3"
+    },
+    "JST 106": {
+        "description": "Mysticism and Kabbalah ",
+        "credits": "3"
+    },
+    "JST 110": {
+        "description": "Introduction to the Bible: Old Testament ",
+        "credits": "3"
+    },
+    "JST 111": {
+        "description": "Early Judaism ",
+        "credits": "3"
+    },
+    "JST 112": {
+        "description": "Jesus the Jew ",
+        "credits": "3"
+    },
+    "JST 113": {
+        "description": "Jewish Myths and Legends ",
+        "credits": "3"
+    },
+    "JST 114": {
+        "description": "Modern Judaism ",
+        "credits": "3"
+    },
+    "JST 115": {
+        "description": "The American Jewish Experience ",
+        "credits": "3"
+    },
+    "JST 116": {
+        "description": "Jewish Great Books ",
+        "credits": "3"
+    },
+    "JST 118": {
+        "description": "Modern Jewish History ",
+        "credits": "3"
+    },
+    "JST 120": {
+        "description": "New Testament ",
+        "credits": "3"
+    },
+    "JST 121": {
+        "description": "History of the Holocaust 1933-1945 ",
+        "credits": "3"
+    },
+    "JST 122": {
+        "description": "Apocalypse and Beyond ",
+        "credits": "3"
+    },
+    "JST 123": {
+        "description": "History of God: Origins of Monotheism ",
+        "credits": "3"
+    },
+    "JST 124": {
+        "description": "Early and Medieval Christianity ",
+        "credits": "3"
+    },
+    "JST 128N": {
+        "description": "The Holocaust in Film and Literature ",
+        "credits": "3"
+    },
+    "JST 131": {
+        "description": "Jewish Literature: An International Perspective ",
+        "credits": "3"
+    },
+    "JST 132": {
+        "description": "Jewish American Literature ",
+        "credits": "3"
+    },
+    "JST 135": {
+        "description": "Ethics in Jewish Tradition and Thought ",
+        "credits": "3"
+    },
+    "JST 140": {
+        "description": "The History of the Israel-Palestine Conflict (1917-Present) ",
+        "credits": "3"
+    },
+    "JST 143N": {
+        "description": "History of Fascism and Nazism ",
+        "credits": "3"
+    },
+    "JST 153": {
+        "description": "Dead Sea Scrolls ",
+        "credits": "3"
+    },
+    "JST 160": {
+        "description": "Sacrifice in the Ancient World ",
+        "credits": "3"
+    },
+    "JST 181": {
+        "description": "Introduction to the Middle East ",
+        "credits": "3"
+    },
+    "JST 186": {
+        "description": "The Silk Roads ",
+        "credits": "3"
+    },
+    "JST 190": {
+        "description": "The Middle East Today ",
+        "credits": "3"
+    },
+    "JST 193": {
+        "description": "Modern Iran ",
+        "credits": "3"
+    },
+    "JST 194": {
+        "description": "Jerusalem: Sacred and Profane ",
+        "credits": "3"
+    },
+    "JST 195": {
+        "description": "Genocide in Global perspectives: Twentieth Century and beyond ",
+        "credits": "3"
+    },
+    "JST 197G": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "JST 260": {
+        "description": "The Middle East in Film ",
+        "credits": "3"
+    },
+    "KINES 53N": {
+        "description": "History and Practice of Martial Arts ",
+        "credits": "3"
+    },
+    "KINES 197N": {
+        "description": "Special Topics - Interdomain ",
+        "credits": "1-9"
+    },
+    "KINES 419": {
+        "description": "Disability Sport and Recreation ",
+        "credits": "3"
+    },
+    "KINES 449": {
+        "description": "Sport in African History ",
+        "credits": "3"
+    },
+    "KOR 120": {
+        "description": "Introduction to Korean Culture ",
+        "credits": "3"
+    },
+    "KOR 121": {
+        "description": "Korean Popular Culture ",
+        "credits": "3"
+    },
+    "LA 135N": {
+        "description": "College, Work, and Citizenship in the 21st Century ",
+        "credits": "3"
+    },
+    "LA 335N": {
+        "description": "Media, Social Justice, and the Public Humanities ",
+        "credits": "3"
+    },
+    "LHR 165N": {
+        "description": "Work and Literature ",
+        "credits": "3"
+    },
+    "LLED 215N": {
+        "description": "Children's Picture Books as Multimodal Texts ",
+        "credits": "3"
+    },
+    "LLED 227": {
+        "description": "Understanding Childhood through Children\u00bfs Literature: Books, Media, Toys ",
+        "credits": "3"
+    },
+    "LLED 235": {
+        "description": "Chinese Culture in Child Lit ",
+        "credits": "3"
+    },
+    "LTNST 100": {
+        "description": "Introduction to Latina/o Studies ",
+        "credits": "3"
+    },
+    "LTNST 127": {
+        "description": "Introduction to U.S. Latina/o History ",
+        "credits": "3"
+    },
+    "LTNST 139": {
+        "description": "Latino/a Philosophy ",
+        "credits": "3"
+    },
+    "LTNST 226": {
+        "description": "Latina  and Latino Border Theories ",
+        "credits": "3"
+    },
+    "LTNST 300": {
+        "description": "Latinx Gender and Sexuality Studies ",
+        "credits": "3"
+    },
+    "LTNST 315N": {
+        "description": "Spanish and Spanish-speakers in the U.S. ",
+        "credits": "3"
+    },
+    "LTNST 326": {
+        "description": "Reading the BorderLands: Geography and Identity Along the U.S.-Mexico Border ",
+        "credits": "3"
+    },
+    "LTNST 479": {
+        "description": "U.S. Latina/o Culture en Espanol ",
+        "credits": "3"
+    },
+    "MATSE 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "MEDVL 107": {
+        "description": "Medieval Europe ",
+        "credits": "3"
+    },
+    "MEDVL 108": {
+        "description": "Medieval Civilization ",
+        "credits": "3"
+    },
+    "METEO 6N": {
+        "description": "History and Weather: How Weather Played an Instrumental Role in Great World Events ",
+        "credits": "3"
+    },
+    "METEO 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "MUSIC 209N": {
+        "description": "The Music of the Beatles and American Popular Culture ",
+        "credits": "3"
+    },
+    "NUTR 297N": {
+        "description": "Special Topics - Inter Domain ",
+        "credits": "1-9"
+    },
+    "PHIL 1": {
+        "description": "The Big Questions ",
+        "credits": "3"
+    },
+    "PHIL 2": {
+        "description": "Individuals in Society ",
+        "credits": "3"
+    },
+    "PHIL 3": {
+        "description": "Ethical Life ",
+        "credits": "3"
+    },
+    "PHIL 4": {
+        "description": "The Human Condition ",
+        "credits": "3"
+    },
+    "PHIL 5": {
+        "description": "Film and Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 6": {
+        "description": "Literature and Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 7": {
+        "description": "Asian Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 8": {
+        "description": "Gender Matters ",
+        "credits": "3"
+    },
+    "PHIL 9": {
+        "description": "Race, Racism, and Diversity ",
+        "credits": "3"
+    },
+    "PHIL 10": {
+        "description": "Critical Thinking ",
+        "credits": "3"
+    },
+    "PHIL 11": {
+        "description": "Science and Truth ",
+        "credits": "3"
+    },
+    "PHIL 13": {
+        "description": "Nature and Environment ",
+        "credits": "3"
+    },
+    "PHIL 14": {
+        "description": "Love and Sex ",
+        "credits": "3"
+    },
+    "PHIL 15": {
+        "description": "How to Live ",
+        "credits": "3"
+    },
+    "PHIL 60N": {
+        "description": "Philosophy and 1960s Counterculture ",
+        "credits": "3"
+    },
+    "PHIL 83": {
+        "description": "First-Year Seminar in Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 102": {
+        "description": "Existentialism ",
+        "credits": "3"
+    },
+    "PHIL 103": {
+        "description": "Ethics ",
+        "credits": "3"
+    },
+    "PHIL 103H": {
+        "description": "Honors Ethics ",
+        "credits": "3"
+    },
+    "PHIL 103W": {
+        "description": "Ethics ",
+        "credits": "3"
+    },
+    "PHIL 105": {
+        "description": "Philosophy of Law ",
+        "credits": "3"
+    },
+    "PHIL 105H": {
+        "description": "Honors Philosophy of Law ",
+        "credits": "3"
+    },
+    "PHIL 106": {
+        "description": "Business Ethics ",
+        "credits": "3"
+    },
+    "PHIL 107": {
+        "description": "Philosophy of Technology ",
+        "credits": "3"
+    },
+    "PHIL 108": {
+        "description": "Social and Political Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 108H": {
+        "description": "Honors Social and Political Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 108W": {
+        "description": "Social and Political Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 109": {
+        "description": "Aesthetics ",
+        "credits": "3"
+    },
+    "PHIL 110": {
+        "description": "Philosophy of Science ",
+        "credits": "3"
+    },
+    "PHIL 113": {
+        "description": "Philosophy of Literature ",
+        "credits": "3"
+    },
+    "PHIL 114": {
+        "description": "Feminist Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 115": {
+        "description": "Philosophy and Education ",
+        "credits": "3"
+    },
+    "PHIL 118": {
+        "description": "Environmental Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 119": {
+        "description": "Ethical Leadership ",
+        "credits": "3"
+    },
+    "PHIL 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "PHIL 122": {
+        "description": "Philosophy of History ",
+        "credits": "3"
+    },
+    "PHIL 123": {
+        "description": "Media Ethics ",
+        "credits": "3"
+    },
+    "PHIL 124": {
+        "description": "Philosophy of Religion ",
+        "credits": "3"
+    },
+    "PHIL 125": {
+        "description": "Theories of Knowledge ",
+        "credits": "3"
+    },
+    "PHIL 125W": {
+        "description": "Theories of Knowledge ",
+        "credits": "3"
+    },
+    "PHIL 126": {
+        "description": "Metaphysics ",
+        "credits": "3"
+    },
+    "PHIL 126W": {
+        "description": "Metaphysics ",
+        "credits": "3"
+    },
+    "PHIL 127": {
+        "description": "Philosophy of Mind ",
+        "credits": "3"
+    },
+    "PHIL 129": {
+        "description": "Philosophy of Language ",
+        "credits": "3"
+    },
+    "PHIL 131N": {
+        "description": "BS: Identifying Bias and Falsehood ",
+        "credits": "3"
+    },
+    "PHIL 132": {
+        "description": "Bioethics ",
+        "credits": "3"
+    },
+    "PHIL 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "PHIL 134": {
+        "description": "Food, Values, and Health ",
+        "credits": "3"
+    },
+    "PHIL 135": {
+        "description": "Ethics in Jewish Tradition and Thought ",
+        "credits": "3"
+    },
+    "PHIL 136N": {
+        "description": "Art and Philosophy in Ancient Greece ",
+        "credits": "3"
+    },
+    "PHIL 137N": {
+        "description": "Introduction to Philosophy through Health and Sport ",
+        "credits": "3"
+    },
+    "PHIL 139": {
+        "description": "Latino/a Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 197G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "PHIL 200": {
+        "description": "Ancient Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 201": {
+        "description": "Medieval Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 202": {
+        "description": "Modern Philosophy: 1600-1800 ",
+        "credits": "3"
+    },
+    "PHIL 203": {
+        "description": "Nineteenth Century Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 204": {
+        "description": "Twentieth Century Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 205": {
+        "description": "American Philosophy: 1840-Present ",
+        "credits": "3"
+    },
+    "PHIL 208": {
+        "description": "Contemporary Philosophy ",
+        "credits": "3"
+    },
+    "PHIL 233": {
+        "description": "Ethics and the Design of Technology ",
+        "credits": "3"
+    },
+    "PHIL 242N": {
+        "description": "Happiness and Well-Being ",
+        "credits": "3"
+    },
+    "PHIL 297G": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "PLANT 129N": {
+        "description": "Chocolate Worlds ",
+        "credits": "3"
+    },
+    "PLSC 7N": {
+        "description": "Contemporary Political Ideologies ",
+        "credits": "3"
+    },
+    "PLSC 17N": {
+        "description": "Introduction to Political Theory ",
+        "credits": "3"
+    },
+    "PLSC 17W": {
+        "description": "Introduction to Political Theory ",
+        "credits": "3"
+    },
+    "PLSC 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "PLSC 111": {
+        "description": "Debating the Purpose of Government ",
+        "credits": "3"
+    },
+    "PLSC 112N": {
+        "description": "Ethics in Citizenship, Politics, and Government ",
+        "credits": "3"
+    },
+    "PLSC 120N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "PLSC 177N": {
+        "description": "Politics and Government in Washington DC ",
+        "credits": "1-3"
+    },
+    "PLSC 183N": {
+        "description": "The Cold War in Literature, Politics, and History ",
+        "credits": "3"
+    },
+    "PLSC 200N": {
+        "description": "Government and Politics of Europe ",
+        "credits": "3"
+    },
+    "PLSC 201N": {
+        "description": "Politics & Religion: Controversies Around the World ",
+        "credits": "3"
+    },
+    "PLSC 210N": {
+        "description": "Rights in America ",
+        "credits": "3"
+    },
+    "PLSC 223N": {
+        "description": "Ethnic and Racial Politics ",
+        "credits": "3"
+    },
+    "PLSC 267N": {
+        "description": "Government and Politics of the Middle East ",
+        "credits": "3"
+    },
+    "PLSC 290N": {
+        "description": "Comparative Violence: Political and Criminological Perspectives ",
+        "credits": "3"
+    },
+    "PORT 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "PSYCH 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "PUBPL 120N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "RLST 1": {
+        "description": "Introduction to World Religions ",
+        "credits": "3"
+    },
+    "RLST 3": {
+        "description": "Introduction to the Religions of the East ",
+        "credits": "3"
+    },
+    "RLST 4": {
+        "description": "Jewish and Christian Foundations ",
+        "credits": "3"
+    },
+    "RLST 12N": {
+        "description": "Lands of the Bible ",
+        "credits": "3"
+    },
+    "RLST 44": {
+        "description": "Ancient Near Eastern and Egyptian Mythology ",
+        "credits": "3"
+    },
+    "RLST 70": {
+        "description": "Prophecy in the Bible and the Ancient Near East ",
+        "credits": "3"
+    },
+    "RLST 90": {
+        "description": "Jerusalem: Past, Present, and Future ",
+        "credits": "3"
+    },
+    "RLST 102": {
+        "description": "Canaan and Israel in Antiquity ",
+        "credits": "3"
+    },
+    "RLST 103": {
+        "description": "Introduction to Hinduism ",
+        "credits": "3"
+    },
+    "RLST 104": {
+        "description": "Introduction to Buddhism ",
+        "credits": "3"
+    },
+    "RLST 105N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "RLST 106": {
+        "description": "Mysticism and Kabbalah ",
+        "credits": "3"
+    },
+    "RLST 107": {
+        "description": "Introduction to Islam ",
+        "credits": "3"
+    },
+    "RLST 108": {
+        "description": "Myths and Mythologies ",
+        "credits": "3"
+    },
+    "RLST 110": {
+        "description": "Introduction to the Bible: Old Testament ",
+        "credits": "3"
+    },
+    "RLST 111": {
+        "description": "Early Judaism ",
+        "credits": "3"
+    },
+    "RLST 113": {
+        "description": "Jewish Myths and Legends ",
+        "credits": "3"
+    },
+    "RLST 114": {
+        "description": "Modern Judaism ",
+        "credits": "3"
+    },
+    "RLST 115": {
+        "description": "The American Jewish Experience ",
+        "credits": "3"
+    },
+    "RLST 116": {
+        "description": "Muslims in America ",
+        "credits": "3"
+    },
+    "RLST 120": {
+        "description": "New Testament ",
+        "credits": "3"
+    },
+    "RLST 121": {
+        "description": "Jesus the Jew ",
+        "credits": "3"
+    },
+    "RLST 122": {
+        "description": "Apocalypse and Beyond ",
+        "credits": "3"
+    },
+    "RLST 123": {
+        "description": "History of God: Origins of Monotheism ",
+        "credits": "3"
+    },
+    "RLST 124": {
+        "description": "Early and Medieval Christianity ",
+        "credits": "3"
+    },
+    "RLST 129": {
+        "description": "Philosophy of Religion ",
+        "credits": "3"
+    },
+    "RLST 133N": {
+        "description": "Ethics of Climate Change ",
+        "credits": "3"
+    },
+    "RLST 135": {
+        "description": "Ethics in Jewish Tradition and Thought ",
+        "credits": "3"
+    },
+    "RLST 137": {
+        "description": "Gender, Sexuality, and Religion ",
+        "credits": "3"
+    },
+    "RLST 140Y": {
+        "description": "Religion in American Life and Thought ",
+        "credits": "3"
+    },
+    "RLST 145": {
+        "description": "African Diaspora Religions and Spiritualities ",
+        "credits": "3"
+    },
+    "RLST 146": {
+        "description": "The Life and Thought of Martin Luther King, Jr. ",
+        "credits": "3"
+    },
+    "RLST 147": {
+        "description": "The Life and Thought of Malcolm X ",
+        "credits": "3"
+    },
+    "RLST 153": {
+        "description": "Dead Sea Scrolls ",
+        "credits": "3"
+    },
+    "RLST 160": {
+        "description": "Sacrifice in the Ancient World ",
+        "credits": "3"
+    },
+    "RLST 164": {
+        "description": "Introduction to the Qur'an ",
+        "credits": "3"
+    },
+    "RLST 165": {
+        "description": "Islamic States, Societies and Cultures c. 600-1500 ",
+        "credits": "3"
+    },
+    "RLST 181": {
+        "description": "Introduction to the Religions of China and Japan ",
+        "credits": "3"
+    },
+    "RLST 194": {
+        "description": "Jerusalem: Sacred and Profane ",
+        "credits": "3"
+    },
+    "RLST 280": {
+        "description": "Gendering the Divine in Indian and South Asian Religions ",
+        "credits": "3"
+    },
+    "RLST 423": {
+        "description": "Orthodox Christianity: History and Interpretations ",
+        "credits": "3"
+    },
+    "RSOC 400N": {
+        "description": "Exploring Indigenous Ways of Knowing in Great Lakes Region: Lecture ",
+        "credits": "3"
+    },
+    "RUS 83": {
+        "description": "First-Year Seminar in Russian ",
+        "credits": "3"
+    },
+    "RUS 100": {
+        "description": "Russian Culture and Civilization ",
+        "credits": "3"
+    },
+    "RUS 101N": {
+        "description": "Russian Cinema ",
+        "credits": "3"
+    },
+    "RUS 110": {
+        "description": "Russian Folklore ",
+        "credits": "3"
+    },
+    "RUS 143": {
+        "description": "The Culture of Stalinism and Nazism ",
+        "credits": "3"
+    },
+    "RUS 144": {
+        "description": "Multicultural Russia: Narratives of Race and Ethnicity in Russian Literature and Culture ",
+        "credits": "3"
+    },
+    "RUS 145": {
+        "description": "Putin\u00bfs Russia and Its Protest Culture ",
+        "credits": "3"
+    },
+    "SC 120N": {
+        "description": "Plants, Places, and People ",
+        "credits": "3"
+    },
+    "SC 125N": {
+        "description": "History of Infectious Disease and Epidemiology ",
+        "credits": "3"
+    },
+    "SC 142N": {
+        "description": "Science in Literature ",
+        "credits": "3"
+    },
+    "SC 183Q": {
+        "description": "From Beast Books to Resurrecting Dinosaurs ",
+        "credits": "3"
+    },
+    "SC 205N": {
+        "description": "BS: Identifying Bias and Falsehood ",
+        "credits": "3"
+    },
+    "SC 475N": {
+        "description": "Anatomy in Italy: Cadavers, Culture, and Science ",
+        "credits": "3"
+    },
+    "SOC 60N": {
+        "description": "Society and Cultures in Modern Israel ",
+        "credits": "3"
+    },
+    "SOC 103": {
+        "description": "Racism and Sexism ",
+        "credits": "3"
+    },
+    "SOC 119N": {
+        "description": "Race, Ethnicity and Culture ",
+        "credits": "3-4"
+    },
+    "SOC 120N": {
+        "description": "Knowing Right from Wrong ",
+        "credits": "3"
+    },
+    "SOC 130N": {
+        "description": "Buddhism and US Society ",
+        "credits": "3"
+    },
+    "SOC 145N": {
+        "description": "The Holocaust and Human Rights ",
+        "credits": "3"
+    },
+    "SOC 162N": {
+        "description": "Communicating Care ",
+        "credits": "3"
+    },
+    "SOC 180N": {
+        "description": "State, Society, and Public Policy ",
+        "credits": "3"
+    },
+    "SOC 205N": {
+        "description": "Critical Race Theory in the Humanities and Social Sciences ",
+        "credits": "3"
+    },
+    "SOC 245N": {
+        "description": "Globalization, Technology, and Ethics ",
+        "credits": "3"
+    },
+    "SOC 369": {
+        "description": "Foundational Theory and Practice in Small Group Facilitation ",
+        "credits": "3-4"
+    },
+    "SPAN 130": {
+        "description": "Iberian Civilization ",
+        "credits": "3"
+    },
+    "SPAN 131": {
+        "description": "Ibero-American Civilization ",
+        "credits": "3"
+    },
+    "SPAN 131Y": {
+        "description": "Ibero-American Civilization ",
+        "credits": "3"
+    },
+    "SPAN 132": {
+        "description": "Afro-Hispanic Civilization ",
+        "credits": "3"
+    },
+    "SPAN 210N": {
+        "description": "Multilingual and Intercultural Communication ",
+        "credits": "3"
+    },
+    "SPAN 253W": {
+        "description": "Introduction to Hispanic Literature ",
+        "credits": "3"
+    },
+    "SPAN 269N": {
+        "description": "Theater and Performance ",
+        "credits": "3"
+    },
+    "SPAN 315N": {
+        "description": "Spanish and Spanish-speakers in the U.S. ",
+        "credits": "3"
+    },
+    "SPAN 326": {
+        "description": "Reading the BorderLands: Geography and Identity Along the U.S.-Mexico Border ",
+        "credits": "3"
+    },
+    "SPAN 479": {
+        "description": "U.S. Latina/o Culture en Espanol ",
+        "credits": "3"
+    },
+    "SSED 100N": {
+        "description": "Foundations of History and Social Studies Concepts for K-8 Teachers ",
+        "credits": "3"
+    },
+    "STS 110N": {
+        "description": "Chemistry in World Wars I and II ",
+        "credits": "3"
+    },
+    "STS 124": {
+        "description": "History of Western Medicine ",
+        "credits": "3"
+    },
+    "STS 151N": {
+        "description": "Technology and Society in American History ",
+        "credits": "3"
+    },
+    "STS 233": {
+        "description": "Ethics and the Design of Technology ",
+        "credits": "3"
+    },
+    "STS 235": {
+        "description": "Science and Religion ",
+        "credits": "3"
+    },
+    "STS 245N": {
+        "description": "Globalization, Technology, and Ethics ",
+        "credits": "3"
+    },
+    "SUST 242N": {
+        "description": "Issues in Sustainability ",
+        "credits": "3"
+    },
+    "THEA 206": {
+        "description": "Critical Theory for Performance ",
+        "credits": "3"
+    },
+    "UKR 100": {
+        "description": "Ukrainian Culture and Civilization ",
+        "credits": "3"
+    },
+    "WMNST 8": {
+        "description": "Gender Matters ",
+        "credits": "3"
+    },
+    "WMNST 83N": {
+        "description": "First-Year Seminar in Women's Studies ",
+        "credits": "3"
+    },
+    "WMNST 101N": {
+        "description": "African American Women ",
+        "credits": "3"
+    },
+    "WMNST 102": {
+        "description": "Women of the African Diaspora ",
+        "credits": "3"
+    },
+    "WMNST 103": {
+        "description": "Racism and Sexism ",
+        "credits": "3"
+    },
+    "WMNST 104": {
+        "description": "Women and the American Experience ",
+        "credits": "3"
+    },
+    "WMNST 105N": {
+        "description": "Living in a Diverse World ",
+        "credits": "3"
+    },
+    "WMNST 106N": {
+        "description": "Representing Women and Gender in Literature, Art and Popular Cultures ",
+        "credits": "3"
+    },
+    "WMNST 106Q": {
+        "description": "Representing Women and Gender in Literature, Art and Popular Cultures ",
+        "credits": "3"
+    },
+    "WMNST 116N": {
+        "description": "Family and Gender Roles in Modern History ",
+        "credits": "3"
+    },
+    "WMNST 117": {
+        "description": "Women in United States History ",
+        "credits": "3"
+    },
+    "WMNST 117H": {
+        "description": "Women in Modern History ",
+        "credits": "3"
+    },
+    "WMNST 137": {
+        "description": "Gender, Sexuality, and Religion ",
+        "credits": "3"
+    },
+    "WMNST 166": {
+        "description": "History of Sexuality ",
+        "credits": "3"
+    },
+    "WMNST 175N": {
+        "description": "Fashion, Gender, and Identity ",
+        "credits": "3"
+    },
+    "WMNST 194": {
+        "description": "Women Writers ",
+        "credits": "3"
+    },
+    "WMNST 197G": {
+        "description": "Special Topics - GenEd ",
+        "credits": "1-9"
+    },
+    "WMNST 202N": {
+        "description": "Women, Gender, and Feminisms in Africa ",
+        "credits": "3"
+    },
+    "WMNST 213Y": {
+        "description": "African American Women's History ",
+        "credits": "3"
+    },
+    "WMNST 225N": {
+        "description": "Sexuality and Modern Visual Culture ",
+        "credits": "3"
+    },
+    "WMNST 227": {
+        "description": "Introduction to Queer Theory ",
+        "credits": "3"
+    },
+    "WMNST 230N": {
+        "description": "Dangerous Bodies ",
+        "credits": "3"
+    },
+    "WMNST 240Q": {
+        "description": "Artistic Patronage in Europe ",
+        "credits": "3"
+    },
+    "WMNST 245": {
+        "description": "Introduction to LGBTQ Studies ",
+        "credits": "3"
+    },
+    "WMNST 266Y": {
+        "description": "Sexuality and Violence in Nineteenth-Century America ",
+        "credits": "3"
+    },
+    "WMNST 280": {
+        "description": "Gendering the Divine in Indian and South Asian Religions ",
+        "credits": "3"
+    },
+    "WMNST 297N": {
+        "description": "Special Topics ",
+        "credits": "1-9"
+    },
+    "WMNST 300": {
+        "description": "Latinx Gender and Sexuality Studies ",
+        "credits": "3"
+    },
+    "WMNST 301N": {
+        "description": "Sexualities, Gender and Power: Feminist Thought and Politics ",
+        "credits": "3"
+    },
+    "WMNST 364N": {
+        "description": "Black & White Sexuality ",
+        "credits": "3"
+    },
+    "WMNST 400N": {
+        "description": "Debates in Contemporary Feminism ",
+        "credits": "3"
+    }
+}
